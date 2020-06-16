@@ -1321,7 +1321,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:42:47+05:30",
+      "last_updated": "2020-06-16T22:52:47+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-15",
@@ -2868,7 +2868,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:42:49+05:30",
+      "last_updated": "2020-06-16T22:44:49+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-16",
@@ -4224,7 +4224,8 @@
     "meta": {
       "last_updated": "2020-06-16T18:54:55+05:30",
       "tested": {
-        "last_updated": "2020-06-16"
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/HealthNagaland/status/1272890889338314762/photo/1"
       }
     },
     "total": {
@@ -5161,7 +5162,9 @@
   },
   "TG": {
     "delta": {
-      "confirmed": 213
+      "confirmed": 213,
+      "deceased": 4,
+      "recovered": 261
     },
     "districts": {
       "Adilabad": {
@@ -5382,10 +5385,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 4,
+          "recovered": 261
+        },
         "total": {
           "confirmed": 450,
-          "deceased": 157,
-          "recovered": 2215
+          "deceased": 161,
+          "recovered": 2476
         }
       },
       "Vikarabad": {
@@ -5421,7 +5428,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:42:51+05:30",
+      "last_updated": "2020-06-16T22:52:50+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5429,8 +5436,8 @@
     },
     "total": {
       "confirmed": 5406,
-      "deceased": 187,
-      "recovered": 2766,
+      "deceased": 191,
+      "recovered": 3027,
       "tested": 23388
     }
   },
@@ -5923,7 +5930,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:42:53+05:30",
+      "last_updated": "2020-06-16T22:52:52+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/482"
@@ -5939,12 +5946,12 @@
   "TT": {
     "delta": {
       "confirmed": 9744,
-      "deceased": 1961,
-      "recovered": 6771,
+      "deceased": 1965,
+      "recovered": 7032,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T22:43:47+05:30",
+      "last_updated": "2020-06-16T22:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
@@ -5952,9 +5959,9 @@
     },
     "total": {
       "confirmed": 352815,
-      "deceased": 11878,
+      "deceased": 11882,
       "migrated": 44,
-      "recovered": 187095,
+      "recovered": 187356,
       "tested": 5921069
     }
   },
