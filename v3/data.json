@@ -1328,16 +1328,18 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 9,
+      "recovered": 7
     },
     "districts": {
       "Dadra and Nagar Haveli": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 7
         },
         "total": {
           "confirmed": 39,
-          "recovered": 2
+          "recovered": 9
         }
       },
       "Daman": {
@@ -1357,7 +1359,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:43:54+05:30",
+      "last_updated": "2020-06-16T21:52:55+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/DnhPublicity/status/1272191063860494336"
@@ -1365,7 +1367,7 @@
     },
     "total": {
       "confirmed": 48,
-      "recovered": 2,
+      "recovered": 9,
       "tested": 18445
     }
   },
@@ -2093,12 +2095,18 @@
     }
   },
   "JH": {
+    "delta": {
+      "recovered": 121
+    },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 29,
           "deceased": 2,
-          "recovered": 23
+          "recovered": 24
         }
       },
       "Chatra": {
@@ -2114,9 +2122,12 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 114,
-          "recovered": 96
+          "recovered": 100
         }
       },
       "Dumka": {
@@ -2132,9 +2143,12 @@
         }
       },
       "Garhwa": {
+        "delta": {
+          "recovered": 23
+        },
         "total": {
           "confirmed": 90,
-          "recovered": 60
+          "recovered": 83
         }
       },
       "Giridih": {
@@ -2170,28 +2184,40 @@
         }
       },
       "Khunti": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 22,
-          "recovered": 8
+          "recovered": 16
         }
       },
       "Koderma": {
+        "delta": {
+          "recovered": 22
+        },
         "total": {
           "confirmed": 128,
           "deceased": 1,
-          "recovered": 42
+          "recovered": 64
         }
       },
       "Latehar": {
+        "delta": {
+          "recovered": 16
+        },
         "total": {
           "confirmed": 52,
-          "recovered": 28
+          "recovered": 44
         }
       },
       "Lohardaga": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 40,
-          "recovered": 28
+          "recovered": 31
         }
       },
       "Pakur": {
@@ -2207,16 +2233,22 @@
         }
       },
       "Ramgarh": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 108,
-          "recovered": 68
+          "recovered": 69
         }
       },
       "Ranchi": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 180,
           "deceased": 4,
-          "recovered": 131
+          "recovered": 132
         }
       },
       "Sahibganj": {
@@ -2226,15 +2258,21 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "recovered": 30
+        },
         "total": {
           "confirmed": 36,
-          "recovered": 13
+          "recovered": 43
         }
       },
       "Simdega": {
+        "delta": {
+          "recovered": 12
+        },
         "total": {
           "confirmed": 246,
-          "recovered": 131
+          "recovered": 143
         }
       },
       "West Singhbhum": {
@@ -2245,7 +2283,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T07:28:47+05:30",
+      "last_updated": "2020-06-16T21:52:52+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/FOBGumla/status/1272579760363761665?s=09"
@@ -2254,7 +2292,7 @@
     "total": {
       "confirmed": 1793,
       "deceased": 9,
-      "recovered": 1000,
+      "recovered": 1121,
       "tested": 108576
     }
   },
@@ -2490,19 +2528,14 @@
       "recovered": 322
     },
     "districts": {
-      "Bagalakote": {
+      "Bagalkote": {
         "delta": {
           "recovered": 2
         },
         "total": {
-          "recovered": 2
-        }
-      },
-      "Bagalkote": {
-        "total": {
           "confirmed": 107,
           "deceased": 1,
-          "recovered": 89
+          "recovered": 91
         }
       },
       "Ballari": {
@@ -2669,17 +2702,12 @@
         }
       },
       "Kolar": {
-        "total": {
-          "confirmed": 48,
-          "recovered": 26
-        }
-      },
-      "Kolara": {
         "delta": {
           "recovered": 1
         },
         "total": {
-          "recovered": 1
+          "confirmed": 48,
+          "recovered": 27
         }
       },
       "Koppal": {
@@ -3505,22 +3533,17 @@
   },
   "MP": {
     "delta": {
-      "confirmed": 134,
+      "confirmed": 135,
       "deceased": 11,
       "recovered": 249
     },
     "districts": {
-      "Agar  Malwa": {
+      "Agar Malwa": {
         "delta": {
           "confirmed": 1
         },
         "total": {
-          "confirmed": 1
-        }
-      },
-      "Agar Malwa": {
-        "total": {
-          "confirmed": 15,
+          "confirmed": 16,
           "deceased": 1,
           "recovered": 12
         }
@@ -3974,14 +3997,6 @@
           "recovered": 6
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": -1
-        },
-        "total": {
-          "confirmed": -1
-        }
-      },
       "Vidisha": {
         "delta": {
           "recovered": 1
@@ -3993,14 +4008,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:37:49+05:30",
+      "last_updated": "2020-06-16T21:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/healthminmp/status/1272538287186432000?s=09"
       }
     },
     "total": {
-      "confirmed": 11069,
+      "confirmed": 11070,
       "deceased": 476,
       "recovered": 8152,
       "tested": 258040
@@ -5811,23 +5826,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4912,
+      "confirmed": 4913,
       "deceased": 115,
-      "recovered": 4205,
+      "recovered": 4333,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T21:43:46+05:30",
+      "last_updated": "2020-06-16T21:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 347983,
+      "confirmed": 347984,
       "deceased": 10033,
       "migrated": 43,
-      "recovered": 184523,
+      "recovered": 184651,
       "tested": 5921069
     }
   },
@@ -6506,7 +6521,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:43:50+05:30",
+      "last_updated": "2020-06-16T21:52:50+05:30",
       "notes": "12 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-16",
