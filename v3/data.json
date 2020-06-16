@@ -1248,7 +1248,7 @@
     "delta": {
       "confirmed": 1859,
       "deceased": 437,
-      "recovered": 520
+      "recovered": 73
     },
     "districts": {
       "Central Delhi": {
@@ -1306,12 +1306,12 @@
         "delta": {
           "confirmed": 1859,
           "deceased": 437,
-          "recovered": 520
+          "recovered": 73
         },
         "total": {
           "confirmed": 43900,
           "deceased": 1836,
-          "recovered": 16947
+          "recovered": 16500
         }
       },
       "West Delhi": {
@@ -1321,7 +1321,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:55:48+05:30",
+      "last_updated": "2020-06-16T23:35:40+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-15",
@@ -1331,7 +1331,7 @@
     "total": {
       "confirmed": 44688,
       "deceased": 1837,
-      "recovered": 16947,
+      "recovered": 16500,
       "tested": 296697
     }
   },
@@ -1430,7 +1430,8 @@
     "delta": {
       "confirmed": 524,
       "deceased": 28,
-      "recovered": 418
+      "recovered": 418,
+      "tested": 3426
     },
     "districts": {
       "Ahmedabad": {
@@ -1767,15 +1768,15 @@
     "meta": {
       "last_updated": "2020-06-16T20:24:47+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/484?single"
+        "last_updated": "2020-06-16",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/504?single"
       }
     },
     "total": {
       "confirmed": 24628,
       "deceased": 1534,
       "recovered": 17090,
-      "tested": 292909
+      "tested": 296335
     }
   },
   "HP": {
@@ -4818,7 +4819,7 @@
   "RJ": {
     "delta": {
       "confirmed": 235,
-      "deceased": 1,
+      "deceased": 7,
       "recovered": 177,
       "tested": 13038
     },
@@ -4835,11 +4836,12 @@
       },
       "Alwar": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "deceased": 1
         },
         "total": {
           "confirmed": 313,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 89
         }
       },
@@ -4875,11 +4877,12 @@
       "Bharatpur": {
         "delta": {
           "confirmed": 69,
+          "deceased": 1,
           "recovered": 66
         },
         "total": {
           "confirmed": 1069,
-          "deceased": 18,
+          "deceased": 19,
           "recovered": 531
         }
       },
@@ -4942,11 +4945,12 @@
       },
       "Dholpur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 1
         },
         "total": {
           "confirmed": 188,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 60
         }
       },
@@ -4986,11 +4990,12 @@
       },
       "Jaipur": {
         "delta": {
-          "confirmed": 41
+          "confirmed": 41,
+          "deceased": 1
         },
         "total": {
           "confirmed": 2614,
-          "deceased": 137,
+          "deceased": 138,
           "recovered": 1990
         }
       },
@@ -5063,11 +5068,12 @@
       "Nagaur": {
         "delta": {
           "confirmed": 1,
+          "deceased": 1,
           "recovered": 26
         },
         "total": {
           "confirmed": 555,
-          "deceased": 9,
+          "deceased": 10,
           "recovered": 486
         }
       },
@@ -5129,11 +5135,12 @@
       "Sirohi": {
         "delta": {
           "confirmed": 4,
+          "deceased": 1,
           "recovered": 6
         },
         "total": {
           "confirmed": 312,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 159
         }
       },
@@ -5160,14 +5167,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T23:23:47+05:30",
+      "last_updated": "2020-06-16T23:35:42+05:30",
       "tested": {
-        "last_updated": "2020-06-16"
+        "last_updated": "2020-06-16",
+        "source": "https://t.me/indiacovid/7444?single"
       }
     },
     "total": {
       "confirmed": 13216,
-      "deceased": 302,
+      "deceased": 308,
       "recovered": 9962,
       "tested": 622334
     }
@@ -5175,7 +5183,8 @@
   "SK": {
     "delta": {
       "confirmed": 4,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 430
     },
     "districts": {
       "East Sikkim": {
@@ -5210,14 +5219,14 @@
     "meta": {
       "last_updated": "2020-06-16T20:45:54+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/488"
+        "last_updated": "2020-06-16",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/507"
       }
     },
     "total": {
       "confirmed": 72,
       "recovered": 8,
-      "tested": 5762
+      "tested": 6192
     }
   },
   "TG": {
@@ -5506,7 +5515,8 @@
     "delta": {
       "confirmed": 1515,
       "deceased": 49,
-      "recovered": 1438
+      "recovered": 1438,
+      "tested": 19242
     },
     "districts": {
       "Airport Quarantine": {
@@ -5912,21 +5922,22 @@
       "last_updated": "2020-06-16T19:53:48+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-15.-06.2020-20-Pages-English-657.4-KB-.pdf"
+        "last_updated": "2020-06-16",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-16.06.2020-21-Pages-English-437.6-KB.pdf"
       }
     },
     "total": {
       "confirmed": 48019,
       "deceased": 528,
       "recovered": 26782,
-      "tested": 729002
+      "tested": 748244
     }
   },
   "TR": {
     "delta": {
       "confirmed": 6,
-      "recovered": 123
+      "recovered": 123,
+      "tested": 1525
     },
     "districts": {
       "Dhalai": {
@@ -5993,26 +6004,26 @@
     "meta": {
       "last_updated": "2020-06-16T22:55:54+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/482"
+        "last_updated": "2020-06-16",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/505"
       }
     },
     "total": {
       "confirmed": 1095,
       "deceased": 1,
       "recovered": 556,
-      "tested": 47683
+      "tested": 49208
     }
   },
   "TT": {
     "delta": {
       "confirmed": 9864,
-      "deceased": 1965,
-      "recovered": 7200,
+      "deceased": 1971,
+      "recovered": 6753,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T23:23:46+05:30",
+      "last_updated": "2020-06-16T23:35:37+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
@@ -6020,9 +6031,9 @@
     },
     "total": {
       "confirmed": 352935,
-      "deceased": 11882,
+      "deceased": 11888,
       "migrated": 44,
-      "recovered": 187524,
+      "recovered": 187077,
       "tested": 5921069
     }
   },
@@ -6720,7 +6731,8 @@
     "delta": {
       "confirmed": 415,
       "deceased": 10,
-      "recovered": 534
+      "recovered": 534,
+      "tested": 8512
     },
     "districts": {
       "Alipurduar": {
@@ -6969,15 +6981,15 @@
     "meta": {
       "last_updated": "2020-06-16T19:44:51+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_JUNE_REPORT_FINAL.pdf"
+        "last_updated": "2020-06-16",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 11909,
       "deceased": 495,
       "recovered": 6028,
-      "tested": 343242
+      "tested": 351754
     }
   }
 }
