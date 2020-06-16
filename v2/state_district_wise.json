@@ -310,12 +310,12 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 57,
-        "confirmed": 57,
+        "active": 60,
+        "confirmed": 60,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -492,12 +492,12 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 8,
-        "confirmed": 10,
+        "active": 9,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3275,12 +3275,12 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 206,
-        "confirmed": 258,
+        "active": 220,
+        "confirmed": 272,
         "deceased": 0,
         "recovered": 52,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -3288,12 +3288,12 @@
       {
         "district": "Garhwa",
         "notes": "",
-        "active": 7,
-        "confirmed": 90,
+        "active": 8,
+        "confirmed": 91,
         "deceased": 0,
         "recovered": 83,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 23
         }
@@ -3327,12 +3327,12 @@
       {
         "district": "Gumla",
         "notes": "",
-        "active": 35,
-        "confirmed": 89,
+        "active": 36,
+        "confirmed": 90,
         "deceased": 1,
         "recovered": 53,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3405,12 +3405,12 @@
       {
         "district": "Lohardaga",
         "notes": "",
-        "active": 9,
-        "confirmed": 40,
+        "active": 10,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 3
         }
@@ -3444,12 +3444,12 @@
       {
         "district": "Ramgarh",
         "notes": "",
-        "active": 39,
-        "confirmed": 108,
+        "active": 41,
+        "confirmed": 110,
         "deceased": 0,
         "recovered": 69,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 1
         }
@@ -3457,12 +3457,12 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 44,
-        "confirmed": 180,
+        "active": 47,
+        "confirmed": 183,
         "deceased": 4,
         "recovered": 132,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 1
         }
@@ -3496,12 +3496,12 @@
       {
         "district": "Simdega",
         "notes": "",
-        "active": 103,
-        "confirmed": 246,
+        "active": 127,
+        "confirmed": 270,
         "deceased": 0,
         "recovered": 143,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 12
         }
@@ -4966,6 +4966,19 @@
         "confirmed": 190,
         "deceased": 3,
         "recovered": 137,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -510,
+        "confirmed": 2701,
+        "deceased": 1409,
+        "recovered": 1802,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

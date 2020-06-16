@@ -216,10 +216,16 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 57
+          "confirmed": 60
         }
       },
       "East Siang": {
@@ -256,8 +262,11 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 2
         }
       },
@@ -289,14 +298,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T23:24:49+05:30",
+      "last_updated": "2020-06-16T22:02:52+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/489"
       }
     },
     "total": {
-      "confirmed": 95,
+      "confirmed": 99,
       "recovered": 7,
       "tested": 15453
     }
@@ -1359,7 +1368,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:52:55+05:30",
+      "last_updated": "2020-06-16T22:00:56+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/DnhPublicity/status/1272191063860494336"
@@ -2096,6 +2105,7 @@
   },
   "JH": {
     "delta": {
+      "confirmed": 46,
       "recovered": 121
     },
     "districts": {
@@ -2137,17 +2147,21 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 258,
+          "confirmed": 272,
           "recovered": 52
         }
       },
       "Garhwa": {
         "delta": {
+          "confirmed": 1,
           "recovered": 23
         },
         "total": {
-          "confirmed": 90,
+          "confirmed": 91,
           "recovered": 83
         }
       },
@@ -2165,8 +2179,11 @@
         }
       },
       "Gumla": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 90,
           "deceased": 1,
           "recovered": 53
         }
@@ -2213,10 +2230,11 @@
       },
       "Lohardaga": {
         "delta": {
+          "confirmed": 1,
           "recovered": 3
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "recovered": 31
         }
       },
@@ -2234,19 +2252,21 @@
       },
       "Ramgarh": {
         "delta": {
+          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 108,
+          "confirmed": 110,
           "recovered": 69
         }
       },
       "Ranchi": {
         "delta": {
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 180,
+          "confirmed": 183,
           "deceased": 4,
           "recovered": 132
         }
@@ -2268,10 +2288,11 @@
       },
       "Simdega": {
         "delta": {
+          "confirmed": 24,
           "recovered": 12
         },
         "total": {
-          "confirmed": 246,
+          "confirmed": 270,
           "recovered": 143
         }
       },
@@ -2283,14 +2304,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:52:52+05:30",
+      "last_updated": "2020-06-16T22:02:50+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/FOBGumla/status/1272579760363761665?s=09"
       }
     },
     "total": {
-      "confirmed": 1793,
+      "confirmed": 1839,
       "deceased": 9,
       "recovered": 1121,
       "tested": 108576
@@ -3067,6 +3088,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 2701,
+      "deceased": 1409,
+      "recovered": 1802,
       "tested": 15140
     },
     "districts": {
@@ -3301,6 +3325,18 @@
           "recovered": 7890
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 2701,
+          "deceased": 1409,
+          "recovered": 1802
+        },
+        "total": {
+          "confirmed": 2701,
+          "deceased": 1409,
+          "recovered": 1802
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 14,
@@ -3324,18 +3360,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:19:48+05:30",
-      "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts",
+      "last_updated": "2020-06-16T22:02:47+05:30",
+      "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/Maha_MEDD/status/1272769236868362242?s=19"
       }
     },
     "total": {
-      "confirmed": 110744,
-      "deceased": 4128,
+      "confirmed": 113445,
+      "deceased": 5537,
       "migrated": 13,
-      "recovered": 56049,
+      "recovered": 57851,
       "tested": 686488
     }
   },
@@ -4008,7 +4044,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:52:48+05:30",
+      "last_updated": "2020-06-16T22:00:50+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/healthminmp/status/1272538287186432000?s=09"
@@ -5745,7 +5781,7 @@
     },
     "meta": {
       "last_updated": "2020-06-16T19:53:48+05:30",
-      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
+      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-15.-06.2020-20-Pages-English-657.4-KB-.pdf"
@@ -5826,23 +5862,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4913,
-      "deceased": 115,
-      "recovered": 4333,
+      "confirmed": 7664,
+      "deceased": 1524,
+      "recovered": 6135,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T21:52:46+05:30",
+      "last_updated": "2020-06-16T22:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 347984,
-      "deceased": 10033,
+      "confirmed": 350735,
+      "deceased": 11442,
       "migrated": 43,
-      "recovered": 184651,
+      "recovered": 186453,
       "tested": 5921069
     }
   },
