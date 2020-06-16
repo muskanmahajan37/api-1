@@ -5212,25 +5212,30 @@
     "districts": {
       "East Sikkim": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": -3
         },
         "total": {
-          "confirmed": 27,
-          "recovered": 5
+          "confirmed": 24,
+          "recovered": 2
         }
       },
       "South Sikkim": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 24
+          "confirmed": 27,
+          "recovered": 2
         }
       },
       "Unknown": {
         "delta": {
-          "recovered": 3
+          "recovered": 4
         },
         "total": {
           "confirmed": 1,
-          "recovered": 3
+          "recovered": 4
         }
       },
       "West Sikkim": {
@@ -5958,7 +5963,7 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 6,
+      "confirmed": 1,
       "recovered": 123,
       "tested": 1525
     },
@@ -5989,10 +5994,10 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 522,
+          "confirmed": 518,
           "recovered": 99
         }
       },
@@ -6017,22 +6022,25 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 88,
           "deceased": 1,
           "recovered": 20
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:55:54+05:30",
+      "last_updated": "2020-06-17T00:23:48+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/505"
       }
     },
     "total": {
-      "confirmed": 1095,
+      "confirmed": 1090,
       "deceased": 1,
       "recovered": 556,
       "tested": 49208
@@ -6040,20 +6048,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10135,
+      "confirmed": 10130,
       "deceased": 1971,
       "recovered": 6753,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-17T00:05:46+05:30",
+      "last_updated": "2020-06-17T00:23:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 353206,
+      "confirmed": 353201,
       "deceased": 11888,
       "migrated": 44,
       "recovered": 187077,
