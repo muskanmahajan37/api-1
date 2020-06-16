@@ -6941,13 +6941,13 @@
         "delta": {
           "confirmed": 12,
           "deceased": 2,
-          "migrated": 2,
+          "migrated": 1,
           "recovered": 21
         },
         "total": {
           "confirmed": 461,
           "deceased": 16,
-          "migrated": 6,
+          "migrated": 5,
           "recovered": 244
         }
       },
@@ -7018,8 +7018,10 @@
       },
       "Unknown": {
         "delta": {
-          "deceased": -1,
-          "migrated": -1
+          "deceased": -1
+        },
+        "total": {
+          "migrated": 1
         }
       },
       "Uttarkashi": {
