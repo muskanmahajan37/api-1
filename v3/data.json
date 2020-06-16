@@ -11,15 +11,15 @@
         }
       },
       "South Andaman": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
           "confirmed": 35,
           "recovered": 32
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 3
-        },
         "total": {
           "confirmed": 8
         }
@@ -1327,10 +1327,16 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 9
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 30,
+          "confirmed": 39,
           "recovered": 2
         }
       },
@@ -1351,14 +1357,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T06:15:48+05:30",
+      "last_updated": "2020-06-16T21:43:54+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/DnhPublicity/status/1272191063860494336"
       }
     },
     "total": {
-      "confirmed": 39,
+      "confirmed": 48,
       "recovered": 2,
       "tested": 18445
     }
@@ -2797,7 +2803,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:35:04+05:30",
+      "last_updated": "2020-06-16T21:37:50+05:30",
       "notes": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-15",
@@ -3485,7 +3491,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:35:13+05:30",
+      "last_updated": "2020-06-16T21:37:55+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/DiprManipur/status/1272537968004100097?s=19"
@@ -3987,7 +3993,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:35:01+05:30",
+      "last_updated": "2020-06-16T21:37:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/healthminmp/status/1272538287186432000?s=09"
@@ -5805,23 +5811,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4903,
+      "confirmed": 4912,
       "deceased": 115,
-      "recovered": 4183,
+      "recovered": 4205,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T21:34:58+05:30",
+      "last_updated": "2020-06-16T21:43:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 347974,
+      "confirmed": 347983,
       "deceased": 10033,
       "migrated": 43,
-      "recovered": 184501,
+      "recovered": 184523,
       "tested": 5921069
     }
   },
@@ -6370,7 +6376,7 @@
     "delta": {
       "confirmed": 97,
       "deceased": 1,
-      "recovered": 5,
+      "recovered": 27,
       "tested": 1297
     },
     "districts": {
@@ -6407,34 +6413,36 @@
       "Dehradun": {
         "delta": {
           "confirmed": 18,
-          "recovered": 4
+          "recovered": 6
         },
         "total": {
           "confirmed": 499,
           "deceased": 16,
           "migrated": 9,
-          "recovered": 267
+          "recovered": 269
         }
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 12
         },
         "total": {
           "confirmed": 238,
           "migrated": 2,
-          "recovered": 83
+          "recovered": 95
         }
       },
       "Nainital": {
         "delta": {
           "confirmed": 2,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 6
         },
         "total": {
           "confirmed": 340,
           "deceased": 2,
-          "recovered": 221
+          "recovered": 227
         }
       },
       "Pauri Garhwal": {
@@ -6464,11 +6472,12 @@
       },
       "Tehri Garhwal": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 2
         },
         "total": {
           "confirmed": 308,
-          "recovered": 252
+          "recovered": 254
         }
       },
       "Udham Singh Nagar": {
@@ -6497,7 +6506,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:35:07+05:30",
+      "last_updated": "2020-06-16T21:43:50+05:30",
       "notes": "12 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-16",
@@ -6508,7 +6517,7 @@
       "confirmed": 1942,
       "deceased": 25,
       "migrated": 12,
-      "recovered": 1194,
+      "recovered": 1216,
       "tested": 47870
     }
   },
