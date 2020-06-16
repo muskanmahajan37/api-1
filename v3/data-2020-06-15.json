@@ -2607,7 +2607,7 @@
     "delta": {
       "confirmed": 213,
       "deceased": 2,
-      "recovered": 180,
+      "recovered": 174,
       "tested": 5362
     },
     "districts": {
@@ -2642,10 +2642,13 @@
         }
       },
       "Bengaluru Rural": {
+        "delta": {
+          "recovered": -1
+        },
         "total": {
           "confirmed": 38,
           "deceased": 1,
-          "recovered": 11
+          "recovered": 10
         }
       },
       "Bengaluru Urban": {
@@ -2814,12 +2817,13 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 18
+          "confirmed": 18,
+          "recovered": -5
         },
         "total": {
           "confirmed": 403,
           "deceased": 2,
-          "recovered": 96
+          "recovered": 91
         }
       },
       "Ramanagara": {
@@ -2834,11 +2838,11 @@
       "Shivamogga": {
         "delta": {
           "confirmed": 3,
-          "recovered": 10
+          "recovered": 11
         },
         "total": {
           "confirmed": 94,
-          "recovered": 53
+          "recovered": 54
         }
       },
       "Tumakuru": {
@@ -2851,12 +2855,12 @@
       "Udupi": {
         "delta": {
           "confirmed": 2,
-          "recovered": 23
+          "recovered": 22
         },
         "total": {
           "confirmed": 1028,
           "deceased": 1,
-          "recovered": 737
+          "recovered": 736
         }
       },
       "Uttara Kannada": {
@@ -2898,7 +2902,7 @@
       "confirmed": 7213,
       "deceased": 87,
       "migrated": 4,
-      "recovered": 4140,
+      "recovered": 4134,
       "tested": 449331
     }
   },
@@ -6141,7 +6145,7 @@
       "confirmed": 10032,
       "deceased": 396,
       "migrated": 3,
-      "recovered": 10645,
+      "recovered": 10639,
       "tested": 115519
     },
     "meta": {
@@ -6154,7 +6158,7 @@
       "confirmed": 343071,
       "deceased": 9917,
       "migrated": 44,
-      "recovered": 180330,
+      "recovered": 180324,
       "tested": 5774133
     }
   },
