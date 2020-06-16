@@ -2171,7 +2171,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T00:34:48+05:30",
+      "last_updated": "2020-06-17T00:38:49+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-06-20%20Evening.pdf"
@@ -6094,11 +6094,12 @@
     "delta": {
       "confirmed": 10570,
       "deceased": 1986,
+      "migrated": 1,
       "recovered": 6934,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-17T00:34:46+05:30",
+      "last_updated": "2020-06-17T00:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
@@ -6107,7 +6108,7 @@
     "total": {
       "confirmed": 353641,
       "deceased": 11903,
-      "migrated": 44,
+      "migrated": 45,
       "recovered": 187258,
       "tested": 5921069
     }
@@ -6657,6 +6658,7 @@
     "delta": {
       "confirmed": 97,
       "deceased": 1,
+      "migrated": 1,
       "recovered": 27,
       "tested": 1297
     },
@@ -6694,12 +6696,13 @@
       "Dehradun": {
         "delta": {
           "confirmed": 18,
+          "migrated": 1,
           "recovered": 6
         },
         "total": {
           "confirmed": 499,
           "deceased": 16,
-          "migrated": 8,
+          "migrated": 9,
           "recovered": 269
         }
       },
@@ -6787,8 +6790,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T21:52:50+05:30",
-      "notes": "12 Migrated cases reduced from Active count",
+      "last_updated": "2020-06-17T00:42:48+05:30",
+      "notes": "13 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/PIBDehradun/status/1272831747764318208/photo/1"
@@ -6797,7 +6800,7 @@
     "total": {
       "confirmed": 1942,
       "deceased": 25,
-      "migrated": 12,
+      "migrated": 13,
       "recovered": 1216,
       "tested": 47870
     }
