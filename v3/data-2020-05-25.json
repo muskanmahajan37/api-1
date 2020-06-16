@@ -2190,7 +2190,8 @@
   "KA": {
     "delta": {
       "confirmed": 93,
-      "deceased": 2,
+      "deceased": 1,
+      "migrated": 1,
       "recovered": 51,
       "tested": 13581
     },
@@ -2279,12 +2280,12 @@
       "Dakshina Kannada": {
         "delta": {
           "confirmed": 4,
-          "deceased": 1
+          "migrated": 1
         },
         "total": {
           "confirmed": 64,
-          "deceased": 6,
-          "migrated": 1,
+          "deceased": 5,
+          "migrated": 2,
           "recovered": 15
         }
       },
@@ -2460,8 +2461,8 @@
     },
     "total": {
       "confirmed": 2182,
-      "deceased": 44,
-      "migrated": 2,
+      "deceased": 43,
+      "migrated": 3,
       "recovered": 705,
       "tested": 219894
     }
@@ -5164,8 +5165,8 @@
   "TT": {
     "delta": {
       "confirmed": 6414,
-      "deceased": 150,
-      "migrated": 2,
+      "deceased": 149,
+      "migrated": 3,
       "recovered": 3012,
       "tested": 90170
     },
@@ -5177,8 +5178,8 @@
     },
     "total": {
       "confirmed": 144950,
-      "deceased": 4174,
-      "migrated": 11,
+      "deceased": 4173,
+      "migrated": 12,
       "recovered": 60706,
       "tested": 3033591
     }
