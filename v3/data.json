@@ -1245,6 +1245,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1859,
+      "deceased": 437,
+      "recovered": 520
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1298,10 +1303,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1859,
+          "deceased": 437,
+          "recovered": 520
+        },
         "total": {
-          "confirmed": 42041,
-          "deceased": 1399,
-          "recovered": 16427
+          "confirmed": 43900,
+          "deceased": 1836,
+          "recovered": 16947
         }
       },
       "West Delhi": {
@@ -1311,7 +1321,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T21:24:48+05:30",
+      "last_updated": "2020-06-16T22:42:47+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-15",
@@ -1319,9 +1329,9 @@
       }
     },
     "total": {
-      "confirmed": 42829,
-      "deceased": 1400,
-      "recovered": 16427,
+      "confirmed": 44688,
+      "deceased": 1837,
+      "recovered": 16947,
       "tested": 296697
     }
   },
@@ -2858,7 +2868,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:34:48+05:30",
+      "last_updated": "2020-06-16T22:42:49+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-16",
@@ -3050,7 +3060,8 @@
   "LA": {
     "delta": {
       "confirmed": 94,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 277
     },
     "districts": {
       "Kargil": {
@@ -3077,15 +3088,15 @@
     "meta": {
       "last_updated": "2020-06-16T18:21:51+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://t.me/indiacovid/7313?single"
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/DIPR_Leh/status/1272866815090155521?s=19"
       }
     },
     "total": {
       "confirmed": 649,
       "deceased": 1,
       "recovered": 85,
-      "tested": 11260
+      "tested": 11537
     }
   },
   "LD": {
@@ -3578,7 +3589,8 @@
     "delta": {
       "confirmed": 135,
       "deceased": 11,
-      "recovered": 249
+      "recovered": 249,
+      "tested": 5943
     },
     "districts": {
       "Agar Malwa": {
@@ -4053,15 +4065,15 @@
     "meta": {
       "last_updated": "2020-06-16T22:05:50+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://twitter.com/healthminmp/status/1272538287186432000?s=09"
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/healthminmp/status/1272935787634364416?s=19"
       }
     },
     "total": {
       "confirmed": 11070,
       "deceased": 476,
       "recovered": 8152,
-      "tested": 258040
+      "tested": 263983
     }
   },
   "MZ": {
@@ -4140,7 +4152,8 @@
   "NL": {
     "delta": {
       "confirmed": 2,
-      "recovered": 15
+      "recovered": 15,
+      "tested": 703
     },
     "districts": {
       "Dimapur": {
@@ -4211,14 +4224,13 @@
     "meta": {
       "last_updated": "2020-06-16T18:54:55+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://twitter.com/HealthNagaland/status/1272538281616404482/photo/1"
+        "last_updated": "2020-06-16"
       }
     },
     "total": {
       "confirmed": 179,
       "recovered": 103,
-      "tested": 7132
+      "tested": 7835
     }
   },
   "OR": {
@@ -5148,6 +5160,9 @@
     }
   },
   "TG": {
+    "delta": {
+      "confirmed": 213
+    },
     "districts": {
       "Adilabad": {
         "total": {
@@ -5167,8 +5182,11 @@
         }
       },
       "Hyderabad": {
+        "delta": {
+          "confirmed": 165
+        },
         "total": {
-          "confirmed": 3385,
+          "confirmed": 3550,
           "deceased": 23,
           "recovered": 305
         }
@@ -5180,8 +5198,11 @@
         }
       },
       "Jangaon": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 1
         }
       },
@@ -5198,14 +5219,20 @@
         }
       },
       "Kamareddy": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 8
         }
       },
       "Karimnagar": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 34,
+          "confirmed": 40,
           "recovered": 16
         }
       },
@@ -5216,8 +5243,11 @@
         }
       },
       "Komaram Bheem": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 17,
           "recovered": 2
         }
       },
@@ -5240,14 +5270,20 @@
         }
       },
       "Medak": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 34,
           "recovered": 4
         }
       },
       "Medchal Malkajgiri": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 138,
+          "confirmed": 141,
           "deceased": 1,
           "recovered": 9
         }
@@ -5283,8 +5319,11 @@
         }
       },
       "Nizamabad": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 71,
           "recovered": 30
         }
       },
@@ -5294,8 +5333,11 @@
         }
       },
       "Peddapalli": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 1
         }
       },
@@ -5306,21 +5348,30 @@
         }
       },
       "Ranga Reddy": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 235,
+          "confirmed": 251,
           "deceased": 2,
           "recovered": 17
         }
       },
       "Sangareddy": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 71,
           "recovered": 6
         }
       },
       "Siddipet": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 1
         }
       },
@@ -5361,20 +5412,23 @@
         }
       },
       "Yadadri Bhuvanagiri": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 12
+          "confirmed": 13
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:27:00+05:30",
+      "last_updated": "2020-06-16T22:42:51+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
       }
     },
     "total": {
-      "confirmed": 5193,
+      "confirmed": 5406,
       "deceased": 187,
       "recovered": 2766,
       "tested": 23388
@@ -5803,7 +5857,8 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "recovered": 123
     },
     "districts": {
       "Dhalai": {
@@ -5845,6 +5900,14 @@
           "recovered": 31
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 123
+        },
+        "total": {
+          "recovered": 123
+        }
+      },
       "Unokoti": {
         "total": {
           "confirmed": 59,
@@ -5860,7 +5923,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:34:57+05:30",
+      "last_updated": "2020-06-16T22:42:53+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/482"
@@ -5869,29 +5932,29 @@
     "total": {
       "confirmed": 1095,
       "deceased": 1,
-      "recovered": 433,
+      "recovered": 556,
       "tested": 47683
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 7672,
-      "deceased": 1524,
-      "recovered": 6128,
+      "confirmed": 9744,
+      "deceased": 1961,
+      "recovered": 6771,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T22:34:46+05:30",
+      "last_updated": "2020-06-16T22:43:47+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 350743,
-      "deceased": 11441,
+      "confirmed": 352815,
+      "deceased": 11878,
       "migrated": 44,
-      "recovered": 186452,
+      "recovered": 187095,
       "tested": 5921069
     }
   },
