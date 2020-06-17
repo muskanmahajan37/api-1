@@ -303,7 +303,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 95
+      "confirmed": 94
     },
     "districts": {
       "Airport Quarantine": {
@@ -389,11 +389,8 @@
         }
       },
       "Dima Hasao": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 88,
           "recovered": 9
         }
       },
@@ -565,7 +562,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T18:02:49+05:30",
+      "last_updated": "2020-06-17T18:12:50+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-16",
@@ -573,7 +570,7 @@
       }
     },
     "total": {
-      "confirmed": 4606,
+      "confirmed": 4605,
       "deceased": 8,
       "migrated": 3,
       "recovered": 2412,
@@ -1523,8 +1520,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 8,
-      "recovered": 3
+      "confirmed": 10,
+      "recovered": 4
     },
     "districts": {
       "Bilaspur": {
@@ -1576,10 +1573,13 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 23,
           "deceased": 2,
-          "recovered": 18
+          "recovered": 19
         }
       },
       "Shimla": {
@@ -1597,8 +1597,11 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 59,
+          "confirmed": 61,
           "migrated": 4,
           "recovered": 27
         }
@@ -1619,7 +1622,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T13:14:52+05:30",
+      "last_updated": "2020-06-17T18:12:53+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-16",
@@ -1627,10 +1630,10 @@
       }
     },
     "total": {
-      "confirmed": 568,
+      "confirmed": 570,
       "deceased": 7,
       "migrated": 11,
-      "recovered": 364,
+      "recovered": 365,
       "tested": 56106
     }
   },
@@ -4911,23 +4914,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1588,
+      "confirmed": 1589,
       "deceased": 3,
-      "recovered": 407,
+      "recovered": 408,
       "tested": 163187
     },
     "meta": {
-      "last_updated": "2020-06-17T18:02:46+05:30",
+      "last_updated": "2020-06-17T18:11:46+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
       }
     },
     "total": {
-      "confirmed": 355749,
+      "confirmed": 355750,
       "deceased": 11924,
       "migrated": 45,
-      "recovered": 187959,
+      "recovered": 187960,
       "tested": 6084256
     }
   },
