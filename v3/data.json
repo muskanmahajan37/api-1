@@ -2133,7 +2133,9 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 56
+      "confirmed": 56,
+      "deceased": 1,
+      "recovered": 30
     },
     "districts": {
       "Bokaro": {
@@ -2144,9 +2146,12 @@
         }
       },
       "Chatra": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 41,
-          "recovered": 20
+          "recovered": 21
         }
       },
       "Deoghar": {
@@ -2156,9 +2161,12 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 114,
-          "recovered": 100
+          "recovered": 108
         }
       },
       "Dumka": {
@@ -2274,11 +2282,12 @@
       },
       "Ranchi": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "deceased": 1
         },
         "total": {
           "confirmed": 185,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 132
         }
       },
@@ -2289,15 +2298,21 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 36,
-          "recovered": 13
+          "recovered": 17
         }
       },
       "Simdega": {
+        "delta": {
+          "recovered": 17
+        },
         "total": {
           "confirmed": 270,
-          "recovered": 161
+          "recovered": 178
         }
       },
       "West Singhbhum": {
@@ -2308,7 +2323,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:35:50+05:30",
+      "last_updated": "2020-06-17T22:42:49+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/FOBGumla/status/1272925780595470336?s=19"
@@ -2316,8 +2331,8 @@
     },
     "total": {
       "confirmed": 1895,
-      "deceased": 9,
-      "recovered": 1121,
+      "deceased": 10,
+      "recovered": 1151,
       "tested": 110813
     }
   },
@@ -3548,7 +3563,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:35:54+05:30",
+      "last_updated": "2020-06-17T22:42:51+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/DiprManipur/status/1272537968004100097?s=19"
@@ -5907,12 +5922,12 @@
   "TT": {
     "delta": {
       "confirmed": 6638,
-      "deceased": 143,
-      "recovered": 4058,
+      "deceased": 144,
+      "recovered": 4088,
       "tested": 163187
     },
     "meta": {
-      "last_updated": "2020-06-17T22:35:46+05:30",
+      "last_updated": "2020-06-17T22:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
@@ -5920,9 +5935,9 @@
     },
     "total": {
       "confirmed": 360795,
-      "deceased": 12064,
+      "deceased": 12065,
       "migrated": 45,
-      "recovered": 191607,
+      "recovered": 191637,
       "tested": 6084256
     }
   },
