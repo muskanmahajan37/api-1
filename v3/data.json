@@ -1248,7 +1248,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:12:53+05:30",
+      "last_updated": "2020-06-17T22:15:54+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/HealthCgGov/status/1272910969770061830?s=19"
@@ -3952,7 +3952,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:12:49+05:30",
+      "last_updated": "2020-06-17T22:19:48+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/healthminmp/status/1272935787634364416?s=19"
@@ -5028,7 +5028,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:12:55+05:30",
+      "last_updated": "2020-06-17T22:19:52+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/507"
@@ -5044,7 +5044,7 @@
     "delta": {
       "confirmed": 269,
       "deceased": 1,
-      "recovered": 151
+      "recovered": 44
     },
     "districts": {
       "Adilabad": {
@@ -5264,12 +5264,12 @@
       "Unknown": {
         "delta": {
           "deceased": 1,
-          "recovered": 151
+          "recovered": 44
         },
         "total": {
           "confirmed": 450,
           "deceased": 162,
-          "recovered": 2627
+          "recovered": 2520
         }
       },
       "Vikarabad": {
@@ -5311,7 +5311,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T21:46:51+05:30",
+      "last_updated": "2020-06-17T22:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/IPRTelangana/status/1272937297919369216?s=19"
@@ -5320,7 +5320,7 @@
     "total": {
       "confirmed": 5675,
       "deceased": 192,
-      "recovered": 3178,
+      "recovered": 3071,
       "tested": 44431
     }
   },
@@ -5761,6 +5761,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 43
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -5769,8 +5772,11 @@
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 102,
+          "confirmed": 112,
           "recovered": 40
         }
       },
@@ -5787,14 +5793,20 @@
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 518,
+          "confirmed": 519,
           "recovered": 99
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 80,
           "recovered": 31
         }
       },
@@ -5810,22 +5822,25 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 30
+        },
         "total": {
-          "confirmed": 88,
+          "confirmed": 118,
           "deceased": 1,
           "recovered": 20
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T00:32:50+05:30",
+      "last_updated": "2020-06-17T22:22:50+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/505"
       }
     },
     "total": {
-      "confirmed": 1090,
+      "confirmed": 1133,
       "deceased": 1,
       "recovered": 556,
       "tested": 49208
@@ -5833,23 +5848,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6487,
+      "confirmed": 6530,
       "deceased": 143,
-      "recovered": 4132,
+      "recovered": 4025,
       "tested": 163187
     },
     "meta": {
-      "last_updated": "2020-06-17T22:12:46+05:30",
+      "last_updated": "2020-06-17T22:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
       }
     },
     "total": {
-      "confirmed": 360644,
+      "confirmed": 360687,
       "deceased": 12064,
       "migrated": 45,
-      "recovered": 191681,
+      "recovered": 191574,
       "tested": 6084256
     }
   },
@@ -6794,10 +6809,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:12:51+05:30",
+      "last_updated": "2020-06-17T22:15:53+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-17"
+        "last_updated": "2020-06-17",
+        "source": "https://twitter.com/PIBDehradun/status/1273187521602760704/photo/1"
       }
     },
     "total": {
