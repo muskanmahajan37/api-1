@@ -318,7 +318,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T23:23:51+05:30",
+      "last_updated": "2020-06-17T23:34:51+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/508"
@@ -1039,7 +1039,8 @@
   "CT": {
     "delta": {
       "confirmed": 80,
-      "recovered": 165
+      "recovered": 165,
+      "tested": 3551
     },
     "districts": {
       "Balod": {
@@ -1279,22 +1280,23 @@
     "meta": {
       "last_updated": "2020-06-17T22:15:54+05:30",
       "tested": {
-        "last_updated": "2020-06-16",
-        "source": "https://twitter.com/HealthCgGov/status/1272910969770061830?s=19"
+        "last_updated": "2020-06-17",
+        "source": "https://twitter.com/HealthCgGov/status/1273282032429174784?s=19"
       }
     },
     "total": {
       "confirmed": 1864,
       "deceased": 9,
       "recovered": 1099,
-      "tested": 110062
+      "tested": 113613
     }
   },
   "DL": {
     "delta": {
       "confirmed": 2414,
       "deceased": 67,
-      "recovered": 957
+      "recovered": 957,
+      "tested": 8093
     },
     "districts": {
       "Central Delhi": {
@@ -1367,18 +1369,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T23:22:50+05:30",
+      "last_updated": "2020-06-17T23:26:52+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-16",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-16.pdf"
+        "last_updated": "2020-06-17"
       }
     },
     "total": {
       "confirmed": 47102,
       "deceased": 1904,
       "recovered": 17457,
-      "tested": 304483
+      "tested": 312576
     }
   },
   "DN": {
@@ -1429,7 +1430,8 @@
   "GA": {
     "delta": {
       "confirmed": 27,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 1307
     },
     "districts": {
       "North Goa": {
@@ -1463,14 +1465,14 @@
     "meta": {
       "last_updated": "2020-06-17T19:35:54+05:30",
       "tested": {
-        "last_updated": "2020-06-16",
-        "source": "https://twitter.com/DHS_Goa/status/1272893664189206535?s=19"
+        "last_updated": "2020-06-17",
+        "source": "https://twitter.com/DHS_Goa/status/1273250203986874369?s=19"
       }
     },
     "total": {
       "confirmed": 656,
       "recovered": 96,
-      "tested": 44378
+      "tested": 45685
     }
   },
   "GJ": {
@@ -1968,7 +1970,8 @@
   "HR": {
     "delta": {
       "confirmed": 109,
-      "recovered": 22
+      "recovered": 22,
+      "tested": 4282
     },
     "districts": {
       "Ambala": {
@@ -2159,15 +2162,15 @@
     "meta": {
       "last_updated": "2020-06-17T15:05:48+05:30",
       "tested": {
-        "last_updated": "2020-06-16",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-06-20%20Evening.pdf"
+        "last_updated": "2020-06-17",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2017-06-20%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 8381,
       "deceased": 118,
       "recovered": 3770,
-      "tested": 193421
+      "tested": 197703
     }
   },
   "JH": {
@@ -3531,7 +3534,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T23:23:48+05:30",
+      "last_updated": "2020-06-17T23:34:48+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.",
       "tested": {
         "last_updated": "2020-06-16",
@@ -3549,15 +3552,18 @@
   "ML": {
     "delta": {
       "confirmed": -1,
-      "recovered": 1,
+      "recovered": 3,
       "tested": 438
     },
     "districts": {
       "East Khasi Hills": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 25,
           "deceased": 1,
-          "recovered": 15
+          "recovered": 17
         }
       },
       "North Garo Hills": {
@@ -3604,7 +3610,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T21:14:50+05:30",
+      "last_updated": "2020-06-17T23:35:49+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
         "last_updated": "2020-06-17",
@@ -3614,7 +3620,7 @@
     "total": {
       "confirmed": 43,
       "deceased": 1,
-      "recovered": 29,
+      "recovered": 31,
       "tested": 14316
     }
   },
@@ -6117,11 +6123,11 @@
     "delta": {
       "confirmed": 12363,
       "deceased": 325,
-      "recovered": 6363,
+      "recovered": 6365,
       "tested": 163187
     },
     "meta": {
-      "last_updated": "2020-06-17T23:23:46+05:30",
+      "last_updated": "2020-06-17T23:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
@@ -6131,7 +6137,7 @@
       "confirmed": 366520,
       "deceased": 12246,
       "migrated": 45,
-      "recovered": 193912,
+      "recovered": 193914,
       "tested": 6084256
     }
   },
