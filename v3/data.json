@@ -1471,6 +1471,10 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 109,
+      "recovered": 22
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1480,10 +1484,13 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "recovered": 16
+        },
         "total": {
           "confirmed": 134,
           "deceased": 2,
-          "recovered": 53
+          "recovered": 69
         }
       },
       "Charkhi Dadri": {
@@ -1513,8 +1520,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 70
+        },
         "total": {
-          "confirmed": 3682,
+          "confirmed": 3752,
           "deceased": 46,
           "recovered": 1915
         }
@@ -1533,15 +1543,21 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 149,
+          "confirmed": 153,
           "deceased": 2,
           "recovered": 108
         }
       },
       "Jind": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 77,
           "deceased": 4,
           "recovered": 28
         }
@@ -1578,21 +1594,30 @@
         }
       },
       "Palwal": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 204,
+          "confirmed": 215,
           "deceased": 1,
           "recovered": 107
         }
       },
       "Panchkula": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 56,
-          "recovered": 26
+          "recovered": 32
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 105,
+          "confirmed": 109,
           "deceased": 5,
           "recovered": 70
         }
@@ -1611,8 +1636,11 @@
         }
       },
       "Sirsa": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 80,
           "recovered": 51
         }
       },
@@ -1624,23 +1652,26 @@
         }
       },
       "Yamunanagar": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 45,
+          "confirmed": 60,
           "recovered": 20
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T00:38:49+05:30",
+      "last_updated": "2020-06-17T14:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-06-20%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 8272,
+      "confirmed": 8381,
       "deceased": 118,
-      "recovered": 3748,
+      "recovered": 3770,
       "tested": 193421
     }
   },
@@ -4694,23 +4725,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 899,
+      "confirmed": 1008,
       "deceased": 1,
-      "recovered": 166,
+      "recovered": 188,
       "tested": 163187
     },
     "meta": {
-      "last_updated": "2020-06-17T13:14:46+05:30",
+      "last_updated": "2020-06-17T14:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
       }
     },
     "total": {
-      "confirmed": 355060,
+      "confirmed": 355169,
       "deceased": 11922,
       "migrated": 45,
-      "recovered": 187718,
+      "recovered": 187740,
       "tested": 6084256
     }
   },
