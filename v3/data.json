@@ -1262,6 +1262,10 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 2414,
+      "recovered": 957
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1315,10 +1319,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2414,
+          "recovered": 957
+        },
         "total": {
-          "confirmed": 43900,
+          "confirmed": 46314,
           "deceased": 1836,
-          "recovered": 16500
+          "recovered": 17457
         }
       },
       "West Delhi": {
@@ -1336,9 +1344,9 @@
       }
     },
     "total": {
-      "confirmed": 44688,
+      "confirmed": 47102,
       "deceased": 1837,
-      "recovered": 16500,
+      "recovered": 17457,
       "tested": 304483
     }
   },
@@ -3367,7 +3375,8 @@
   "ML": {
     "delta": {
       "confirmed": -1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 438
     },
     "districts": {
       "East Khasi Hills": {
@@ -3424,21 +3433,22 @@
       "last_updated": "2020-06-17T21:14:50+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
-        "last_updated": "2020-06-16",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/506"
+        "last_updated": "2020-06-17",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/523"
       }
     },
     "total": {
       "confirmed": 43,
       "deceased": 1,
       "recovered": 29,
-      "tested": 13878
+      "tested": 14316
     }
   },
   "MN": {
     "delta": {
       "confirmed": 52,
-      "recovered": 33
+      "recovered": 33,
+      "tested": 3407
     },
     "districts": {
       "Bishnupur": {
@@ -3565,7 +3575,7 @@
     "meta": {
       "last_updated": "2020-06-17T22:42:51+05:30",
       "tested": {
-        "last_updated": "2020-06-16",
+        "last_updated": "2020-06-17",
         "source": "https://twitter.com/DiprManipur/status/1273296346057850880?s=19"
       }
     },
@@ -5930,9 +5940,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6638,
+      "confirmed": 9052,
       "deceased": 144,
-      "recovered": 4088,
+      "recovered": 5045,
       "tested": 163187
     },
     "meta": {
@@ -5943,10 +5953,10 @@
       }
     },
     "total": {
-      "confirmed": 360795,
+      "confirmed": 363209,
       "deceased": 12065,
       "migrated": 45,
-      "recovered": 191637,
+      "recovered": 192594,
       "tested": 6084256
     }
   },
