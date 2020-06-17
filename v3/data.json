@@ -1355,6 +1355,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 8,
+      "recovered": 3
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1363,9 +1367,13 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 39,
-          "recovered": 28
+          "confirmed": 42,
+          "recovered": 31
         }
       },
       "Hamirpur": {
@@ -1376,11 +1384,14 @@
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 147,
+          "confirmed": 148,
           "deceased": 2,
           "recovered": 99
         }
@@ -1426,8 +1437,11 @@
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 73,
+          "confirmed": 77,
           "recovered": 41
         }
       },
@@ -1438,7 +1452,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T22:25:51+05:30",
+      "last_updated": "2020-06-17T13:03:57+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-16",
@@ -1446,10 +1460,10 @@
       }
     },
     "total": {
-      "confirmed": 560,
+      "confirmed": 568,
       "deceased": 7,
       "migrated": 11,
-      "recovered": 361,
+      "recovered": 364,
       "tested": 56106
     }
   },
@@ -4677,23 +4691,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 891,
+      "confirmed": 899,
       "deceased": 1,
-      "recovered": 163,
+      "recovered": 166,
       "tested": 163187
     },
     "meta": {
-      "last_updated": "2020-06-17T12:14:47+05:30",
+      "last_updated": "2020-06-17T13:03:49+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
       }
     },
     "total": {
-      "confirmed": 355052,
+      "confirmed": 355060,
       "deceased": 11922,
       "migrated": 45,
-      "recovered": 187715,
+      "recovered": 187718,
       "tested": 6084256
     }
   },
