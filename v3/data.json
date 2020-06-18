@@ -600,7 +600,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:52:55+05:30",
+      "last_updated": "2020-06-18T21:03:51+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-17",
@@ -1007,7 +1007,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:48:54+05:30",
+      "last_updated": "2020-06-18T20:56:06+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/indiacovid/7595?single"
@@ -1330,6 +1330,8 @@
   },
   "GA": {
     "delta": {
+      "confirmed": 49,
+      "recovered": 13,
       "tested": 1311
     },
     "districts": {
@@ -1351,22 +1353,26 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 49,
+          "recovered": 13
+        },
         "total": {
-          "confirmed": 269,
-          "recovered": 29
+          "confirmed": 318,
+          "recovered": 42
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T19:35:54+05:30",
+      "last_updated": "2020-06-18T21:03:55+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/DHS_Goa/status/1273615580721864705?s=19"
       }
     },
     "total": {
-      "confirmed": 656,
-      "recovered": 96,
+      "confirmed": 705,
+      "recovered": 109,
       "tested": 46996
     }
   },
@@ -2561,7 +2567,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:48:49+05:30",
+      "last_updated": "2020-06-18T20:55:58+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-18",
@@ -5544,23 +5550,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5372,
+      "confirmed": 5421,
       "deceased": 75,
-      "recovered": 3042,
+      "recovered": 3055,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T20:52:46+05:30",
+      "last_updated": "2020-06-18T21:03:47+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 372636,
+      "confirmed": 372685,
       "deceased": 12389,
       "migrated": 45,
-      "recovered": 197583,
+      "recovered": 197596,
       "tested": 6249668
     }
   },
