@@ -317,7 +317,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 82,
+      "confirmed": 166,
       "deceased": 1,
       "recovered": 12
     },
@@ -427,16 +427,19 @@
       },
       "Golaghat": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         },
         "total": {
-          "confirmed": 269,
+          "confirmed": 270,
           "recovered": 88
         }
       },
       "Hailakandi": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 64,
+          "confirmed": 78,
           "deceased": 1,
           "recovered": 5
         }
@@ -460,10 +463,10 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 18
         },
         "total": {
-          "confirmed": 581,
+          "confirmed": 597,
           "deceased": 4,
           "recovered": 339
         }
@@ -478,8 +481,11 @@
         }
       },
       "Karimganj": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 86,
+          "confirmed": 99,
           "recovered": 20
         }
       },
@@ -493,8 +499,11 @@
         }
       },
       "Lakhimpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 79,
+          "confirmed": 81,
           "recovered": 6
         }
       },
@@ -511,10 +520,10 @@
       },
       "Nagaon": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 283,
+          "confirmed": 288,
           "recovered": 25
         }
       },
@@ -543,8 +552,11 @@
         }
       },
       "Sonitpur": {
+        "delta": {
+          "confirmed": 33
+        },
         "total": {
-          "confirmed": 49,
+          "confirmed": 82,
           "recovered": 35
         }
       },
@@ -588,7 +600,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T15:24:50+05:30",
+      "last_updated": "2020-06-18T20:52:55+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-17",
@@ -596,7 +608,7 @@
       }
     },
     "total": {
-      "confirmed": 4777,
+      "confirmed": 4861,
       "deceased": 9,
       "migrated": 3,
       "recovered": 2655,
@@ -995,7 +1007,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:44:31+05:30",
+      "last_updated": "2020-06-18T20:48:54+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/indiacovid/7595?single"
@@ -2243,6 +2255,7 @@
   "KA": {
     "delta": {
       "confirmed": 210,
+      "deceased": 12,
       "recovered": 179,
       "tested": 8709
     },
@@ -2285,11 +2298,12 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 17,
+          "deceased": 8,
           "recovered": 14
         },
         "total": {
           "confirmed": 844,
-          "deceased": 43,
+          "deceased": 51,
           "migrated": 1,
           "recovered": 384
         }
@@ -2297,11 +2311,12 @@
       "Bidar": {
         "delta": {
           "confirmed": 6,
+          "deceased": 1,
           "recovered": 12
         },
         "total": {
           "confirmed": 401,
-          "deceased": 8,
+          "deceased": 9,
           "recovered": 251
         }
       },
@@ -2399,11 +2414,12 @@
       "Kalaburagi": {
         "delta": {
           "confirmed": 48,
+          "deceased": 1,
           "recovered": 24
         },
         "total": {
           "confirmed": 1074,
-          "deceased": 10,
+          "deceased": 11,
           "recovered": 598
         }
       },
@@ -2421,10 +2437,12 @@
       },
       "Koppal": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 1
         },
         "total": {
           "confirmed": 22,
+          "deceased": 1,
           "recovered": 11
         }
       },
@@ -2522,11 +2540,12 @@
       },
       "Vijayapura": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "deceased": 1
         },
         "total": {
           "confirmed": 238,
-          "deceased": 6,
+          "deceased": 7,
           "recovered": 196
         }
       },
@@ -2542,7 +2561,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:44:24+05:30",
+      "last_updated": "2020-06-18T20:48:49+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-18",
@@ -2551,7 +2570,7 @@
     },
     "total": {
       "confirmed": 7944,
-      "deceased": 102,
+      "deceased": 114,
       "migrated": 4,
       "recovered": 4983,
       "tested": 473507
@@ -5525,21 +5544,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5288,
-      "deceased": 63,
+      "confirmed": 5372,
+      "deceased": 75,
       "recovered": 3042,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T20:44:10+05:30",
+      "last_updated": "2020-06-18T20:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 372552,
-      "deceased": 12377,
+      "confirmed": 372636,
+      "deceased": 12389,
       "migrated": 45,
       "recovered": 197583,
       "tested": 6249668
@@ -6757,7 +6776,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:44:15+05:30",
+      "last_updated": "2020-06-18T20:47:49+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_18th_JUNE_REPORT_FINAL.pdf"
