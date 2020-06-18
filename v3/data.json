@@ -314,7 +314,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 81,
+      "confirmed": 82,
       "deceased": 1,
       "recovered": 12
     },
@@ -363,8 +363,11 @@
         }
       },
       "Charaideo": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 15
+          "confirmed": 16
         }
       },
       "Chirang": {
@@ -582,7 +585,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T15:03:48+05:30",
+      "last_updated": "2020-06-18T15:12:47+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-17",
@@ -590,7 +593,7 @@
       }
     },
     "total": {
-      "confirmed": 4776,
+      "confirmed": 4777,
       "deceased": 9,
       "migrated": 3,
       "recovered": 2655,
@@ -4895,7 +4898,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T15:03:51+05:30",
+      "last_updated": "2020-06-18T15:07:52+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/524"
@@ -4910,20 +4913,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1383,
+      "confirmed": 1384,
       "deceased": 13,
       "recovered": 405,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T15:03:46+05:30",
+      "last_updated": "2020-06-18T15:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 368647,
+      "confirmed": 368648,
       "deceased": 12275,
       "migrated": 45,
       "recovered": 194843,
