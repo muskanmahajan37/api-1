@@ -222,8 +222,12 @@
     },
     "districts": {
       "Changlang": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 60
+          "confirmed": 60,
+          "recovered": 2
         }
       },
       "East Siang": {
@@ -274,9 +278,12 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 11,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Tawang": {
@@ -290,14 +297,6 @@
         },
         "total": {
           "confirmed": 3
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "recovered": 3
-        },
-        "total": {
-          "recovered": 3
         }
       },
       "Upper Siang": {
