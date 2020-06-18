@@ -550,17 +550,26 @@
     }
   },
   "BR": {
+    "delta": {
+      "confirmed": 53
+    },
     "districts": {
       "Araria": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 100,
+          "confirmed": 102,
           "deceased": 1,
           "recovered": 80
         }
       },
       "Arwal": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 80,
+          "confirmed": 81,
           "recovered": 53
         }
       },
@@ -585,8 +594,11 @@
         }
       },
       "Bhagalpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 341,
+          "confirmed": 342,
           "deceased": 1,
           "recovered": 231
         }
@@ -605,8 +617,11 @@
         }
       },
       "Darbhanga": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 169,
+          "confirmed": 185,
           "deceased": 2,
           "recovered": 127
         }
@@ -619,8 +634,11 @@
         }
       },
       "Gaya": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 159,
+          "confirmed": 160,
           "recovered": 112
         }
       },
@@ -645,8 +663,11 @@
         }
       },
       "Kaimur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 140,
+          "confirmed": 141,
           "recovered": 85
         }
       },
@@ -665,8 +686,11 @@
         }
       },
       "Kishanganj": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 129,
+          "confirmed": 131,
           "recovered": 111
         }
       },
@@ -684,8 +708,11 @@
         }
       },
       "Madhubani": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 323,
+          "confirmed": 325,
           "deceased": 1,
           "recovered": 160
         }
@@ -719,8 +746,11 @@
         }
       },
       "Patna": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 344,
+          "confirmed": 345,
           "deceased": 2,
           "recovered": 215
         }
@@ -732,8 +762,11 @@
         }
       },
       "Rohtas": {
+        "delta": {
+          "confirmed": 17
+        },
         "total": {
-          "confirmed": 290,
+          "confirmed": 307,
           "deceased": 1,
           "recovered": 246
         }
@@ -745,8 +778,11 @@
         }
       },
       "Samastipur": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 180,
+          "confirmed": 186,
           "deceased": 1,
           "recovered": 87
         }
@@ -779,8 +815,11 @@
         }
       },
       "Siwan": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 279,
+          "confirmed": 282,
           "deceased": 2,
           "recovered": 115
         }
@@ -806,14 +845,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T21:49:24+05:30",
+      "last_updated": "2020-06-18T14:02:48+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://twitter.com/PIB_Patna/status/1273240056443043847"
       }
     },
     "total": {
-      "confirmed": 6940,
+      "confirmed": 6993,
       "deceased": 39,
       "recovered": 4776,
       "tested": 134402
@@ -2690,6 +2729,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2723,8 +2765,12 @@
         }
       },
       "West Jaintia Hills": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 1
         }
       },
       "West Khasi Hills": {
@@ -2734,7 +2780,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T23:48:53+05:30",
+      "last_updated": "2020-06-18T14:02:51+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
         "last_updated": "2020-06-17",
@@ -2744,7 +2790,7 @@
     "total": {
       "confirmed": 43,
       "deceased": 1,
-      "recovered": 31,
+      "recovered": 32,
       "tested": 14316
     }
   },
@@ -4764,23 +4810,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1125,
+      "confirmed": 1178,
       "deceased": 12,
-      "recovered": 258,
+      "recovered": 259,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T13:38:46+05:30",
+      "last_updated": "2020-06-18T14:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 368389,
+      "confirmed": 368442,
       "deceased": 12274,
       "migrated": 45,
-      "recovered": 194696,
+      "recovered": 194697,
       "tested": 6249668
     }
   },
