@@ -4913,9 +4913,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1384,
+      "confirmed": 1441,
       "deceased": 13,
-      "recovered": 405,
+      "recovered": 413,
       "tested": 165412
     },
     "meta": {
@@ -4926,10 +4926,10 @@
       }
     },
     "total": {
-      "confirmed": 368648,
+      "confirmed": 368705,
       "deceased": 12275,
       "migrated": 45,
-      "recovered": 194843,
+      "recovered": 194851,
       "tested": 6249668
     }
   },
@@ -5475,23 +5475,37 @@
     }
   },
   "UT": {
+    "delta": {
+      "confirmed": 57,
+      "recovered": 8
+    },
     "districts": {
       "Almora": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 99,
+          "confirmed": 100,
           "deceased": 1,
           "recovered": 73
         }
       },
       "Bageshwar": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 47,
+          "deceased": 1,
           "recovered": 33
         }
       },
       "Chamoli": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 47,
           "recovered": 37
         }
       },
@@ -5503,30 +5517,44 @@
         }
       },
       "Dehradun": {
+        "delta": {
+          "confirmed": 28,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 534,
+          "confirmed": 562,
           "deceased": 16,
           "migrated": 9,
-          "recovered": 283
+          "recovered": 289
         }
       },
       "Haridwar": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 241,
+          "confirmed": 246,
           "migrated": 2,
-          "recovered": 98
+          "recovered": 99
         }
       },
       "Nainital": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 348,
           "deceased": 2,
-          "recovered": 235
+          "recovered": 236
         }
       },
       "Pauri Garhwal": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 72,
+          "confirmed": 86,
           "deceased": 3,
           "recovered": 37
         }
@@ -5538,14 +5566,20 @@
         }
       },
       "Rudraprayag": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 48,
+          "confirmed": 52,
           "recovered": 23
         }
       },
       "Tehri Garhwal": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 317,
+          "confirmed": 318,
           "recovered": 254
         }
       },
@@ -5557,14 +5591,19 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": -1
+        },
         "total": {
-          "deceased": 1,
           "migrated": 2
         }
       },
       "Uttarkashi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "recovered": 24
         }
       }
@@ -5578,10 +5617,10 @@
       }
     },
     "total": {
-      "confirmed": 2023,
+      "confirmed": 2080,
       "deceased": 26,
       "migrated": 13,
-      "recovered": 1254,
+      "recovered": 1262,
       "tested": 49462
     }
   },
