@@ -604,7 +604,8 @@
     "delta": {
       "confirmed": 53,
       "deceased": 5,
-      "recovered": 185
+      "recovered": 185,
+      "tested": 5182
     },
     "districts": {
       "Araria": {
@@ -962,15 +963,15 @@
     "meta": {
       "last_updated": "2020-06-18T17:00:49+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/PIB_Patna/status/1273240056443043847"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/PIB_Patna/status/1273571500621131776"
       }
     },
     "total": {
       "confirmed": 6993,
       "deceased": 44,
       "recovered": 4961,
-      "tested": 134402
+      "tested": 139584
     }
   },
   "CH": {
@@ -2574,11 +2575,17 @@
     }
   },
   "LA": {
+    "delta": {
+      "recovered": 3
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 505,
-          "recovered": 26
+          "recovered": 29
         }
       },
       "Leh": {
@@ -2590,7 +2597,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T18:33:54+05:30",
+      "last_updated": "2020-06-18T17:22:49+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://m.facebook.com/photo.php?fbid=189849289139315&id=114874993303412&set=pcb.189849505805960&source=48"
@@ -2599,7 +2606,7 @@
     "total": {
       "confirmed": 687,
       "deceased": 1,
-      "recovered": 92,
+      "recovered": 95,
       "tested": 11626
     }
   },
@@ -5012,11 +5019,11 @@
     "delta": {
       "confirmed": 1441,
       "deceased": 18,
-      "recovered": 701,
+      "recovered": 704,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T17:00:46+05:30",
+      "last_updated": "2020-06-18T17:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
@@ -5026,7 +5033,7 @@
       "confirmed": 368705,
       "deceased": 12280,
       "migrated": 45,
-      "recovered": 195139,
+      "recovered": 195142,
       "tested": 6249668
     }
   },
@@ -5574,7 +5581,8 @@
   "UT": {
     "delta": {
       "confirmed": 57,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 1334
     },
     "districts": {
       "Almora": {
@@ -5709,8 +5717,8 @@
       "last_updated": "2020-06-18T16:35:49+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/PIBDehradun/status/1273187521602760704/photo/1"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/PIBDehradun/status/1273548516409749504?s=09"
       }
     },
     "total": {
@@ -5718,7 +5726,7 @@
       "deceased": 26,
       "migrated": 13,
       "recovered": 1262,
-      "tested": 49462
+      "tested": 50796
     }
   },
   "WB": {
