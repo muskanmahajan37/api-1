@@ -113,9 +113,14 @@
 			"question": "What are your sources? How is the data gathered for this project?"
 		},
 		{
+			"answer": "This is a category maintained by MOHFW as \"Cases being reassigned to states\". We are unsure the exact reason why this category is kept by MOHFW. We belive that number of cases in this category is reduced when old cases are assigned to state - but we're not sure. Since MOHFW doesn't give any information regarding how many cases are reassigned to which state, we can only speculate that any decrease in the number of cases in this category is reflected as equal increase in cases in multiple state. For more information, please reach out to MOHFW directly.",
+			"qno": "2",
+			"question": "What are \"Unassigned\" cases? Why are they so high? Why aren't their recovery details captured"
+		},
+		{
 			"answer": "MoHFW updates the data at a scheduled time. However, we update them based on state press bulletins, official (CM, Health M) handles, PBI, Press Trust of India, ANI reports. These are generally more recent.",
 			"qno": "3",
-			"question": "Why does covid19india.org have more positive count than MoH?"
+			"question": "Why does covid19india.org have difference in numbers compared to MOHFW website?"
 		},
 		{
 			"answer": "All the data is available through an API for further analysis and development here : <a href=\"https://api.covid19india.org\" target=\"_blank\">api.covid19india.org</a>",
