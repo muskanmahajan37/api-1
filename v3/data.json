@@ -29,7 +29,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:04:52+05:30",
+      "last_updated": "2020-06-18T20:11:55+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://dhs.andaman.gov.in/NewEvents/296.pdf"
@@ -3025,6 +3025,11 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 54,
+      "recovered": 7,
+      "tested": 611
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -3038,8 +3043,11 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 106,
+          "confirmed": 113,
           "recovered": 18
         }
       },
@@ -3078,13 +3086,19 @@
         }
       },
       "Pherzawl": {
+        "delta": {
+          "confirmed": 26
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 31
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 21
+        },
         "total": {
-          "confirmed": 25
+          "confirmed": 46
         }
       },
       "Tamenglong": {
@@ -3111,30 +3125,34 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 72,
-          "recovered": 146
+          "recovered": 153
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T22:42:51+05:30",
+      "last_updated": "2020-06-18T20:12:49+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/DiprManipur/status/1273296346057850880?s=19"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/DiprManipur/status/1273611027746156544?s=19"
       }
     },
     "total": {
-      "confirmed": 552,
-      "recovered": 192,
-      "tested": 29865
+      "confirmed": 606,
+      "recovered": 199,
+      "tested": 30476
     }
   },
   "MP": {
     "delta": {
       "confirmed": 182,
       "deceased": 4,
-      "recovered": 244
+      "recovered": 244,
+      "tested": 6246
     },
     "districts": {
       "Agar Malwa": {
@@ -3600,15 +3618,15 @@
     "meta": {
       "last_updated": "2020-06-18T19:25:49+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/healthminmp/status/1273277117657042944?s=19"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/healthminmp/status/1273607077764587526?s=19"
       }
     },
     "total": {
       "confirmed": 11426,
       "deceased": 486,
       "recovered": 8632,
-      "tested": 271205
+      "tested": 277451
     }
   },
   "MZ": {
@@ -5251,7 +5269,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:04:48+05:30",
+      "last_updated": "2020-06-18T20:11:48+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-17",
@@ -5345,23 +5363,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4470,
+      "confirmed": 4524,
       "deceased": 46,
-      "recovered": 2354,
+      "recovered": 2361,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T20:04:46+05:30",
+      "last_updated": "2020-06-18T20:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 371734,
+      "confirmed": 371788,
       "deceased": 12360,
       "migrated": 45,
-      "recovered": 196894,
+      "recovered": 196901,
       "tested": 6249668
     }
   },
