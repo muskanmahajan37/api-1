@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "recovered": 2
     },
     "districts": {
       "North and Middle Andaman": {
@@ -18,15 +19,17 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 2
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T09:05:51+05:30",
+      "last_updated": "2020-06-18T20:04:52+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://dhs.andaman.gov.in/NewEvents/296.pdf"
@@ -34,7 +37,7 @@
     },
     "total": {
       "confirmed": 45,
-      "recovered": 33,
+      "recovered": 35,
       "tested": 11518
     }
   },
@@ -2624,7 +2627,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T19:42:59+05:30",
+      "last_updated": "2020-06-18T19:55:53+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-17",
@@ -4841,8 +4844,8 @@
   },
   "TN": {
     "delta": {
-      "confirmed": 1996,
-      "recovered": 158
+      "confirmed": 2141,
+      "recovered": 915
     },
     "districts": {
       "Airport Quarantine": {
@@ -4868,22 +4871,24 @@
       },
       "Chengalpattu": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 98
         },
         "total": {
           "confirmed": 3285,
-          "deceased": 33,
-          "recovered": 1597
+          "deceased": 38,
+          "recovered": 1695
         }
       },
       "Chennai": {
         "delta": {
-          "confirmed": 1514
+          "confirmed": 1514,
+          "recovered": 659
         },
         "total": {
           "confirmed": 37070,
-          "deceased": 458,
-          "recovered": 19027
+          "deceased": 501,
+          "recovered": 19686
         }
       },
       "Coimbatore": {
@@ -4893,7 +4898,7 @@
         "total": {
           "confirmed": 211,
           "deceased": 1,
-          "recovered": 158
+          "recovered": 161
         }
       },
       "Cuddalore": {
@@ -5134,10 +5139,13 @@
         }
       },
       "Thiruvallur": {
+        "delta": {
+          "confirmed": 118
+        },
         "total": {
-          "confirmed": 2037,
-          "deceased": 31,
-          "recovered": 1020
+          "confirmed": 2155,
+          "deceased": 32,
+          "recovered": 1117
         }
       },
       "Thiruvarur": {
@@ -5200,10 +5208,13 @@
         }
       },
       "Tiruvannamalai": {
+        "delta": {
+          "confirmed": 27
+        },
         "total": {
-          "confirmed": 816,
-          "deceased": 4,
-          "recovered": 463
+          "confirmed": 843,
+          "deceased": 5,
+          "recovered": 465
         }
       },
       "Vellore": {
@@ -5240,7 +5251,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T19:42:57+05:30",
+      "last_updated": "2020-06-18T20:04:48+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-17",
@@ -5248,9 +5259,9 @@
       }
     },
     "total": {
-      "confirmed": 52189,
-      "deceased": 578,
-      "recovered": 27782,
+      "confirmed": 52334,
+      "deceased": 628,
+      "recovered": 28641,
       "tested": 773707
     }
   },
@@ -5334,23 +5345,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4325,
+      "confirmed": 4470,
       "deceased": 46,
-      "recovered": 1595,
+      "recovered": 2354,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T19:42:46+05:30",
+      "last_updated": "2020-06-18T20:04:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 371589,
-      "deceased": 12310,
+      "confirmed": 371734,
+      "deceased": 12360,
       "migrated": 45,
-      "recovered": 196033,
+      "recovered": 196894,
       "tested": 6249668
     }
   },
