@@ -1571,7 +1571,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T14:12:52+05:30",
+      "last_updated": "2020-06-18T14:21:50+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-17",
@@ -1587,6 +1587,10 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 114,
+      "recovered": 146
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1596,8 +1600,11 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 24
+        },
         "total": {
-          "confirmed": 139,
+          "confirmed": 163,
           "deceased": 2,
           "recovered": 70
         }
@@ -1629,10 +1636,14 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 72,
+          "recovered": 114
+        },
         "total": {
-          "confirmed": 3862,
+          "confirmed": 3934,
           "deceased": 51,
-          "recovered": 1950
+          "recovered": 2064
         }
       },
       "Hisar": {
@@ -1649,8 +1660,11 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 158,
+          "confirmed": 162,
           "deceased": 2,
           "recovered": 108
         }
@@ -1694,23 +1708,33 @@
         }
       },
       "Palwal": {
+        "delta": {
+          "recovered": 18
+        },
         "total": {
           "confirmed": 220,
           "deceased": 1,
-          "recovered": 107
+          "recovered": 125
         }
       },
       "Panchkula": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 58,
+          "confirmed": 61,
           "recovered": 32
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 109,
+          "confirmed": 111,
           "deceased": 5,
-          "recovered": 70
+          "recovered": 77
         }
       },
       "Rewari": {
@@ -1727,36 +1751,45 @@
         }
       },
       "Sirsa": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 80,
-          "recovered": 51
+          "recovered": 54
         }
       },
       "Sonipat": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 668,
           "deceased": 9,
-          "recovered": 263
+          "recovered": 267
         }
       },
       "Yamunanagar": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 69,
           "recovered": 20
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T00:45:48+05:30",
+      "last_updated": "2020-06-18T14:22:47+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2017-06-20%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 8832,
+      "confirmed": 8946,
       "deceased": 130,
-      "recovered": 3952,
+      "recovered": 4098,
       "tested": 197703
     }
   },
@@ -4816,23 +4849,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1179,
+      "confirmed": 1293,
       "deceased": 12,
-      "recovered": 259,
+      "recovered": 405,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T14:12:46+05:30",
+      "last_updated": "2020-06-18T14:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 368443,
+      "confirmed": 368557,
       "deceased": 12274,
       "migrated": 45,
-      "recovered": 194697,
+      "recovered": 194843,
       "tested": 6249668
     }
   },
