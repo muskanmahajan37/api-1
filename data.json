@@ -1263,15 +1263,15 @@
 	],
 	"statewise": [
 		{
-			"active": "161133",
-			"confirmed": "367879",
-			"deaths": "12263",
-			"deltaconfirmed": "615",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "18/06/2020 10:52:45",
+			"active": "161092",
+			"confirmed": "367963",
+			"deaths": "12273",
+			"deltaconfirmed": "699",
+			"deltadeaths": "10",
+			"deltarecovered": "115",
+			"lastupdatedtime": "18/06/2020 11:03:46",
 			"migratedother": "45",
-			"recovered": "194438",
+			"recovered": "194553",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1347,15 +1347,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2762",
-			"confirmed": "13542",
-			"deaths": "313",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "18/06/2020 00:22:52",
+			"active": "2721",
+			"confirmed": "13626",
+			"deaths": "323",
+			"deltaconfirmed": "84",
+			"deltadeaths": "10",
+			"deltarecovered": "115",
+			"lastupdatedtime": "18/06/2020 11:02:47",
 			"migratedother": "0",
-			"recovered": "10467",
+			"recovered": "10582",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1507,7 +1507,7 @@
 			"deltaconfirmed": "174",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/06/2020 10:52:48",
+			"lastupdatedtime": "18/06/2020 11:02:49",
 			"migratedother": "0",
 			"recovered": "3047",
 			"state": "Odisha",
@@ -3181,6 +3181,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "6084256",
 			"updatetimestamp": "17/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "165412",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/525",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "6249668",
+			"updatetimestamp": "18/06/2020 09:00:00"
 		}
 	]
 }
