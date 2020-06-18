@@ -4323,8 +4323,11 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 28
+          "confirmed": 29
         }
       },
       "Kiphire": {
@@ -4338,8 +4341,11 @@
         }
       },
       "Mon": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 33
+          "confirmed": 45
         }
       },
       "Others": {
@@ -4358,16 +4364,15 @@
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 10
+          "confirmed": 11
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 14
-        },
         "total": {
-          "confirmed": 14,
           "recovered": 103
         }
       },
