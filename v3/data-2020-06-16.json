@@ -6076,66 +6076,78 @@
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 201,
-          "recovered": 176
+          "recovered": 184
         }
       },
       "Gomati": {
+        "delta": {
+          "recovered": 21
+        },
         "total": {
           "confirmed": 102,
-          "recovered": 40
+          "recovered": 61
         }
       },
       "Khowai": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 30,
-          "recovered": 16
+          "recovered": 23
         }
       },
       "North Tripura": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 14,
-          "recovered": 7
+          "recovered": 9
         }
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 37
         },
         "total": {
           "confirmed": 518,
-          "recovered": 99
+          "recovered": 136
         }
       },
       "South Tripura": {
-        "total": {
-          "confirmed": 78,
-          "recovered": 31
-        }
-      },
-      "Unknown": {
         "delta": {
-          "recovered": 123
+          "recovered": 26
         },
         "total": {
-          "recovered": 123
+          "confirmed": 78,
+          "recovered": 57
         }
       },
       "Unokoti": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 59,
-          "recovered": 44
+          "recovered": 45
         }
       },
       "West Tripura": {
         "delta": {
-          "confirmed": -1
+          "confirmed": -1,
+          "recovered": 21
         },
         "total": {
           "confirmed": 88,
           "deceased": 1,
-          "recovered": 20
+          "recovered": 41
         }
       }
     },
