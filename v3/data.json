@@ -1378,7 +1378,8 @@
       "last_updated": "2020-06-17T23:26:52+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-17"
+        "last_updated": "2020-06-17",
+        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-17.pdf"
       }
     },
     "total": {
@@ -1835,7 +1836,8 @@
   "HP": {
     "delta": {
       "confirmed": 10,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 1735
     },
     "districts": {
       "Bilaspur": {
@@ -1942,8 +1944,8 @@
       "last_updated": "2020-06-18T21:57:37+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/nhm_hp/status/1273281503095517184?s=09"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/nhm_hp/status/1273647252578267137?s=19"
       }
     },
     "total": {
@@ -1951,7 +1953,7 @@
       "deceased": 7,
       "migrated": 11,
       "recovered": 373,
-      "tested": 57479
+      "tested": 59214
     }
   },
   "HR": {
@@ -1959,7 +1961,7 @@
       "confirmed": 386,
       "deceased": 4,
       "recovered": 604,
-      "tested": 2549
+      "tested": 5105
     },
     "districts": {
       "Ambala": {
@@ -2186,21 +2188,22 @@
       "last_updated": "2020-06-18T21:57:28+05:30",
       "tested": {
         "last_updated": "2020-06-18",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20Covid%2019%20on%2018-06-2020%20Morning.pdf"
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2018-06-20%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 9218,
       "deceased": 134,
       "recovered": 4556,
-      "tested": 200252
+      "tested": 202808
     }
   },
   "JH": {
     "delta": {
       "confirmed": 23,
       "deceased": 1,
-      "recovered": 47
+      "recovered": 47,
+      "tested": 2182
     },
     "districts": {
       "Bokaro": {
@@ -2402,22 +2405,23 @@
     "meta": {
       "last_updated": "2020-06-18T21:43:53+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/ANI/status/1273295598456696833?s=19"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/FOBGumla/status/1273645365518991367?s=19"
       }
     },
     "total": {
       "confirmed": 1919,
       "deceased": 11,
       "recovered": 1198,
-      "tested": 113004
+      "tested": 115186
     }
   },
   "JK": {
     "delta": {
       "confirmed": 149,
       "deceased": 7,
-      "recovered": 230
+      "recovered": 230,
+      "tested": 6759
     },
     "districts": {
       "Anantnag": {
@@ -2629,15 +2633,15 @@
     "meta": {
       "last_updated": "2020-06-18T22:26:56+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/diprjk/status/1273260497169559554?s=19"
+        "last_updated": "2020-06-18",
+        "source": "https://twitter.com/diprjk/status/1273641365155401729?s=19"
       }
     },
     "total": {
       "confirmed": 5555,
       "deceased": 71,
       "recovered": 3144,
-      "tested": 282268
+      "tested": 289027
     }
   },
   "KA": {
@@ -4830,6 +4834,8 @@
   },
   "PY": {
     "delta": {
+      "confirmed": 26,
+      "recovered": 7,
       "tested": 323
     },
     "districts": {
@@ -4840,30 +4846,37 @@
         }
       },
       "Mahe": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 9,
-          "recovered": 5
+          "recovered": 8
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 26,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 228,
+          "confirmed": 254,
           "deceased": 5,
-          "recovered": 102
+          "recovered": 106
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-17T19:26:10+05:30",
+      "last_updated": "2020-06-18T22:53:02+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
-      "confirmed": 245,
+      "confirmed": 271,
       "deceased": 5,
-      "recovered": 109,
+      "recovered": 116,
       "tested": 11679
     }
   },
@@ -6089,7 +6102,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T22:42:56+05:30",
+      "last_updated": "2020-06-18T22:47:57+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/524"
@@ -6104,24 +6117,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10880,
+      "confirmed": 10906,
       "deceased": 277,
       "migrated": 1,
-      "recovered": 6851,
+      "recovered": 6858,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-18T22:42:53+05:30",
+      "last_updated": "2020-06-18T22:52:53+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
       }
     },
     "total": {
-      "confirmed": 378145,
+      "confirmed": 378171,
       "deceased": 12539,
       "migrated": 46,
-      "recovered": 201290,
+      "recovered": 201297,
       "tested": 6249668
     }
   },
