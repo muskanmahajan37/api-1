@@ -4855,6 +4855,7 @@
   "PY": {
     "delta": {
       "confirmed": 26,
+      "deceased": 1,
       "recovered": 7,
       "tested": 323
     },
@@ -4877,17 +4878,18 @@
       "Puducherry": {
         "delta": {
           "confirmed": 26,
+          "deceased": 1,
           "recovered": 4
         },
         "total": {
           "confirmed": 254,
-          "deceased": 5,
+          "deceased": 6,
           "recovered": 106
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T23:05:52+05:30",
+      "last_updated": "2020-06-19T08:35:49+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
@@ -4895,7 +4897,7 @@
     },
     "total": {
       "confirmed": 271,
-      "deceased": 5,
+      "deceased": 6,
       "recovered": 116,
       "tested": 11679
     }
@@ -6140,13 +6142,13 @@
   "TT": {
     "delta": {
       "confirmed": 13826,
-      "deceased": 342,
+      "deceased": 343,
       "migrated": 1,
       "recovered": 10743,
       "tested": 165412
     },
     "meta": {
-      "last_updated": "2020-06-19T00:45:46+05:30",
+      "last_updated": "2020-06-19T08:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
@@ -6154,7 +6156,7 @@
     },
     "total": {
       "confirmed": 381091,
-      "deceased": 12604,
+      "deceased": 12605,
       "migrated": 46,
       "recovered": 205182,
       "tested": 6249668
