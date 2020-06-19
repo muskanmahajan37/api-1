@@ -27,7 +27,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T14:42:52+05:30",
+      "last_updated": "2020-06-19T14:45:50+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://dhs.andaman.gov.in/NewEvents/296.pdf"
@@ -40,6 +40,11 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 465,
+      "deceased": 4,
+      "recovered": 133
+    },
     "districts": {
       "Anantapur": {
         "total": {
@@ -63,8 +68,11 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 19
+        },
         "total": {
-          "confirmed": 289,
+          "confirmed": 308,
           "recovered": 47
         }
       },
@@ -76,9 +84,12 @@
         }
       },
       "Krishna": {
+        "delta": {
+          "deceased": 2
+        },
         "total": {
           "confirmed": 849,
-          "deceased": 29,
+          "deceased": 31,
           "recovered": 405
         }
       },
@@ -90,15 +101,22 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 70,
+          "recovered": 51
+        },
         "total": {
-          "confirmed": 1353,
-          "recovered": 742
+          "confirmed": 1423,
+          "recovered": 793
         }
       },
       "Prakasam": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 128,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 88
         }
       },
@@ -110,9 +128,23 @@
         }
       },
       "Srikakulam": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 59,
+          "deceased": 1,
           "recovered": 22
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 376,
+          "recovered": 82
+        },
+        "total": {
+          "confirmed": 376,
+          "recovered": 82
         }
       },
       "Visakhapatnam": {
@@ -142,7 +174,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T13:38:49+05:30",
+      "last_updated": "2020-06-19T14:52:47+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-18",
@@ -150,9 +182,9 @@
       }
     },
     "total": {
-      "confirmed": 7496,
-      "deceased": 92,
-      "recovered": 3772,
+      "confirmed": 7961,
+      "deceased": 96,
+      "recovered": 3905,
       "tested": 612397
     }
   },
@@ -4708,23 +4740,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 472,
-      "deceased": 1,
-      "recovered": 107,
+      "confirmed": 937,
+      "deceased": 5,
+      "migrated": 4,
+      "recovered": 240,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T14:42:46+05:30",
+      "last_updated": "2020-06-19T14:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 381563,
-      "deceased": 12606,
-      "migrated": 46,
-      "recovered": 205290,
+      "confirmed": 382028,
+      "deceased": 12610,
+      "migrated": 50,
+      "recovered": 205423,
       "tested": 6426627
     }
   },
@@ -5272,6 +5305,7 @@
   "UT": {
     "delta": {
       "confirmed": 24,
+      "migrated": 4,
       "recovered": 45
     },
     "districts": {
@@ -5316,12 +5350,13 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "migrated": 4
         },
         "total": {
           "confirmed": 566,
           "deceased": 16,
-          "migrated": 9,
+          "migrated": 13,
           "recovered": 363
         }
       },
@@ -5397,8 +5432,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T14:42:50+05:30",
-      "notes": "13 Migrated cases reduced from Active count",
+      "last_updated": "2020-06-19T14:52:49+05:30",
+      "notes": "17 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/PIBDehradun/status/1273548516409749504?s=09"
@@ -5407,7 +5442,7 @@
     "total": {
       "confirmed": 2127,
       "deceased": 26,
-      "migrated": 13,
+      "migrated": 17,
       "recovered": 1431,
       "tested": 50796
     }
