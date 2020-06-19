@@ -533,7 +533,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T19:34:51+05:30",
+      "last_updated": "2020-06-19T19:42:50+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-19"
@@ -1230,10 +1230,16 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 45,
+          "confirmed": 49,
           "recovered": 14
         }
       },
@@ -1254,14 +1260,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:36:06+05:30",
+      "last_updated": "2020-06-19T19:42:52+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/DnhPublicity/status/1272953162333212673?s=19"
       }
     },
     "total": {
-      "confirmed": 60,
+      "confirmed": 64,
       "recovered": 14,
       "tested": 19090
     }
@@ -2512,7 +2518,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T19:34:50+05:30",
+      "last_updated": "2020-06-19T19:42:49+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-18",
@@ -5229,7 +5235,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T19:34:48+05:30",
+      "last_updated": "2020-06-19T19:42:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-18",
@@ -5311,21 +5317,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3858,
+      "confirmed": 3862,
       "deceased": 62,
       "migrated": 4,
       "recovered": 2712,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T19:34:46+05:30",
+      "last_updated": "2020-06-19T19:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 384949,
+      "confirmed": 384953,
       "deceased": 12667,
       "migrated": 50,
       "recovered": 207895,
