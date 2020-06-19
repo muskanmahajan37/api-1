@@ -174,7 +174,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T15:01:49+05:30",
+      "last_updated": "2020-06-19T15:03:53+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-18",
@@ -3191,11 +3191,17 @@
     }
   },
   "MZ": {
+    "delta": {
+      "recovered": 8
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 32,
-          "recovered": 1
+          "recovered": 3
         }
       },
       "Champhai": {
@@ -3209,8 +3215,12 @@
         }
       },
       "Kolasib": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 11
+          "confirmed": 11,
+          "recovered": 6
         }
       },
       "Lawngtlai": {
@@ -3245,7 +3255,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T09:05:49+05:30",
+      "last_updated": "2020-06-19T15:12:51+05:30",
       "tested": {
         "last_updated": "2020-06-17",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1662020-500pm-1762020-500-pm"
@@ -3253,7 +3263,7 @@
     },
     "total": {
       "confirmed": 130,
-      "recovered": 1,
+      "recovered": 9,
       "tested": 6035
     }
   },
@@ -4742,12 +4752,12 @@
     "delta": {
       "confirmed": 937,
       "deceased": 5,
-      "migrated": 4,
-      "recovered": 236,
+      "migrated": 2,
+      "recovered": 240,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T15:01:47+05:30",
+      "last_updated": "2020-06-19T15:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
@@ -4756,8 +4766,8 @@
     "total": {
       "confirmed": 382028,
       "deceased": 12610,
-      "migrated": 50,
-      "recovered": 205419,
+      "migrated": 48,
+      "recovered": 205423,
       "tested": 6426627
     }
   },
@@ -5305,8 +5315,8 @@
   "UT": {
     "delta": {
       "confirmed": 24,
-      "migrated": 4,
-      "recovered": 41
+      "migrated": 2,
+      "recovered": 37
     },
     "districts": {
       "Almora": {
@@ -5339,13 +5349,10 @@
         }
       },
       "Champawat": {
-        "delta": {
-          "recovered": 4
-        },
         "total": {
           "confirmed": 48,
           "deceased": 1,
-          "recovered": 48
+          "recovered": 44
         }
       },
       "Dehradun": {
@@ -5420,8 +5427,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "migrated": 2
+        "delta": {
+          "migrated": -2
         }
       },
       "Uttarkashi": {
@@ -5432,8 +5439,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T15:01:51+05:30",
-      "notes": "17 Migrated cases reduced from Active count",
+      "last_updated": "2020-06-19T15:12:49+05:30",
+      "notes": "15 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/PIBDehradun/status/1273548516409749504?s=09"
@@ -5442,8 +5449,8 @@
     "total": {
       "confirmed": 2127,
       "deceased": 26,
-      "migrated": 17,
-      "recovered": 1427,
+      "migrated": 15,
+      "recovered": 1423,
       "tested": 50796
     }
   },
