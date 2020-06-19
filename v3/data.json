@@ -1307,7 +1307,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T20:01:50+05:30",
+      "last_updated": "2020-06-19T20:05:49+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/DHS_Goa/status/1273615580721864705?s=19"
@@ -3098,107 +3098,165 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 75
+    },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 51,
+          "confirmed": 61,
           "recovered": 1
         }
       },
       "Chandel": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 14
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": -19
+        },
         "total": {
-          "confirmed": 113,
+          "confirmed": 94,
           "recovered": 18
         }
       },
       "Imphal East": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 17,
+          "confirmed": 28,
           "recovered": 12
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 64,
+          "confirmed": 62,
           "recovered": 5
         }
       },
-      "Kakching": {
+      "Jiribam": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 39
+          "confirmed": 2
+        }
+      },
+      "Kakching": {
+        "delta": {
+          "confirmed": 3
+        },
+        "total": {
+          "confirmed": 42
         }
       },
       "Kamjong": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 21,
           "recovered": 2
         }
       },
       "Kangpokpi": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 48
+          "confirmed": 56
         }
       },
       "Noney": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 22,
           "recovered": 1
         }
       },
       "Pherzawl": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 31
+          "confirmed": 32
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 46
+          "confirmed": 55
         }
       },
       "Tamenglong": {
+        "delta": {
+          "confirmed": 43
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 62,
           "recovered": 1
         }
       },
       "Tengnoupal": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 13
         }
       },
       "Thoubal": {
+        "delta": {
+          "confirmed": 17
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 33,
           "recovered": 4
         }
       },
       "Ukhrul": {
+        "delta": {
+          "confirmed": 43
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 84,
           "recovered": 2
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": -72
+        },
         "total": {
-          "confirmed": 72,
           "recovered": 153
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:21:55+05:30",
+      "last_updated": "2020-06-19T20:12:58+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/DiprManipur/status/1273611027746156544?s=19"
       }
     },
     "total": {
-      "confirmed": 606,
+      "confirmed": 681,
       "recovered": 199,
       "tested": 30476
     }
@@ -3654,7 +3712,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T20:01:47+05:30",
+      "last_updated": "2020-06-19T20:05:47+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/healthminmp/status/1273607077764587526?s=19"
@@ -5427,21 +5485,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4038,
+      "confirmed": 4113,
       "deceased": 71,
       "migrated": 4,
       "recovered": 2837,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T20:01:46+05:30",
+      "last_updated": "2020-06-19T20:12:55+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 385129,
+      "confirmed": 385204,
       "deceased": 12676,
       "migrated": 50,
       "recovered": 208020,
