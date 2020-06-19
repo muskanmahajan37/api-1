@@ -942,34 +942,34 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 1,
-      "recovered": 1,
+      "confirmed": 7,
+      "recovered": 9,
       "tested": 123
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 1,
-          "recovered": 1
+          "confirmed": 7,
+          "recovered": 9
         },
         "total": {
-          "confirmed": 375,
+          "confirmed": 381,
           "deceased": 6,
-          "recovered": 307
+          "recovered": 315
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:56:06+05:30",
+      "last_updated": "2020-06-19T23:43:51+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/indiacovid/7683"
       }
     },
     "total": {
-      "confirmed": 375,
+      "confirmed": 381,
       "deceased": 6,
-      "recovered": 307,
+      "recovered": 315,
       "tested": 6438
     }
   },
@@ -1288,7 +1288,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T00:45:49+05:30",
+      "last_updated": "2020-06-19T23:43:48+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-18",
@@ -1339,7 +1339,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T23:34:49+05:30",
+      "last_updated": "2020-06-19T23:40:52+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/DnhPublicity/status/1272953162333212673?s=19"
@@ -6152,24 +6152,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11463,
+      "confirmed": 11469,
       "deceased": 299,
       "migrated": 4,
-      "recovered": 6790,
+      "recovered": 6798,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T23:35:46+05:30",
+      "last_updated": "2020-06-19T23:43:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 392554,
+      "confirmed": 392560,
       "deceased": 12904,
       "migrated": 50,
-      "recovered": 211970,
+      "recovered": 211978,
       "tested": 6426627
     }
   },

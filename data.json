@@ -1268,19 +1268,28 @@
 			"totalconfirmed": "381095",
 			"totaldeceased": "12606",
 			"totalrecovered": "205181"
+		},
+		{
+			"dailyconfirmed": "11469",
+			"dailydeceased": "299",
+			"dailyrecovered": "6798",
+			"date": "19 June ",
+			"totalconfirmed": "392564",
+			"totaldeceased": "12905",
+			"totalrecovered": "211979"
 		}
 	],
 	"statewise": [
 		{
-			"active": "167629",
-			"confirmed": "392554",
-			"deaths": "12905",
-			"deltaconfirmed": "11463",
+			"active": "168410",
+			"confirmed": "395697",
+			"deaths": "12971",
+			"deltaconfirmed": "11469",
 			"deltadeaths": "299",
-			"deltarecovered": "6790",
-			"lastupdatedtime": "19/06/2020 23:35:46",
+			"deltarecovered": "6798",
+			"lastupdatedtime": "19/06/2020 23:43:46",
 			"migratedother": "50",
-			"recovered": "211970",
+			"recovered": "214266",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1314,15 +1323,15 @@
 			"statenotes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally"
 		},
 		{
-			"active": "26669",
-			"confirmed": "49979",
-			"deaths": "1969",
+			"active": "27452",
+			"confirmed": "53116",
+			"deaths": "2035",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/06/2020 00:45:49",
+			"lastupdatedtime": "19/06/2020 23:43:48",
 			"migratedother": "0",
-			"recovered": "21341",
+			"recovered": "23629",
 			"state": "Delhi",
 			"statecode": "DL",
 			"statenotes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin."
@@ -1664,15 +1673,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "62",
-			"confirmed": "375",
+			"active": "60",
+			"confirmed": "381",
 			"deaths": "6",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
-			"deltarecovered": "1",
-			"lastupdatedtime": "18/06/2020 20:56:06",
+			"deltarecovered": "9",
+			"lastupdatedtime": "19/06/2020 23:43:51",
 			"migratedother": "0",
-			"recovered": "307",
+			"recovered": "315",
 			"state": "Chandigarh",
 			"statecode": "CH",
 			"statenotes": ""
@@ -1754,7 +1763,7 @@
 			"deltaconfirmed": "14",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/06/2020 23:34:49",
+			"lastupdatedtime": "19/06/2020 23:40:52",
 			"migratedother": "0",
 			"recovered": "14",
 			"state": "Dadra and Nagar Haveli and Daman and Diu",
