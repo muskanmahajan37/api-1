@@ -3892,7 +3892,8 @@
   "NL": {
     "delta": {
       "confirmed": 5,
-      "recovered": 16
+      "recovered": 16,
+      "tested": 1063
     },
     "districts": {
       "Dimapur": {
@@ -3971,14 +3972,13 @@
     "meta": {
       "last_updated": "2020-06-19T16:05:51+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://twitter.com/MyGovNagaland/status/1273608335099490304?s=20"
+        "last_updated": "2020-06-19"
       }
     },
     "total": {
       "confirmed": 198,
       "recovered": 125,
-      "tested": 9039
+      "tested": 10102
     }
   },
   "OR": {
@@ -4280,6 +4280,9 @@
     }
   },
   "PB": {
+    "delta": {
+      "tested": 7484
+    },
     "districts": {
       "Amritsar": {
         "total": {
@@ -4432,22 +4435,23 @@
     "meta": {
       "last_updated": "2020-06-18T20:36:00+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2018-06-2020.pdf"
+        "last_updated": "2020-06-19",
+        "source": "https://t.me/indiacovid/7716?single"
       }
     },
     "total": {
       "confirmed": 3615,
       "deceased": 83,
       "recovered": 2570,
-      "tested": 219528
+      "tested": 227012
     }
   },
   "PY": {
     "delta": {
       "confirmed": 16,
       "deceased": 1,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 313
     },
     "districts": {
       "Karaikal": {
@@ -4481,7 +4485,7 @@
     "meta": {
       "last_updated": "2020-06-19T18:54:51+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
+        "last_updated": "2020-06-19",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
@@ -4489,7 +4493,7 @@
       "confirmed": 287,
       "deceased": 7,
       "recovered": 118,
-      "tested": 11679
+      "tested": 11992
     }
   },
   "RJ": {
