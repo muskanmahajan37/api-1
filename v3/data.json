@@ -224,8 +224,11 @@
     },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 70,
           "recovered": 2
         }
       },
@@ -235,8 +238,11 @@
         }
       },
       "Lohit": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 1
         }
       },
@@ -286,10 +292,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 13
+          "confirmed": 1
         }
       },
       "Upper Siang": {
@@ -299,8 +305,11 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 4
+          "confirmed": 5
         }
       },
       "West Siang": {
@@ -310,7 +319,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T00:02:54+05:30",
+      "last_updated": "2020-06-20T00:12:51+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/560"
@@ -547,7 +556,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T00:02:51+05:30",
+      "last_updated": "2020-06-20T00:12:49+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-19",
@@ -1311,7 +1320,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T00:02:48+05:30",
+      "last_updated": "2020-06-20T00:03:49+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-18",
@@ -6085,7 +6094,8 @@
   "TR": {
     "delta": {
       "confirmed": 27,
-      "recovered": 18
+      "recovered": 18,
+      "tested": 1257
     },
     "districts": {
       "Dhalai": {
@@ -6162,15 +6172,14 @@
     "meta": {
       "last_updated": "2020-06-19T23:24:50+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/533"
+        "last_updated": "2020-06-19"
       }
     },
     "total": {
       "confirmed": 1181,
       "deceased": 1,
       "recovered": 657,
-      "tested": 51495
+      "tested": 52752
     }
   },
   "TT": {
@@ -6182,7 +6191,7 @@
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-20T00:02:46+05:30",
+      "last_updated": "2020-06-20T00:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
