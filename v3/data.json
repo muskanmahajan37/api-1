@@ -1320,7 +1320,8 @@
     "delta": {
       "confirmed": 2877,
       "deceased": 65,
-      "recovered": 3884
+      "recovered": 3884,
+      "tested": 8726
     },
     "districts": {
       "Central Delhi": {
@@ -1396,15 +1397,15 @@
       "last_updated": "2020-06-19T00:45:49+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-17.pdf"
+        "last_updated": "2020-06-18",
+        "source": "https://t.me/indiacovid/7657"
       }
     },
     "total": {
       "confirmed": 49979,
       "deceased": 1969,
       "recovered": 21341,
-      "tested": 312576
+      "tested": 321302
     }
   },
   "DN": {
@@ -6165,7 +6166,7 @@
     },
     "meta": {
       "last_updated": "2020-06-18T09:45:47+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 430 cases were increased in this category today by MoHFW. We have included these cases to this category"
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
     },
     "total": {
       "confirmed": 8703
