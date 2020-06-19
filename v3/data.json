@@ -929,12 +929,20 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 374,
+          "confirmed": 375,
           "deceased": 6,
-          "recovered": 306
+          "recovered": 307
         }
       }
     },
@@ -946,9 +954,9 @@
       }
     },
     "total": {
-      "confirmed": 374,
+      "confirmed": 375,
       "deceased": 6,
-      "recovered": 306,
+      "recovered": 307,
       "tested": 6315
     }
   },
@@ -1545,7 +1553,7 @@
   "HP": {
     "delta": {
       "confirmed": 24,
-      "migrated": 1,
+      "migrated": 2,
       "recovered": 4
     },
     "districts": {
@@ -1556,8 +1564,12 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "migrated": 1
+        },
         "total": {
           "confirmed": 43,
+          "migrated": 1,
           "recovered": 31
         }
       },
@@ -1648,8 +1660,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T18:42:50+05:30",
-      "notes": "HP has 13 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "last_updated": "2020-06-19T18:52:49+05:30",
+      "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/nhm_hp/status/1273647252578267137?s=19"
@@ -1658,7 +1670,7 @@
     "total": {
       "confirmed": 619,
       "deceased": 7,
-      "migrated": 12,
+      "migrated": 13,
       "recovered": 377,
       "tested": 59214
     }
@@ -2592,30 +2604,39 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 57
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 50
+        },
         "total": {
-          "confirmed": 505,
+          "confirmed": 555,
           "recovered": 29
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 182,
+          "confirmed": 189,
           "deceased": 1,
           "recovered": 66
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T17:35:51+05:30",
+      "last_updated": "2020-06-19T18:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/DIPR_Leh/status/1273577182011375616?s=19"
       }
     },
     "total": {
-      "confirmed": 687,
+      "confirmed": 744,
       "deceased": 1,
       "recovered": 95,
       "tested": 12082
@@ -4051,10 +4072,18 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 16,
+      "deceased": 1,
+      "recovered": 2
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 8,
+          "confirmed": 9,
           "recovered": 2
         }
       },
@@ -4065,24 +4094,29 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 15,
+          "deceased": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 254,
-          "deceased": 6,
-          "recovered": 106
+          "confirmed": 269,
+          "deceased": 7,
+          "recovered": 108
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T08:43:49+05:30",
+      "last_updated": "2020-06-19T18:52:50+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
-      "confirmed": 271,
-      "deceased": 6,
-      "recovered": 116,
+      "confirmed": 287,
+      "deceased": 7,
+      "recovered": 118,
       "tested": 11679
     }
   },
@@ -5016,24 +5050,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1332,
-      "deceased": 10,
-      "migrated": 3,
-      "recovered": 658,
+      "confirmed": 1406,
+      "deceased": 11,
+      "migrated": 4,
+      "recovered": 661,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T18:42:45+05:30",
+      "last_updated": "2020-06-19T18:52:45+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 382423,
-      "deceased": 12615,
-      "migrated": 49,
-      "recovered": 205841,
+      "confirmed": 382497,
+      "deceased": 12616,
+      "migrated": 50,
+      "recovered": 205844,
       "tested": 6426627
     }
   },
