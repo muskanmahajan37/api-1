@@ -48,22 +48,24 @@
     "districts": {
       "Anantapur": {
         "delta": {
-          "confirmed": 50
+          "confirmed": 50,
+          "recovered": 6
         },
         "total": {
           "confirmed": 692,
           "deceased": 6,
-          "recovered": 205
+          "recovered": 211
         }
       },
       "Chittoor": {
         "delta": {
-          "confirmed": 58
+          "confirmed": 58,
+          "recovered": 5
         },
         "total": {
           "confirmed": 464,
           "deceased": 5,
-          "recovered": 257
+          "recovered": 262
         }
       },
       "East Godavari": {
@@ -87,33 +89,36 @@
       },
       "Guntur": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 17,
+          "recovered": 13
         },
         "total": {
           "confirmed": 725,
           "deceased": 10,
-          "recovered": 467
+          "recovered": 480
         }
       },
       "Krishna": {
         "delta": {
           "confirmed": 82,
-          "deceased": 2
+          "deceased": 2,
+          "recovered": 23
         },
         "total": {
           "confirmed": 931,
           "deceased": 31,
-          "recovered": 405
+          "recovered": 428
         }
       },
       "Kurnool": {
         "delta": {
-          "confirmed": 31
+          "confirmed": 31,
+          "recovered": 5
         },
         "total": {
           "confirmed": 1232,
           "deceased": 31,
-          "recovered": 695
+          "recovered": 700
         }
       },
       "Other State": {
@@ -129,22 +134,24 @@
       "Prakasam": {
         "delta": {
           "confirmed": 31,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 7
         },
         "total": {
           "confirmed": 159,
           "deceased": 2,
-          "recovered": 88
+          "recovered": 95
         }
       },
       "S.P.S. Nellore": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 4
         },
         "total": {
           "confirmed": 453,
           "deceased": 4,
-          "recovered": 233
+          "recovered": 237
         }
       },
       "Srikakulam": {
@@ -157,22 +164,15 @@
           "recovered": 22
         }
       },
-      "Unknown": {
-        "delta": {
-          "recovered": 82
-        },
-        "total": {
-          "recovered": 82
-        }
-      },
       "Visakhapatnam": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "recovered": 6
         },
         "total": {
           "confirmed": 246,
           "deceased": 1,
-          "recovered": 131
+          "recovered": 137
         }
       },
       "Vizianagaram": {
@@ -183,20 +183,22 @@
       },
       "West Godavari": {
         "delta": {
-          "confirmed": 47
+          "confirmed": 47,
+          "recovered": 4
         },
         "total": {
           "confirmed": 433,
-          "recovered": 74
+          "recovered": 78
         }
       },
       "Y.S.R. Kadapa": {
         "delta": {
-          "confirmed": 23
+          "confirmed": 23,
+          "recovered": 9
         },
         "total": {
           "confirmed": 315,
-          "recovered": 133
+          "recovered": 142
         }
       }
     },
@@ -3390,16 +3392,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T15:52:48+05:30",
+      "last_updated": "2020-06-19T16:03:48+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/pangnyu/status/1273206973086027776?s=20"
+        "last_updated": "2020-06-18"
       }
     },
     "total": {
       "confirmed": 198,
       "recovered": 125,
-      "tested": 8387
+      "tested": 9039
     }
   },
   "OR": {
@@ -4812,7 +4813,7 @@
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T15:52:46+05:30",
+      "last_updated": "2020-06-19T16:03:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
