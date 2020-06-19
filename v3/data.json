@@ -806,20 +806,12 @@
           "recovered": 220
         }
       },
-      "Purnea": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Purnia": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         },
         "total": {
-          "confirmed": 250,
+          "confirmed": 251,
           "recovered": 180
         }
       },
@@ -2140,7 +2132,6 @@
   "JH": {
     "delta": {
       "confirmed": 42,
-      "deceased": 1,
       "recovered": 138
     },
     "districts": {
@@ -2225,12 +2216,11 @@
       },
       "Hazaribagh": {
         "delta": {
-          "confirmed": 8,
-          "deceased": 1
+          "confirmed": 8
         },
         "total": {
           "confirmed": 162,
-          "deceased": 2,
+          "deceased": 1,
           "recovered": 115
         }
       },
@@ -2341,7 +2331,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T22:22:53+05:30",
+      "last_updated": "2020-06-19T22:34:56+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://twitter.com/FOBGumla/status/1273645365518991367?s=19"
@@ -2349,7 +2339,7 @@
     },
     "total": {
       "confirmed": 1961,
-      "deceased": 12,
+      "deceased": 11,
       "recovered": 1336,
       "tested": 115186
     }
@@ -2600,7 +2590,7 @@
         "total": {
           "confirmed": 364,
           "deceased": 2,
-          "recovered": 92
+          "recovered": 90
         }
       },
       "Belagavi": {
@@ -2717,7 +2707,7 @@
         "total": {
           "confirmed": 58,
           "deceased": 2,
-          "recovered": 41
+          "recovered": 39
         }
       },
       "Hassan": {
@@ -2759,7 +2749,7 @@
         },
         "total": {
           "confirmed": 52,
-          "recovered": 27
+          "recovered": 29
         }
       },
       "Koppal": {
@@ -2779,7 +2769,7 @@
         },
         "total": {
           "confirmed": 360,
-          "recovered": 317
+          "recovered": 318
         }
       },
       "Mysuru": {
@@ -2798,7 +2788,7 @@
         "total": {
           "confirmed": 35,
           "deceased": 2,
-          "recovered": 31
+          "recovered": 32
         }
       },
       "Raichur": {
@@ -2829,7 +2819,7 @@
         "total": {
           "confirmed": 107,
           "deceased": 1,
-          "recovered": 69
+          "recovered": 68
         }
       },
       "Tumakuru": {
@@ -2850,7 +2840,7 @@
         "total": {
           "confirmed": 1050,
           "deceased": 1,
-          "recovered": 946
+          "recovered": 944
         }
       },
       "Uttara Kannada": {
@@ -2870,7 +2860,7 @@
         "total": {
           "confirmed": 238,
           "deceased": 8,
-          "recovered": 204
+          "recovered": 205
         }
       },
       "Yadgir": {
@@ -2881,12 +2871,12 @@
         "total": {
           "confirmed": 877,
           "deceased": 1,
-          "recovered": 478
+          "recovered": 477
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T19:43:49+05:30",
+      "last_updated": "2020-06-19T22:34:53+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-18",
@@ -2897,7 +2887,7 @@
       "confirmed": 8281,
       "deceased": 124,
       "migrated": 4,
-      "recovered": 5213,
+      "recovered": 5210,
       "tested": 473507
     }
   },
@@ -3124,6 +3114,8 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 3827,
+      "deceased": 142,
       "tested": 17960
     },
     "districts": {
@@ -3359,6 +3351,16 @@
           "recovered": 8988
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 3827,
+          "deceased": 142
+        },
+        "total": {
+          "confirmed": 3827,
+          "deceased": 142
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 14,
@@ -3382,7 +3384,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T21:56:54+05:30",
+      "last_updated": "2020-06-19T22:34:50+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.",
       "tested": {
         "last_updated": "2020-06-19",
@@ -3390,8 +3392,8 @@
       }
     },
     "total": {
-      "confirmed": 120504,
-      "deceased": 5751,
+      "confirmed": 124331,
+      "deceased": 5893,
       "migrated": 13,
       "recovered": 60838,
       "tested": 737597
@@ -4396,17 +4398,12 @@
           "recovered": 110
         }
       },
-      "Jaipur": {
+      "Jajpur": {
         "delta": {
           "confirmed": 8
         },
         "total": {
-          "confirmed": 8
-        }
-      },
-      "Jajpur": {
-        "total": {
-          "confirmed": 350,
+          "confirmed": 358,
           "recovered": 326
         }
       },
@@ -6117,24 +6114,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7618,
-      "deceased": 158,
+      "confirmed": 11445,
+      "deceased": 299,
       "migrated": 4,
       "recovered": 4830,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T22:22:46+05:30",
+      "last_updated": "2020-06-19T22:34:47+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 388709,
-      "deceased": 12763,
+      "confirmed": 392536,
+      "deceased": 12904,
       "migrated": 50,
-      "recovered": 210013,
+      "recovered": 210010,
       "tested": 6426627
     }
   },
@@ -7085,7 +7082,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T22:22:50+05:30",
+      "last_updated": "2020-06-19T22:24:55+05:30",
       "notes": "15 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-19",
