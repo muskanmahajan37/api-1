@@ -1750,14 +1750,18 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 24,
+      "confirmed": 32,
       "migrated": 2,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 1600
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 29,
+          "confirmed": 31,
           "recovered": 21
         }
       },
@@ -1773,10 +1777,10 @@
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 14
         },
         "total": {
-          "confirmed": 151,
+          "confirmed": 155,
           "deceased": 1,
           "recovered": 109
         }
@@ -1836,11 +1840,11 @@
       },
       "Solan": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 8,
           "recovered": 2
         },
         "total": {
-          "confirmed": 69,
+          "confirmed": 71,
           "migrated": 4,
           "recovered": 29
         }
@@ -1858,19 +1862,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T19:01:49+05:30",
+      "last_updated": "2020-06-19T23:18:07+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://twitter.com/nhm_hp/status/1273647252578267137?s=19"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/nhm_hp/status/1274009859927625728?s=09"
       }
     },
     "total": {
-      "confirmed": 619,
+      "confirmed": 627,
       "deceased": 7,
       "migrated": 10,
       "recovered": 377,
-      "tested": 59214
+      "tested": 60814
     }
   },
   "HR": {
@@ -2138,7 +2142,8 @@
   "JH": {
     "delta": {
       "confirmed": 42,
-      "recovered": 137
+      "recovered": 137,
+      "tested": 2383
     },
     "districts": {
       "Bokaro": {
@@ -2336,15 +2341,15 @@
     "meta": {
       "last_updated": "2020-06-19T22:56:52+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://twitter.com/FOBGumla/status/1273645365518991367?s=19"
+        "last_updated": "2020-06-19",
+        "source": "https://mobile.twitter.com/FOBGumla/status/1274012860163584002"
       }
     },
     "total": {
       "confirmed": 1961,
       "deceased": 11,
       "recovered": 1335,
-      "tested": 115186
+      "tested": 117569
     }
   },
   "JK": {
@@ -2572,7 +2577,8 @@
     "delta": {
       "confirmed": 337,
       "deceased": 10,
-      "recovered": 230
+      "recovered": 230,
+      "tested": 10553
     },
     "districts": {
       "Bagalkote": {
@@ -2882,8 +2888,8 @@
       "last_updated": "2020-06-19T22:44:51+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/18-06-2020%20HMB%20English.pdf"
+        "last_updated": "2020-06-19",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/19-06-2020%20HMB%20English.pdf"
       }
     },
     "total": {
@@ -2891,7 +2897,7 @@
       "deceased": 124,
       "migrated": 4,
       "recovered": 5210,
-      "tested": 473507
+      "tested": 484060
     }
   },
   "KL": {
@@ -3101,7 +3107,8 @@
     "meta": {
       "last_updated": "2020-06-19T19:01:47+05:30",
       "tested": {
-        "last_updated": "2020-06-19"
+        "last_updated": "2020-06-19",
+        "source": "https://www.facebook.com/114874993303412/photos/pcb.190452935745617/190452859078958/?type=3&__tn__=HH-R&eid=ARCDxFLy7dg0oHzi72lALMTGiXNaqdh3H13MqsVTznzPgbx-dbHpkZmo_4Hgb9u23ROPLwFhcSolghal&__xts__%5B0%5D=68.ARD0CE3zBWm7URTOzsIPVIUUCecaYkj20HRZR79s_dP5goqiEn4qcfwWaXFQ5S1Xi0eIK_XLTxWO3-uoEh1I11o98HAmjQeCTQVxkydziXxnuS4zd_sPdPrskaoL88npy5urzPlp_wDC-uk0un6koYEeT6h-pbA_Bv1RnITrG_ZAKHC7jpNOPfua5TDI1pqCXrRyZEmZ-m-rQcyX8ogCzt6dLxFiky6feQWKE5pUAXN8cxR5OV8Oq2kL9u0bIBlo1x-JZSinUxfzuqGgS3z_10Rii8JXcsKyN737n5JxRpd8i53IHd-4ZHYfsni3N6wW9Y6_Q3GU8HGrWcmrnMxC5ag"
       }
     },
     "total": {
@@ -3472,7 +3479,8 @@
   "MN": {
     "delta": {
       "confirmed": 75,
-      "recovered": 19
+      "recovered": 19,
+      "tested": 1617
     },
     "districts": {
       "Bishnupur": {
@@ -3645,21 +3653,22 @@
     "meta": {
       "last_updated": "2020-06-19T20:35:50+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://twitter.com/DiprManipur/status/1273611027746156544?s=19"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/DiprManipur/status/1273981216706854912?s=19"
       }
     },
     "total": {
       "confirmed": 681,
       "recovered": 218,
-      "tested": 30476
+      "tested": 32093
     }
   },
   "MP": {
     "delta": {
       "confirmed": 156,
       "deceased": 9,
-      "recovered": 116
+      "recovered": 116,
+      "tested": 5223
     },
     "districts": {
       "Agar Malwa": {
@@ -4108,15 +4117,15 @@
     "meta": {
       "last_updated": "2020-06-19T20:05:47+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://twitter.com/healthminmp/status/1273607077764587526?s=19"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/healthminmp/status/1273981302497107968?s=19"
       }
     },
     "total": {
       "confirmed": 11582,
       "deceased": 495,
       "recovered": 8748,
-      "tested": 277451
+      "tested": 282674
     }
   },
   "MZ": {
@@ -4884,7 +4893,8 @@
     "delta": {
       "confirmed": 299,
       "deceased": 3,
-      "recovered": 255
+      "recovered": 255,
+      "tested": 12827
     },
     "districts": {
       "Ajmer": {
@@ -5252,15 +5262,15 @@
     "meta": {
       "last_updated": "2020-06-19T22:07:50+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://t.me/indiacovid/7626"
+        "last_updated": "2020-06-19",
+        "source": "https://t.me/indiacovid/7730"
       }
     },
     "total": {
       "confirmed": 14156,
       "deceased": 333,
       "recovered": 10997,
-      "tested": 654816
+      "tested": 667643
     }
   },
   "SK": {
@@ -6116,7 +6126,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T23:12:51+05:30",
+      "last_updated": "2020-06-19T23:21:50+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/533"
@@ -6131,21 +6141,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11445,
+      "confirmed": 11453,
       "deceased": 299,
       "migrated": 4,
       "recovered": 6782,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T23:12:46+05:30",
+      "last_updated": "2020-06-19T23:21:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 392536,
+      "confirmed": 392544,
       "deceased": 12904,
       "migrated": 47,
       "recovered": 211962,
