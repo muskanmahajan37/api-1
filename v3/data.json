@@ -301,8 +301,8 @@
     "meta": {
       "last_updated": "2020-06-19T00:00:53+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/528"
+        "last_updated": "2020-06-18",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/560"
       }
     },
     "total": {
@@ -1304,7 +1304,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 14
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1317,13 +1317,19 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 10
+          "confirmed": 18
         }
       },
       "Diu": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Other State": {
@@ -1333,14 +1339,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T19:55:50+05:30",
+      "last_updated": "2020-06-19T23:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://twitter.com/DnhPublicity/status/1272953162333212673?s=19"
       }
     },
     "total": {
-      "confirmed": 64,
+      "confirmed": 74,
       "recovered": 14,
       "tested": 19090
     }
@@ -1752,7 +1758,7 @@
     "delta": {
       "confirmed": 32,
       "migrated": 2,
-      "recovered": 4,
+      "recovered": 12,
       "tested": 1600
     },
     "districts": {
@@ -1767,12 +1773,13 @@
       },
       "Chamba": {
         "delta": {
-          "migrated": 1
+          "migrated": 1,
+          "recovered": 3
         },
         "total": {
           "confirmed": 43,
           "migrated": 1,
-          "recovered": 31
+          "recovered": 34
         }
       },
       "Hamirpur": {
@@ -1841,18 +1848,21 @@
       "Solan": {
         "delta": {
           "confirmed": 8,
-          "recovered": 2
+          "recovered": 3
         },
         "total": {
           "confirmed": 71,
           "migrated": 4,
-          "recovered": 29
+          "recovered": 30
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 77,
-          "recovered": 43
+          "recovered": 47
         }
       },
       "Unknown": {
@@ -1872,8 +1882,8 @@
     "total": {
       "confirmed": 627,
       "deceased": 7,
-      "migrated": 10,
-      "recovered": 377,
+      "migrated": 13,
+      "recovered": 385,
       "tested": 60814
     }
   },
@@ -5322,7 +5332,8 @@
     "delta": {
       "confirmed": 499,
       "deceased": 3,
-      "recovered": 51
+      "recovered": 51,
+      "tested": 4658
     },
     "districts": {
       "Adilabad": {
@@ -5594,15 +5605,15 @@
     "meta": {
       "last_updated": "2020-06-19T21:36:57+05:30",
       "tested": {
-        "last_updated": "2020-06-17",
-        "source": "https://twitter.com/Eatala_Rajender/status/1273280512358936578?s=09"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/TelanganaHealth/status/1274009234267443200?s=19"
       }
     },
     "total": {
       "confirmed": 6526,
       "deceased": 198,
       "recovered": 3352,
-      "tested": 45911
+      "tested": 50569
     }
   },
   "TN": {
@@ -6126,7 +6137,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T23:21:50+05:30",
+      "last_updated": "2020-06-19T23:24:50+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/533"
@@ -6141,24 +6152,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11453,
+      "confirmed": 11463,
       "deceased": 299,
       "migrated": 4,
-      "recovered": 6782,
+      "recovered": 6790,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T23:21:46+05:30",
+      "last_updated": "2020-06-19T23:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 392544,
+      "confirmed": 392554,
       "deceased": 12904,
-      "migrated": 47,
-      "recovered": 211962,
+      "migrated": 50,
+      "recovered": 211970,
       "tested": 6426627
     }
   },
