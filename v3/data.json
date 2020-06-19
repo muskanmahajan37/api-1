@@ -219,6 +219,9 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 13
+    },
     "districts": {
       "Changlang": {
         "total": {
@@ -281,6 +284,14 @@
           "recovered": 1
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 13
+        },
+        "total": {
+          "confirmed": 13
+        }
+      },
       "Upper Siang": {
         "total": {
           "confirmed": 1,
@@ -299,20 +310,21 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T00:00:53+05:30",
+      "last_updated": "2020-06-20T00:02:54+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/560"
       }
     },
     "total": {
-      "confirmed": 103,
+      "confirmed": 116,
       "recovered": 11,
       "tested": 16630
     }
   },
   "AS": {
     "delta": {
+      "confirmed": 102,
       "recovered": 218,
       "tested": 12207
     },
@@ -518,10 +530,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 102,
           "recovered": 218
         },
         "total": {
-          "confirmed": 1077,
+          "confirmed": 1179,
           "deceased": 4,
           "migrated": 3,
           "recovered": 2195
@@ -534,7 +547,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T20:35:47+05:30",
+      "last_updated": "2020-06-20T00:02:51+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-19",
@@ -542,7 +555,7 @@
       }
     },
     "total": {
-      "confirmed": 4904,
+      "confirmed": 5006,
       "deceased": 9,
       "migrated": 3,
       "recovered": 3067,
@@ -960,7 +973,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T23:49:59+05:30",
+      "last_updated": "2020-06-19T23:52:52+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/indiacovid/7683"
@@ -1298,7 +1311,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T23:49:53+05:30",
+      "last_updated": "2020-06-20T00:02:48+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-18",
@@ -6162,21 +6175,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14606,
+      "confirmed": 14721,
       "deceased": 365,
       "migrated": 4,
       "recovered": 9026,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T23:49:46+05:30",
+      "last_updated": "2020-06-20T00:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 395697,
+      "confirmed": 395812,
       "deceased": 12970,
       "migrated": 50,
       "recovered": 214206,
