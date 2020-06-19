@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -14,21 +17,24 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 11,
           "recovered": 2
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-18T20:14:55+05:30",
+      "last_updated": "2020-06-19T14:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://dhs.andaman.gov.in/NewEvents/296.pdf"
       }
     },
     "total": {
-      "confirmed": 45,
+      "confirmed": 47,
       "recovered": 35,
       "tested": 11518
     }
@@ -4702,20 +4708,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 446,
+      "confirmed": 448,
       "deceased": 1,
       "recovered": 62,
       "tested": 176959
     },
     "meta": {
-      "last_updated": "2020-06-19T13:46:46+05:30",
+      "last_updated": "2020-06-19T14:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 381537,
+      "confirmed": 381539,
       "deceased": 12606,
       "migrated": 46,
       "recovered": 205245,
