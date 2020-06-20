@@ -220,7 +220,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 13
+      "confirmed": 13,
+      "tested": 1378
     },
     "districts": {
       "Changlang": {
@@ -321,14 +322,13 @@
     "meta": {
       "last_updated": "2020-06-20T00:12:51+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/560"
+        "last_updated": "2020-06-19"
       }
     },
     "total": {
       "confirmed": 116,
       "recovered": 11,
-      "tested": 16630
+      "tested": 18008
     }
   },
   "AS": {
@@ -1247,7 +1247,8 @@
     "delta": {
       "confirmed": 3137,
       "deceased": 66,
-      "recovered": 2228
+      "recovered": 2228,
+      "tested": 13074
     },
     "districts": {
       "Central Delhi": {
@@ -1323,15 +1324,14 @@
       "last_updated": "2020-06-20T00:03:49+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://t.me/indiacovid/7657"
+        "last_updated": "2020-06-19"
       }
     },
     "total": {
       "confirmed": 53116,
       "deceased": 2035,
       "recovered": 23569,
-      "tested": 321302
+      "tested": 334376
     }
   },
   "DN": {
@@ -6211,7 +6211,7 @@
     },
     "meta": {
       "last_updated": "2020-06-19T09:43:49+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 224 cases were increased in this category today by MoHFW. We have included these cases to this category"
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
     },
     "total": {
       "confirmed": 8927
