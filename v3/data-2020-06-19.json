@@ -2382,11 +2382,11 @@
     "districts": {
       "Anantnag": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 1,
           "recovered": 1
         },
         "total": {
-          "confirmed": 595,
+          "confirmed": 588,
           "deceased": 5,
           "recovered": 424
         }
@@ -2404,12 +2404,12 @@
       },
       "Baramulla": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 9,
           "deceased": 1,
           "recovered": 4
         },
         "total": {
-          "confirmed": 562,
+          "confirmed": 561,
           "deceased": 13,
           "recovered": 267
         }
@@ -2462,18 +2462,21 @@
         }
       },
       "Kishtwar": {
+        "delta": {
+          "recovered": -2
+        },
         "total": {
           "confirmed": 23,
-          "recovered": 10
+          "recovered": 8
         }
       },
       "Kulgam": {
         "delta": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 9
         },
         "total": {
-          "confirmed": 664,
+          "confirmed": 666,
           "deceased": 8,
           "recovered": 461
         }
@@ -2491,10 +2494,10 @@
       },
       "Pulwama": {
         "delta": {
-          "confirmed": 18
+          "confirmed": 19
         },
         "total": {
-          "confirmed": 300,
+          "confirmed": 301,
           "deceased": 2,
           "recovered": 70
         }
@@ -2527,11 +2530,11 @@
       },
       "Reasi": {
         "delta": {
-          "recovered": 2
+          "recovered": 4
         },
         "total": {
           "confirmed": 31,
-          "recovered": 20
+          "recovered": 22
         }
       },
       "Samba": {
@@ -2557,12 +2560,12 @@
       },
       "Srinagar": {
         "delta": {
-          "confirmed": 31,
+          "confirmed": 36,
           "deceased": 2,
           "recovered": 5
         },
         "total": {
-          "confirmed": 608,
+          "confirmed": 613,
           "deceased": 18,
           "recovered": 222
         }
