@@ -205,7 +205,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T19:01:59+05:30",
+      "last_updated": "2020-06-20T19:04:53+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-19",
@@ -313,6 +313,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "recovered": 136
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -514,11 +517,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 136
+        },
         "total": {
           "confirmed": 1179,
           "deceased": 4,
           "migrated": 3,
-          "recovered": 2195
+          "recovered": 2331
         }
       },
       "West Karbi Anglong": {
@@ -528,7 +534,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T00:12:49+05:30",
+      "last_updated": "2020-06-20T19:12:49+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-19",
@@ -539,7 +545,7 @@
       "confirmed": 5006,
       "deceased": 9,
       "migrated": 3,
-      "recovered": 3067,
+      "recovered": 3203,
       "tested": 258797
     }
   },
@@ -1196,16 +1202,18 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "recovered": 12
     },
     "districts": {
       "Dadra and Nagar Haveli": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 12
         },
         "total": {
           "confirmed": 55,
-          "recovered": 14
+          "recovered": 26
         }
       },
       "Daman": {
@@ -1225,7 +1233,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T19:02:56+05:30",
+      "last_updated": "2020-06-20T19:12:53+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD18062020.pdf"
@@ -1233,7 +1241,7 @@
     },
     "total": {
       "confirmed": 83,
-      "recovered": 14,
+      "recovered": 26,
       "tested": 26752
     }
   },
@@ -2169,7 +2177,8 @@
     "delta": {
       "confirmed": 416,
       "deceased": 9,
-      "recovered": 181
+      "recovered": 181,
+      "tested": 9833
     },
     "districts": {
       "Bagalkote": {
@@ -2506,11 +2515,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T19:02:51+05:30",
+      "last_updated": "2020-06-20T19:09:52+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/19-06-2020%20HMB%20English.pdf"
+        "last_updated": "2020-06-20",
+        "source": "https://t.me/indiacovid/7792"
       }
     },
     "total": {
@@ -2518,7 +2527,7 @@
       "deceased": 133,
       "migrated": 4,
       "recovered": 5391,
-      "tested": 484060
+      "tested": 493893
     }
   },
   "KL": {
@@ -5460,11 +5469,11 @@
     "delta": {
       "confirmed": 4732,
       "deceased": 60,
-      "recovered": 2319,
+      "recovered": 2467,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T19:02:48+05:30",
+      "last_updated": "2020-06-20T19:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
@@ -5474,7 +5483,7 @@
       "confirmed": 400566,
       "deceased": 13030,
       "migrated": 50,
-      "recovered": 216528,
+      "recovered": 216676,
       "tested": 6616496
     }
   },
