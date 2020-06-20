@@ -913,7 +913,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:49+05:30",
+      "last_updated": "2020-06-20T22:02:49+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/PIB_Patna/status/1274293529502789632"
@@ -1098,8 +1098,11 @@
         }
       },
       "Koriya": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 56,
+          "confirmed": 54,
           "recovered": 42
         }
       },
@@ -1186,14 +1189,6 @@
           "recovered": 25
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": -2
-        },
-        "total": {
-          "confirmed": -2
-        }
-      },
       "Uttar Bastar Kanker": {
         "total": {
           "confirmed": 26,
@@ -1202,7 +1197,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:53+05:30",
+      "last_updated": "2020-06-20T22:02:53+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://twitter.com/TS_SinghDeo/status/1274014655527088128?s=19"
@@ -1749,15 +1744,19 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 23,
-      "recovered": 17,
+      "confirmed": 29,
+      "recovered": 20,
       "tested": 1776
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 31,
-          "recovered": 21
+          "confirmed": 32,
+          "recovered": 23
         }
       },
       "Chamba": {
@@ -1815,14 +1814,14 @@
       },
       "Shimla": {
         "delta": {
-          "confirmed": 3,
-          "recovered": 1
+          "confirmed": 4,
+          "recovered": 2
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 30,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 12
+          "recovered": 13
         }
       },
       "Sirmaur": {
@@ -1837,20 +1836,21 @@
       },
       "Solan": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 73,
+          "confirmed": 74,
           "migrated": 4,
           "recovered": 30
         }
       },
       "Una": {
         "delta": {
+          "confirmed": 3,
           "recovered": 2
         },
         "total": {
-          "confirmed": 77,
+          "confirmed": 80,
           "recovered": 49
         }
       },
@@ -1861,7 +1861,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T18:35:51+05:30",
+      "last_updated": "2020-06-20T22:02:57+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-20",
@@ -1869,10 +1869,10 @@
       }
     },
     "total": {
-      "confirmed": 650,
+      "confirmed": 656,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 402,
+      "recovered": 405,
       "tested": 62590
     }
   },
@@ -5458,7 +5458,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:50+05:30",
+      "last_updated": "2020-06-20T22:02:50+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://twitter.com/TelanganaHealth/status/1274009234267443200?s=19"
@@ -5975,7 +5975,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:56+05:30",
+      "last_updated": "2020-06-20T22:02:55+05:30",
       "tested": {
         "last_updated": "2020-06-19"
       }
@@ -5989,23 +5989,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7975,
+      "confirmed": 7981,
       "deceased": 140,
-      "recovered": 4757,
+      "recovered": 4760,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:46+05:30",
+      "last_updated": "2020-06-20T22:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
       }
     },
     "total": {
-      "confirmed": 403809,
+      "confirmed": 403815,
       "deceased": 13109,
       "migrated": 50,
-      "recovered": 218966,
+      "recovered": 218969,
       "tested": 6616496
     }
   },
@@ -6801,7 +6801,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:47+05:30",
+      "last_updated": "2020-06-20T22:02:47+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/UPGovt/status/1274338954783776769?s=19"
@@ -6948,7 +6948,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:52:52+05:30",
+      "last_updated": "2020-06-20T22:02:52+05:30",
       "notes": "15 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-20",
