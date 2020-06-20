@@ -401,14 +401,14 @@
       {
         "district": "Longding",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2134,10 +2134,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 26725,
-        "confirmed": 52328,
-        "deceased": 2034,
-        "recovered": 23569,
+        "active": 22553,
+        "confirmed": 55958,
+        "deceased": 2111,
+        "recovered": 31294,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
