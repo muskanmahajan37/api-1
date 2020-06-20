@@ -301,7 +301,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T23:34:51+05:30",
+      "last_updated": "2020-06-20T23:41:49+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/561"
@@ -1291,7 +1291,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T23:34:47+05:30",
+      "last_updated": "2020-06-20T23:41:47+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-20",
@@ -2350,7 +2350,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T23:34:50+05:30",
+      "last_updated": "2020-06-20T23:35:49+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/FOBGumla/status/1274397139943059459?s=19"
@@ -3520,6 +3520,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 96
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -3616,17 +3619,25 @@
           "confirmed": 84,
           "recovered": 14
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 96
+        },
+        "total": {
+          "confirmed": 96
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T20:35:50+05:30",
+      "last_updated": "2020-06-20T23:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://twitter.com/DiprManipur/status/1273981216706854912?s=19"
       }
     },
     "total": {
-      "confirmed": 681,
+      "confirmed": 777,
       "recovered": 218,
       "tested": 32093
     }
@@ -4874,7 +4885,8 @@
     "delta": {
       "confirmed": 381,
       "deceased": 4,
-      "recovered": 277
+      "recovered": 277,
+      "tested": 15374
     },
     "districts": {
       "Ajmer": {
@@ -5235,15 +5247,15 @@
     "meta": {
       "last_updated": "2020-06-20T21:49:49+05:30",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://t.me/indiacovid/7730"
+        "last_updated": "2020-06-20",
+        "source": "https://t.me/indiacovid/7828"
       }
     },
     "total": {
       "confirmed": 14537,
       "deceased": 337,
       "recovered": 11274,
-      "tested": 667643
+      "tested": 683017
     }
   },
   "SK": {
@@ -6076,20 +6088,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 15548,
+      "confirmed": 15644,
       "deceased": 377,
       "recovered": 13935,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T23:34:46+05:30",
+      "last_updated": "2020-06-20T23:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
       }
     },
     "total": {
-      "confirmed": 411382,
+      "confirmed": 411478,
       "deceased": 13346,
       "migrated": 50,
       "recovered": 228144,
