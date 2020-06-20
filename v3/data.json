@@ -1453,7 +1453,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 23,
+      "recovered": 17
     },
     "districts": {
       "Bilaspur": {
@@ -1470,20 +1471,27 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 155,
+          "confirmed": 166,
           "deceased": 1,
           "recovered": 109
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 14
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 166,
+          "confirmed": 170,
           "deceased": 2,
-          "recovered": 100
+          "recovered": 114
         }
       },
       "Kinnaur": {
@@ -1493,8 +1501,11 @@
         }
       },
       "Kullu": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 3
         }
       },
@@ -1506,34 +1517,44 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 29,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 11
+          "recovered": 12
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 28,
+          "confirmed": 30,
           "migrated": 7,
           "recovered": 10
         }
       },
       "Solan": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 72,
+          "confirmed": 73,
           "migrated": 4,
           "recovered": 30
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 77,
-          "recovered": 47
+          "recovered": 49
         }
       },
       "Unknown": {
@@ -1543,7 +1564,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T13:06:48+05:30",
+      "last_updated": "2020-06-20T18:22:49+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-19",
@@ -1551,10 +1572,10 @@
       }
     },
     "total": {
-      "confirmed": 628,
+      "confirmed": 650,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 385,
+      "recovered": 402,
       "tested": 60814
     }
   },
@@ -2461,7 +2482,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T18:12:48+05:30",
+      "last_updated": "2020-06-20T18:17:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-19",
@@ -4940,23 +4961,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1167,
+      "confirmed": 1189,
       "deceased": 2,
-      "recovered": 716,
+      "recovered": 733,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T18:12:45+05:30",
+      "last_updated": "2020-06-20T18:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
       }
     },
     "total": {
-      "confirmed": 397001,
+      "confirmed": 397023,
       "deceased": 12972,
       "migrated": 50,
-      "recovered": 214925,
+      "recovered": 214942,
       "tested": 6616496
     }
   },
@@ -5490,15 +5511,15 @@
     "meta": {
       "last_updated": "2020-06-19T21:45:50+05:30",
       "tested": {
-        "last_updated": "2020-06-18",
-        "source": "https://twitter.com/ANINewsUP/status/1273558369979133953?s=19"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/UPGovt/status/1274008684876623874?s=19"
       }
     },
     "total": {
       "confirmed": 16594,
       "deceased": 507,
       "recovered": 9995,
-      "tested": 515280
+      "tested": 532505
     }
   },
   "UT": {
