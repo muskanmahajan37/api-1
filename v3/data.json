@@ -119,14 +119,6 @@
           "recovered": 729
         }
       },
-      "Nellore": {
-        "delta": {
-          "confirmed": 6
-        },
-        "total": {
-          "confirmed": 6
-        }
-      },
       "Other State": {
         "delta": {
           "confirmed": 83,
@@ -149,10 +141,11 @@
       },
       "S.P.S. Nellore": {
         "delta": {
+          "confirmed": 6,
           "recovered": 5
         },
         "total": {
-          "confirmed": 453,
+          "confirmed": 459,
           "deceased": 4,
           "recovered": 242
         }
@@ -964,7 +957,8 @@
     "delta": {
       "confirmed": 116,
       "deceased": 1,
-      "recovered": 63
+      "recovered": 63,
+      "tested": 3460
     },
     "districts": {
       "Balod": {
@@ -1200,15 +1194,14 @@
     "meta": {
       "last_updated": "2020-06-20T22:02:53+05:30",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://twitter.com/TS_SinghDeo/status/1274014655527088128?s=19"
+        "last_updated": "2020-06-20"
       }
     },
     "total": {
       "confirmed": 2134,
       "deceased": 11,
       "recovered": 1368,
-      "tested": 120523
+      "tested": 123983
     }
   },
   "DL": {
@@ -2876,7 +2869,8 @@
   "KL": {
     "delta": {
       "confirmed": 127,
-      "recovered": 57
+      "recovered": 57,
+      "tested": 4830
     },
     "districts": {
       "Alappuzha": {
@@ -3039,8 +3033,7 @@
       "last_updated": "2020-06-20T18:17:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-19.pdf"
+        "last_updated": "2020-06-20"
       }
     },
     "total": {
@@ -3048,7 +3041,7 @@
       "deceased": 22,
       "migrated": 2,
       "recovered": 1566,
-      "tested": 173729
+      "tested": 178559
     }
   },
   "LA": {
