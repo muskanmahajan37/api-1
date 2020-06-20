@@ -37,7 +37,8 @@
     "delta": {
       "confirmed": 491,
       "deceased": 5,
-      "recovered": 206
+      "recovered": 206,
+      "tested": 22371
     },
     "districts": {
       "Anantapur": {
@@ -208,15 +209,15 @@
       "last_updated": "2020-06-20T19:04:53+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://twitter.com/ArogyaAndhra/status/1273901271716515846?s=19"
+        "last_updated": "2020-06-20",
+        "source": "https://twitter.com/ArogyaAndhra/status/1274317274170535937?s=19"
       }
     },
     "total": {
       "confirmed": 8452,
       "deceased": 101,
       "recovered": 4111,
-      "tested": 630006
+      "tested": 652377
     }
   },
   "AR": {
@@ -3099,6 +3100,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 3874,
+      "deceased": 160,
+      "recovered": 1380,
       "tested": 19212
     },
     "districts": {
@@ -3334,6 +3338,18 @@
           "recovered": 9284
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 3874,
+          "deceased": 160,
+          "recovered": 1380
+        },
+        "total": {
+          "confirmed": 3874,
+          "deceased": 160,
+          "recovered": 1380
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 14,
@@ -3357,7 +3373,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T22:56:49+05:30",
+      "last_updated": "2020-06-20T22:35:48+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.",
       "tested": {
         "last_updated": "2020-06-20",
@@ -3365,10 +3381,10 @@
       }
     },
     "total": {
-      "confirmed": 124331,
-      "deceased": 5893,
+      "confirmed": 128205,
+      "deceased": 6053,
       "migrated": 13,
-      "recovered": 62773,
+      "recovered": 64153,
       "tested": 756809
     }
   },
@@ -5989,23 +6005,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7981,
-      "deceased": 140,
-      "recovered": 4760,
+      "confirmed": 11855,
+      "deceased": 300,
+      "recovered": 6140,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T22:15:46+05:30",
+      "last_updated": "2020-06-20T22:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
       }
     },
     "total": {
-      "confirmed": 403815,
-      "deceased": 13109,
+      "confirmed": 407689,
+      "deceased": 13269,
       "migrated": 50,
-      "recovered": 218969,
+      "recovered": 220349,
       "tested": 6616496
     }
   },
