@@ -308,7 +308,8 @@
   },
   "AS": {
     "delta": {
-      "recovered": 136
+      "recovered": 136,
+      "tested": 14250
     },
     "districts": {
       "Airport Quarantine": {
@@ -531,8 +532,7 @@
       "last_updated": "2020-06-20T19:25:49+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://twitter.com/nhm_assam/status/1274006092545228802?s=19"
+        "last_updated": "2020-06-20"
       }
     },
     "total": {
@@ -540,7 +540,7 @@
       "deceased": 9,
       "migrated": 3,
       "recovered": 3203,
-      "tested": 258797
+      "tested": 273047
     }
   },
   "BR": {
@@ -3033,7 +3033,8 @@
       "last_updated": "2020-06-20T18:17:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-20"
+        "last_updated": "2020-06-20",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-20.pdf"
       }
     },
     "total": {
