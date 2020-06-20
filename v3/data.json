@@ -1324,7 +1324,8 @@
       "last_updated": "2020-06-20T00:03:49+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-19"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/CMODelhi/status/1274041280650072064?s=19"
       }
     },
     "total": {
@@ -1336,7 +1337,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 14
+      "confirmed": 14,
+      "tested": 1059
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1373,14 +1375,14 @@
     "meta": {
       "last_updated": "2020-06-19T23:44:53+05:30",
       "tested": {
-        "last_updated": "2020-06-16",
-        "source": "https://twitter.com/DnhPublicity/status/1272953162333212673?s=19"
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/DnhPublicity/status/1274038004546367490?s=20"
       }
     },
     "total": {
       "confirmed": 74,
       "recovered": 14,
-      "tested": 19090
+      "tested": 20149
     }
   },
   "GA": {
