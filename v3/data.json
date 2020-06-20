@@ -216,7 +216,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 20
+          "confirmed": 13
         }
       },
       "Upper Siang": {
@@ -227,7 +227,7 @@
       },
       "West Kameng": {
         "total": {
-          "confirmed": 5
+          "confirmed": 12
         }
       },
       "West Siang": {
@@ -3325,7 +3325,8 @@
   "OR": {
     "delta": {
       "confirmed": 179,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 3167
     },
     "districts": {
       "Angul": {
@@ -3574,18 +3575,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T11:52:48+05:30",
+      "last_updated": "2020-06-20T11:53:48+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/546?single"
+        "last_updated": "2020-06-20",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/564?single"
       }
     },
     "total": {
       "confirmed": 4856,
       "deceased": 15,
       "recovered": 3297,
-      "tested": 216607
+      "tested": 219774
     }
   },
   "PB": {
@@ -4682,7 +4683,7 @@
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T11:52:46+05:30",
+      "last_updated": "2020-06-20T11:53:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
