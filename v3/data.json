@@ -3798,7 +3798,7 @@
   "PY": {
     "delta": {
       "confirmed": 51,
-      "recovered": 12
+      "recovered": 13
     },
     "districts": {
       "Karaikal": {
@@ -3811,9 +3811,12 @@
         }
       },
       "Mahe": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 9,
-          "recovered": 8
+          "recovered": 9
         }
       },
       "Puducherry": {
@@ -3829,7 +3832,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T13:42:51+05:30",
+      "last_updated": "2020-06-20T13:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
@@ -3838,7 +3841,7 @@
     "total": {
       "confirmed": 338,
       "deceased": 7,
-      "recovered": 130,
+      "recovered": 131,
       "tested": 11992
     }
   },
@@ -4777,11 +4780,11 @@
     "delta": {
       "confirmed": 830,
       "deceased": 1,
-      "recovered": 136,
+      "recovered": 137,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T13:42:47+05:30",
+      "last_updated": "2020-06-20T13:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
@@ -4791,7 +4794,7 @@
       "confirmed": 396661,
       "deceased": 12971,
       "migrated": 50,
-      "recovered": 214345,
+      "recovered": 214346,
       "tested": 6616496
     }
   },
