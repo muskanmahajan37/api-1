@@ -3169,13 +3169,19 @@
         }
       },
       "Champhai": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 8
         }
       },
       "Khawzawl": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Kolasib": {
@@ -3195,8 +3201,11 @@
         }
       },
       "Mamit": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 14
+          "confirmed": 18
         }
       },
       "Saiha": {
@@ -3210,16 +3219,11 @@
         }
       },
       "Serchhip": {
-        "total": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 10
+          "confirmed": 3
         }
       }
     },
@@ -4608,17 +4612,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10
+      "confirmed": 348
     },
     "meta": {
-      "last_updated": "2020-06-20T09:04:46+05:30",
+      "last_updated": "2020-06-20T09:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
       }
     },
     "total": {
-      "confirmed": 395841,
+      "confirmed": 396179,
       "deceased": 12970,
       "migrated": 50,
       "recovered": 214209,
@@ -4626,12 +4630,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 338
+    },
     "meta": {
-      "last_updated": "2020-06-19T09:43:49+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-06-20T09:52:48+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 338 cases were increased in this category today by MoHFW. We have included these cases to this category"
     },
     "total": {
-      "confirmed": 8927
+      "confirmed": 9265
     }
   },
   "UP": {
