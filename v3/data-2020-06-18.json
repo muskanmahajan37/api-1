@@ -1399,7 +1399,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 4,
       "recovered": 2
     },
     "districts": {
@@ -1414,8 +1414,11 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 10
+          "confirmed": 13
         }
       },
       "Diu": {
@@ -1436,7 +1439,7 @@
       }
     },
     "total": {
-      "confirmed": 60,
+      "confirmed": 63,
       "recovered": 14,
       "tested": 19090
     }
@@ -6213,7 +6216,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13826,
+      "confirmed": 13829,
       "deceased": 343,
       "migrated": 1,
       "recovered": 10741,
@@ -6226,7 +6229,7 @@
       }
     },
     "total": {
-      "confirmed": 381091,
+      "confirmed": 381094,
       "deceased": 12605,
       "migrated": 46,
       "recovered": 205180,
