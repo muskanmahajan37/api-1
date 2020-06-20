@@ -3321,7 +3321,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 179
+      "confirmed": 179,
+      "deceased": 1
     },
     "districts": {
       "Angul": {
@@ -3532,8 +3533,12 @@
         }
       },
       "Puri": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 211,
+          "deceased": 1,
           "recovered": 108
         }
       },
@@ -3566,7 +3571,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T11:05:48+05:30",
+      "last_updated": "2020-06-20T11:42:53+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-19",
@@ -3575,7 +3580,7 @@
     },
     "total": {
       "confirmed": 4856,
-      "deceased": 14,
+      "deceased": 15,
       "recovered": 3297,
       "tested": 216607
     }
@@ -4670,10 +4675,11 @@
   "TT": {
     "delta": {
       "confirmed": 530,
+      "deceased": 1,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T11:05:46+05:30",
+      "last_updated": "2020-06-20T11:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
@@ -4681,7 +4687,7 @@
     },
     "total": {
       "confirmed": 396361,
-      "deceased": 12970,
+      "deceased": 12971,
       "migrated": 50,
       "recovered": 214209,
       "tested": 6616496
