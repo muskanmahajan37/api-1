@@ -200,7 +200,7 @@
       "Papum Pare": {
         "total": {
           "confirmed": 11,
-          "recovered": 3
+          "recovered": 6
         }
       },
       "Tawang": {
@@ -216,8 +216,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 20,
-          "recovered": 3
+          "confirmed": 20
         }
       },
       "Upper Siang": {
@@ -4612,13 +4611,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 348
+      "confirmed": 348,
+      "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-20T10:02:46+05:30",
+      "last_updated": "2020-06-20T10:05:46+05:30",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
+        "last_updated": "2020-06-20"
       }
     },
     "total": {
@@ -4626,7 +4625,7 @@
       "deceased": 12970,
       "migrated": 50,
       "recovered": 214209,
-      "tested": 6426627
+      "tested": 6616496
     }
   },
   "UN": {
@@ -4634,7 +4633,7 @@
       "confirmed": 338
     },
     "meta": {
-      "last_updated": "2020-06-20T10:02:47+05:30",
+      "last_updated": "2020-06-20T10:05:48+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 338 cases were increased in this category today by MoHFW. We have included these cases to this category"
     },
     "total": {
