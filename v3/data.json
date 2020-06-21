@@ -940,7 +940,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T18:13:15+05:30",
+      "last_updated": "2020-06-21T18:19:15+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/PIB_Patna/status/1274293529502789632"
@@ -1575,7 +1575,7 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 2,
+      "confirmed": 6,
       "recovered": 1
     },
     "districts": {
@@ -1641,18 +1641,21 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 30,
+          "confirmed": 32,
           "migrated": 7,
           "recovered": 10
         }
       },
       "Solan": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 77,
           "migrated": 4,
           "recovered": 30
         }
@@ -1670,7 +1673,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T13:44:15+05:30",
+      "last_updated": "2020-06-21T18:23:15+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-20",
@@ -1678,7 +1681,7 @@
       }
     },
     "total": {
-      "confirmed": 658,
+      "confirmed": 662,
       "deceased": 7,
       "migrated": 13,
       "recovered": 406,
@@ -2589,7 +2592,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T18:13:17+05:30",
+      "last_updated": "2020-06-21T18:19:16+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-20",
@@ -5104,20 +5107,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1342,
+      "confirmed": 1346,
       "deceased": 17,
       "recovered": 967,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T18:13:13+05:30",
+      "last_updated": "2020-06-21T18:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 413088,
+      "confirmed": 413092,
       "deceased": 13294,
       "migrated": 50,
       "recovered": 229148,
