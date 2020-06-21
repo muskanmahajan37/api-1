@@ -2627,6 +2627,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "recovered": 5
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2648,9 +2651,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 1,
-          "recovered": 5
+          "recovered": 10
         }
       },
       "West Garo Hills": {
@@ -2682,7 +2688,7 @@
     "total": {
       "confirmed": 43,
       "deceased": 1,
-      "recovered": 32,
+      "recovered": 37,
       "tested": 15346
     }
   },
@@ -4624,6 +4630,7 @@
   "TT": {
     "delta": {
       "confirmed": -127,
+      "recovered": 5,
       "tested": 190730
     },
     "meta": {
@@ -4637,7 +4644,7 @@
       "confirmed": 411619,
       "deceased": 13277,
       "migrated": 50,
-      "recovered": 228181,
+      "recovered": 228186,
       "tested": 6807226
     }
   },
