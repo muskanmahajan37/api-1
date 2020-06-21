@@ -488,7 +488,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T11:52:14+05:30",
+      "last_updated": "2020-06-21T12:00:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-20",
@@ -3357,7 +3357,8 @@
   "OR": {
     "delta": {
       "confirmed": 304,
-      "deceased": 2
+      "deceased": 2,
+      "tested": 4628
     },
     "districts": {
       "Angul": {
@@ -3627,15 +3628,14 @@
       "last_updated": "2020-06-21T11:52:16+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/564?single"
+        "last_updated": "2020-06-21"
       }
     },
     "total": {
       "confirmed": 5160,
       "deceased": 17,
       "recovered": 3534,
-      "tested": 219774
+      "tested": 224402
     }
   },
   "PB": {
@@ -4789,7 +4789,7 @@
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T11:52:13+05:30",
+      "last_updated": "2020-06-21T12:00:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
