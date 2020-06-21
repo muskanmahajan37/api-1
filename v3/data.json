@@ -222,6 +222,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 4,
+      "recovered": 6
+    },
     "districts": {
       "Changlang": {
         "total": {
@@ -230,8 +234,12 @@
         }
       },
       "East Siang": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 4
         }
       },
       "Lohit": {
@@ -269,9 +277,13 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 24,
-          "recovered": 6
+          "confirmed": 28,
+          "recovered": 8
         }
       },
       "Tawang": {
@@ -303,15 +315,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T23:41:49+05:30",
+      "last_updated": "2020-06-21T22:23:16+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/578"
       }
     },
     "total": {
-      "confirmed": 135,
-      "recovered": 15,
+      "confirmed": 139,
+      "recovered": 21,
       "tested": 18521
     }
   },
@@ -1239,7 +1251,8 @@
     "meta": {
       "last_updated": "2020-06-21T21:05:18+05:30",
       "tested": {
-        "last_updated": "2020-06-21"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/TS_SinghDeo/status/1274728518639706115?s=20"
       }
     },
     "total": {
@@ -2353,7 +2366,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T22:13:15+05:30",
+      "last_updated": "2020-06-21T22:23:15+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/FOBGumla/status/1274397139943059459?s=19"
@@ -4863,7 +4876,8 @@
     "delta": {
       "confirmed": 154,
       "deceased": 4,
-      "recovered": 121
+      "recovered": 121,
+      "tested": 16109
     },
     "districts": {
       "Ajmer": {
@@ -5169,31 +5183,38 @@
     "meta": {
       "last_updated": "2020-06-21T11:04:14+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/indiacovid/7828"
+        "last_updated": "2020-06-21",
+        "source": "https://t.me/indiacovid/7922?single"
       }
     },
     "total": {
       "confirmed": 14691,
       "deceased": 341,
       "recovered": 11395,
-      "tested": 683017
+      "tested": 699126
     }
   },
   "SK": {
     "delta": {
+      "confirmed": 8,
       "tested": 2171
     },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 25,
           "recovered": 1
         }
       },
       "South Sikkim": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 31,
           "recovered": 18
         }
       },
@@ -5211,14 +5232,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T21:37:02+05:30",
+      "last_updated": "2020-06-21T22:23:18+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/582"
       }
     },
     "total": {
-      "confirmed": 70,
+      "confirmed": 78,
       "recovered": 21,
       "tested": 9354
     }
@@ -5227,7 +5248,8 @@
     "delta": {
       "confirmed": 730,
       "deceased": 7,
-      "recovered": 225
+      "recovered": 225,
+      "tested": 3297
     },
     "districts": {
       "Adilabad": {
@@ -5494,22 +5516,23 @@
     "meta": {
       "last_updated": "2020-06-21T21:45:15+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/Eatala_Rajender/status/1274375645510791170?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/Eatala_Rajender/status/1274733095598452737?s=19"
       }
     },
     "total": {
       "confirmed": 7802,
       "deceased": 210,
       "recovered": 3731,
-      "tested": 53757
+      "tested": 57054
     }
   },
   "TN": {
     "delta": {
       "confirmed": 2532,
       "deceased": 53,
-      "recovered": 1438
+      "recovered": 1438,
+      "tested": 31401
     },
     "districts": {
       "Airport Quarantine": {
@@ -5926,15 +5949,15 @@
       "last_updated": "2020-06-21T18:40:14+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-20-06-20-COVID-19-6-PM.pdf"
+        "last_updated": "2020-06-21",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21-06-20-COVID-19-6-PM.pdf"
       }
     },
     "total": {
       "confirmed": 59377,
       "deceased": 757,
       "recovered": 32754,
-      "tested": 861211
+      "tested": 892612
     }
   },
   "TR": {
@@ -6016,23 +6039,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10839,
+      "confirmed": 10851,
       "deceased": 232,
-      "recovered": 7147,
+      "recovered": 7153,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T22:13:13+05:30",
+      "last_updated": "2020-06-21T22:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 422591,
+      "confirmed": 422603,
       "deceased": 13509,
       "migrated": 50,
-      "recovered": 235330,
+      "recovered": 235336,
       "tested": 6807226
     }
   },
