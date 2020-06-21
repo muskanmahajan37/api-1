@@ -1309,7 +1309,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 6,
+      "confirmed": 11,
       "recovered": 12
     },
     "districts": {
@@ -1329,8 +1329,11 @@
         }
       },
       "Diu": {
-        "total": {
+        "delta": {
           "confirmed": 5
+        },
+        "total": {
+          "confirmed": 10
         }
       },
       "Other State": {
@@ -1340,14 +1343,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T19:25:53+05:30",
+      "last_updated": "2020-06-21T06:35:16+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD18062020.pdf"
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 88,
       "recovered": 26,
       "tested": 26752
     }
@@ -6106,20 +6109,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 15893,
+      "confirmed": 15898,
       "deceased": 308,
       "recovered": 13972,
       "tested": 189869
     },
     "meta": {
-      "last_updated": "2020-06-21T00:35:46+05:30",
+      "last_updated": "2020-06-21T06:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
       }
     },
     "total": {
-      "confirmed": 411727,
+      "confirmed": 411732,
       "deceased": 13277,
       "migrated": 50,
       "recovered": 228181,
