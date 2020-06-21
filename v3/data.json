@@ -329,8 +329,9 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 133,
-      "recovered": 202
+      "confirmed": 331,
+      "recovered": 202,
+      "tested": 15259
     },
     "districts": {
       "Airport Quarantine": {
@@ -559,10 +560,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 198,
           "recovered": 158
         },
         "total": {
-          "confirmed": 1428,
+          "confirmed": 1626,
           "deceased": 4,
           "migrated": 3,
           "recovered": 2489
@@ -575,19 +577,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T23:13:15+05:30",
+      "last_updated": "2020-06-22T00:03:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/nhm_assam/status/1274390750025994240?s=09"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/nhm_assam/status/1274731218043654145?s=19"
       }
     },
     "total": {
-      "confirmed": 5388,
+      "confirmed": 5586,
       "deceased": 9,
       "migrated": 3,
       "recovered": 3405,
-      "tested": 273047
+      "tested": 288306
     }
   },
   "BR": {
@@ -988,7 +990,8 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 99
     },
     "districts": {
       "Chandigarh": {
@@ -1005,15 +1008,15 @@
     "meta": {
       "last_updated": "2020-06-21T19:55:19+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/indiacovid/7820?single"
+        "last_updated": "2020-06-21",
+        "source": "https://t.me/indiacovid/7874"
       }
     },
     "total": {
       "confirmed": 406,
       "deceased": 6,
       "recovered": 316,
-      "tested": 6578
+      "tested": 6677
     }
   },
   "CT": {
@@ -1267,7 +1270,8 @@
     "delta": {
       "confirmed": 3000,
       "deceased": 63,
-      "recovered": 1719
+      "recovered": 1719,
+      "tested": 18105
     },
     "districts": {
       "Central Delhi": {
@@ -1343,15 +1347,15 @@
       "last_updated": "2020-06-21T19:45:14+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/CMODelhi/status/1274398460578394112?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-21.pdf"
       }
     },
     "total": {
       "confirmed": 59746,
       "deceased": 2175,
       "recovered": 33013,
-      "tested": 351909
+      "tested": 370014
     }
   },
   "DN": {
@@ -1400,7 +1404,8 @@
   "GA": {
     "delta": {
       "confirmed": 64,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 897
     },
     "districts": {
       "North Goa": {
@@ -1434,14 +1439,14 @@
     "meta": {
       "last_updated": "2020-06-21T19:45:19+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/DHS_Goa/status/1274343982882074624?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/DHS_Goa/status/1274702106398724097?s=19"
       }
     },
     "total": {
       "confirmed": 818,
       "recovered": 135,
-      "tested": 51404
+      "tested": 52301
     }
   },
   "GJ": {
@@ -1783,7 +1788,8 @@
     "meta": {
       "last_updated": "2020-06-21T20:25:15+05:30",
       "tested": {
-        "last_updated": "2020-06-21"
+        "last_updated": "2020-06-21",
+        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2106212020075508941.pdf"
       }
     },
     "total": {
@@ -6225,20 +6231,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14721,
+      "confirmed": 14919,
       "deceased": 418,
       "recovered": 8867,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T23:26:13+05:30",
+      "last_updated": "2020-06-22T00:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 426473,
+      "confirmed": 426671,
       "deceased": 13695,
       "migrated": 51,
       "recovered": 237050,
