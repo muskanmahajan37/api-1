@@ -5310,17 +5310,25 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-05-16",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
+      }
+    },
     "total": {
       "confirmed": 3147,
       "deceased": 105,
-      "recovered": 1587
+      "recovered": 1587,
+      "tested": 23388
     }
   },
   "TN": {
     "delta": {
       "confirmed": 1384,
       "deceased": 15,
-      "recovered": 585
+      "recovered": 585,
+      "tested": 16447
     },
     "districts": {
       "Airport Quarantine": {
@@ -5728,15 +5736,23 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-04",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-04.06.2020.pdf"
+      }
+    },
     "total": {
       "confirmed": 27256,
       "deceased": 223,
-      "recovered": 14901
+      "recovered": 14901,
+      "tested": 544981
     }
   },
   "TR": {
     "delta": {
-      "confirmed": 24
+      "confirmed": 24,
+      "tested": 657
     },
     "districts": {
       "Dhalai": {
@@ -5807,9 +5823,16 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/303"
+      }
+    },
     "total": {
       "confirmed": 646,
-      "recovered": 173
+      "recovered": 173,
+      "tested": 31138
     }
   },
   "TT": {
@@ -5846,7 +5869,8 @@
     "delta": {
       "confirmed": 367,
       "deceased": 15,
-      "recovered": 182
+      "recovered": 182,
+      "tested": 12883
     },
     "districts": {
       "Agra": {
@@ -6577,10 +6601,17 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/indiacovid/6310"
+      }
+    },
     "total": {
       "confirmed": 9237,
       "deceased": 245,
-      "recovered": 5439
+      "recovered": 5439,
+      "tested": 330663
     }
   },
   "UT": {
@@ -6588,7 +6619,8 @@
       "confirmed": 68,
       "deceased": 2,
       "migrated": 1,
-      "recovered": 38
+      "recovered": 38,
+      "tested": 704
     },
     "districts": {
       "Almora": {
@@ -6718,18 +6750,26 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-04",
+        "source": "https://health.uk.gov.in/files/2020.06.04_Health_Bulletin.pdf"
+      }
+    },
     "total": {
       "confirmed": 1153,
       "deceased": 10,
       "migrated": 4,
-      "recovered": 297
+      "recovered": 297,
+      "tested": 35117
     }
   },
   "WB": {
     "delta": {
       "confirmed": 368,
       "deceased": 10,
-      "recovered": 188
+      "recovered": 188,
+      "tested": 9606
     },
     "districts": {
       "Alipurduar": {
@@ -6969,10 +7009,17 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-04",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4th_JUNE_REPORT_FINAL.pdf"
+      }
+    },
     "total": {
       "confirmed": 6876,
       "deceased": 355,
-      "recovered": 2768
+      "recovered": 2768,
+      "tested": 241831
     }
   }
 }

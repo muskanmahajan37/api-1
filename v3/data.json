@@ -2513,7 +2513,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T16:33:15+05:30",
+      "last_updated": "2020-06-21T16:37:16+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://m.facebook.com/story.php?story_fbid=190751362382441&id=114874993303412"
@@ -4337,6 +4337,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "tested": 2171
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -4366,14 +4369,14 @@
     "meta": {
       "last_updated": "2020-06-19T21:37:02+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/574"
+        "last_updated": "2020-06-21",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/582"
       }
     },
     "total": {
       "confirmed": 70,
       "recovered": 21,
-      "tested": 7183
+      "tested": 9354
     }
   },
   "TG": {
@@ -4596,12 +4599,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T22:02:50+05:30"
+      "last_updated": "2020-06-20T22:02:50+05:30",
+      "tested": {
+        "last_updated": "2020-06-20",
+        "source": "https://twitter.com/Eatala_Rajender/status/1274375645510791170?s=19"
+      }
     },
     "total": {
       "confirmed": 7072,
       "deceased": 203,
-      "recovered": 3506
+      "recovered": 3506,
+      "tested": 53757
     }
   },
   "TN": {
@@ -4874,12 +4882,17 @@
     },
     "meta": {
       "last_updated": "2020-06-20T18:44:47+05:30",
-      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally"
+      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
+      "tested": {
+        "last_updated": "2020-06-20",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-20-06-20-COVID-19-6-PM.pdf"
+      }
     },
     "total": {
       "confirmed": 56845,
       "deceased": 704,
-      "recovered": 31316
+      "recovered": 31316,
+      "tested": 861211
     }
   },
   "TR": {
@@ -4935,12 +4948,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T00:25:54+05:30"
+      "last_updated": "2020-06-21T00:25:54+05:30",
+      "tested": {
+        "last_updated": "2020-06-20",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/576"
+      }
     },
     "total": {
       "confirmed": 1189,
       "deceased": 1,
-      "recovered": 680
+      "recovered": 680,
+      "tested": 53905
     }
   },
   "TT": {
@@ -5493,18 +5511,24 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T22:02:47+05:30"
+      "last_updated": "2020-06-20T22:02:47+05:30",
+      "tested": {
+        "last_updated": "2020-06-20",
+        "source": "https://twitter.com/UPGovt/status/1274338954783776769?s=19"
+      }
     },
     "total": {
       "confirmed": 17135,
       "deceased": 529,
-      "recovered": 10369
+      "recovered": 10369,
+      "tested": 542972
     }
   },
   "UT": {
     "delta": {
       "confirmed": 23,
-      "recovered": 36
+      "recovered": 36,
+      "tested": 1307
     },
     "districts": {
       "Almora": {
@@ -5616,13 +5640,18 @@
     },
     "meta": {
       "last_updated": "2020-06-21T15:34:15+05:30",
-      "notes": "15 Migrated cases reduced from Active count"
+      "notes": "15 Migrated cases reduced from Active count",
+      "tested": {
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/PIBDehradun/status/1274636383479410688?s=09"
+      }
     },
     "total": {
       "confirmed": 2324,
       "deceased": 27,
       "migrated": 15,
-      "recovered": 1486
+      "recovered": 1486,
+      "tested": 55819
     }
   },
   "WB": {
@@ -5787,12 +5816,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T21:15:47+05:30"
+      "last_updated": "2020-06-20T21:15:47+05:30",
+      "tested": {
+        "last_updated": "2020-06-20",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_20th_JUNE_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 13531,
       "deceased": 540,
-      "recovered": 7865
+      "recovered": 7865,
+      "tested": 390942
     }
   }
 }
