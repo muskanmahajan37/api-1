@@ -752,21 +752,21 @@
     "districts": {
       "Chandigarh": {
         "total": {
-          "confirmed": 390,
+          "confirmed": 404,
           "deceased": 6,
           "recovered": 316
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T20:06:51+05:30",
+      "last_updated": "2020-06-21T09:53:15+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/indiacovid/7820?single"
       }
     },
     "total": {
-      "confirmed": 390,
+      "confirmed": 404,
       "deceased": 6,
       "recovered": 316,
       "tested": 6578
@@ -3242,6 +3242,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 10
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3286,7 +3289,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
+          "confirmed": 10,
           "recovered": 132
         }
       },
@@ -3302,14 +3309,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T16:33:49+05:30",
+      "last_updated": "2020-06-21T09:53:16+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/MyGovNagaland/status/1274329669039296512?s=19"
       }
     },
     "total": {
-      "confirmed": 201,
+      "confirmed": 211,
       "recovered": 138,
       "tested": 9128
     }
@@ -4616,18 +4623,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 11,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T07:55:13+05:30",
+      "last_updated": "2020-06-21T09:53:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 411733,
+      "confirmed": 411757,
       "deceased": 13277,
       "migrated": 50,
       "recovered": 228181,
