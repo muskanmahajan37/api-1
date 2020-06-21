@@ -6122,7 +6122,7 @@
   "TR": {
     "delta": {
       "confirmed": 35,
-      "recovered": 8,
+      "recovered": 79,
       "tested": 1078
     },
     "districts": {
@@ -6158,29 +6158,32 @@
       },
       "North Tripura": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 2
         },
         "total": {
           "confirmed": 19,
-          "recovered": 10
+          "recovered": 12
         }
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 61
         },
         "total": {
           "confirmed": 533,
-          "recovered": 204
+          "recovered": 265
         }
       },
       "South Tripura": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 1
         },
         "total": {
           "confirmed": 101,
-          "recovered": 66
+          "recovered": 67
         }
       },
       "Unokoti": {
@@ -6194,17 +6197,18 @@
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 16
+          "confirmed": 16,
+          "recovered": 7
         },
         "total": {
           "confirmed": 143,
           "deceased": 1,
-          "recovered": 51
+          "recovered": 58
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T23:22:15+05:30",
+      "last_updated": "2020-06-21T23:26:15+05:30",
       "tested": {
         "last_updated": "2020-06-21"
       }
@@ -6212,7 +6216,7 @@
     "total": {
       "confirmed": 1224,
       "deceased": 1,
-      "recovered": 688,
+      "recovered": 759,
       "tested": 54983
     }
   },
@@ -6220,11 +6224,11 @@
     "delta": {
       "confirmed": 14721,
       "deceased": 418,
-      "recovered": 8796,
+      "recovered": 8867,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T23:22:13+05:30",
+      "last_updated": "2020-06-21T23:26:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
@@ -6234,7 +6238,7 @@
       "confirmed": 426473,
       "deceased": 13695,
       "migrated": 51,
-      "recovered": 236979,
+      "recovered": 237050,
       "tested": 6807226
     }
   },
