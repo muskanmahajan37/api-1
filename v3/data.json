@@ -315,7 +315,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T22:23:16+05:30",
+      "last_updated": "2020-06-21T22:35:21+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/578"
@@ -2929,7 +2929,8 @@
   "KL": {
     "delta": {
       "confirmed": 133,
-      "recovered": 93
+      "recovered": 93,
+      "tested": 4642
     },
     "districts": {
       "Alappuzha": {
@@ -3087,8 +3088,7 @@
       "last_updated": "2020-06-21T18:25:16+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-20.pdf"
+        "last_updated": "2020-06-21"
       }
     },
     "total": {
@@ -3096,7 +3096,7 @@
       "deceased": 22,
       "migrated": 2,
       "recovered": 1659,
-      "tested": 178559
+      "tested": 183201
     }
   },
   "LA": {
@@ -3356,6 +3356,7 @@
         "total": {
           "confirmed": 823,
           "deceased": 38,
+          "migrated": 1,
           "recovered": 565
         }
       },
@@ -3404,8 +3405,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T00:35:48+05:30",
-      "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
+      "last_updated": "2020-06-21T22:35:18+05:30",
+      "notes": "14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/Maha_MEDD/status/1274578476377321473?s=19"
@@ -3414,7 +3415,7 @@
     "total": {
       "confirmed": 128205,
       "deceased": 5984,
-      "migrated": 13,
+      "migrated": 14,
       "recovered": 64153,
       "tested": 775958
     }
@@ -3492,9 +3493,12 @@
     },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 74,
-          "recovered": 6
+          "recovered": 9
         }
       },
       "Chandel": {
@@ -3507,27 +3511,32 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 94,
-          "recovered": 42
+          "recovered": 44
         }
       },
       "Imphal East": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 7
         },
         "total": {
           "confirmed": 32,
-          "recovered": 9
+          "recovered": 16
         }
       },
       "Imphal West": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 3
         },
         "total": {
           "confirmed": 65,
-          "recovered": 31
+          "recovered": 34
         }
       },
       "Jiribam": {
@@ -3538,11 +3547,12 @@
       },
       "Kakching": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 4
         },
         "total": {
           "confirmed": 53,
-          "recovered": 13
+          "recovered": 17
         }
       },
       "Kamjong": {
@@ -3556,11 +3566,12 @@
       },
       "Kangpokpi": {
         "delta": {
-          "confirmed": 18
+          "confirmed": 18,
+          "recovered": 4
         },
         "total": {
           "confirmed": 96,
-          "recovered": 14
+          "recovered": 18
         }
       },
       "Noney": {
@@ -3576,18 +3587,22 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 67,
-          "recovered": 5
+          "recovered": 9
         }
       },
       "Tamenglong": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 2
         },
         "total": {
           "confirmed": 101,
-          "recovered": 16
+          "recovered": 18
         }
       },
       "Tengnoupal": {
@@ -3598,11 +3613,12 @@
       },
       "Thoubal": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 3
         },
         "total": {
           "confirmed": 39,
-          "recovered": 19
+          "recovered": 22
         }
       },
       "Ukhrul": {
@@ -3613,10 +3629,7 @@
       },
       "Unknown": {
         "delta": {
-          "recovered": 18
-        },
-        "total": {
-          "recovered": 32
+          "recovered": -14
         }
       }
     },
@@ -4116,7 +4129,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 434
     },
     "districts": {
       "Aizawl": {
@@ -4178,20 +4192,21 @@
     "meta": {
       "last_updated": "2020-06-21T07:55:15+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1962020-500pm-2062020-500-pm"
+        "last_updated": "2020-06-21",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2062020-500pm-2162020-500-pm"
       }
     },
     "total": {
       "confirmed": 141,
       "recovered": 9,
-      "tested": 8284
+      "tested": 8718
     }
   },
   "NL": {
     "delta": {
       "confirmed": 10,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 843
     },
     "districts": {
       "Dimapur": {
@@ -4270,14 +4285,14 @@
     "meta": {
       "last_updated": "2020-06-21T16:56:16+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/MyGovNagaland/status/1274329669039296512?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/MyGovNagaland/status/1274701169957330944?s=19"
       }
     },
     "total": {
       "confirmed": 211,
       "recovered": 141,
-      "tested": 9128
+      "tested": 9971
     }
   },
   "OR": {
@@ -5232,7 +5247,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T22:23:18+05:30",
+      "last_updated": "2020-06-21T22:35:22+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/582"
@@ -6045,7 +6060,7 @@
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T22:23:13+05:30",
+      "last_updated": "2020-06-21T22:35:15+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
@@ -6054,7 +6069,7 @@
     "total": {
       "confirmed": 422603,
       "deceased": 13509,
-      "migrated": 50,
+      "migrated": 51,
       "recovered": 235336,
       "tested": 6807226
     }
