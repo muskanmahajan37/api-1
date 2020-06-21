@@ -2487,32 +2487,42 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 17
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 17
+        },
         "total": {
           "confirmed": 623,
-          "recovered": 51
+          "recovered": 68
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 213,
+          "confirmed": 214,
           "deceased": 1,
           "recovered": 66
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T18:44:52+05:30",
+      "last_updated": "2020-06-21T16:23:15+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://m.facebook.com/story.php?story_fbid=190751362382441&id=114874993303412"
       }
     },
     "total": {
-      "confirmed": 836,
+      "confirmed": 837,
       "deceased": 1,
-      "recovered": 117,
+      "recovered": 134,
       "tested": 12629
     }
   },
@@ -4949,23 +4959,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1208,
+      "confirmed": 1209,
       "deceased": 15,
-      "recovered": 404,
+      "recovered": 421,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T15:34:13+05:30",
+      "last_updated": "2020-06-21T16:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 412954,
+      "confirmed": 412955,
       "deceased": 13292,
       "migrated": 50,
-      "recovered": 228585,
+      "recovered": 228602,
       "tested": 6807226
     }
   },
