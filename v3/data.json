@@ -575,7 +575,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T23:02:17+05:30",
+      "last_updated": "2020-06-21T23:13:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-20",
@@ -3545,7 +3545,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T23:02:14+05:30",
+      "last_updated": "2020-06-21T23:04:14+05:30",
       "notes": "14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-21",
@@ -3629,7 +3629,8 @@
   "MN": {
     "delta": {
       "confirmed": 64,
-      "recovered": 18
+      "recovered": 18,
+      "tested": 3850
     },
     "districts": {
       "Bishnupur": {
@@ -3776,21 +3777,22 @@
     "meta": {
       "last_updated": "2020-06-21T21:13:20+05:30",
       "tested": {
-        "last_updated": "2020-06-19",
-        "source": "https://twitter.com/DiprManipur/status/1273981216706854912?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/DiprManipur/status/1274733047158501383?s=09"
       }
     },
     "total": {
       "confirmed": 841,
       "recovered": 250,
-      "tested": 32093
+      "tested": 35943
     }
   },
   "MP": {
     "delta": {
       "confirmed": 179,
       "deceased": 14,
-      "recovered": 135
+      "recovered": 135,
+      "tested": 6112
     },
     "districts": {
       "Agar Malwa": {
@@ -4256,15 +4258,15 @@
     "meta": {
       "last_updated": "2020-06-21T21:13:14+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/healthminmp/status/1274325279947649030?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/healthminmp/status/1274723270244225024?s=19"
       }
     },
     "total": {
       "confirmed": 11903,
       "deceased": 515,
       "recovered": 9015,
-      "tested": 290831
+      "tested": 296943
     }
   },
   "MZ": {
@@ -6118,69 +6120,89 @@
   "TR": {
     "delta": {
       "confirmed": 35,
+      "recovered": 8,
       "tested": 1078
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 203,
-          "recovered": 198
+          "confirmed": 204,
+          "recovered": 200
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 117,
-          "recovered": 78
+          "confirmed": 121,
+          "recovered": 82
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 35,
-          "recovered": 24
+          "confirmed": 36,
+          "recovered": 26
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 17,
+          "confirmed": 19,
           "recovered": 10
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 526,
+          "confirmed": 533,
           "recovered": 204
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 99,
+          "confirmed": 101,
           "recovered": 66
         }
       },
-      "Unknown": {
+      "Unokoti": {
         "delta": {
-          "confirmed": 35
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 35
-        }
-      },
-      "Unokoti": {
-        "total": {
-          "confirmed": 65,
+          "confirmed": 67,
           "recovered": 49
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 127,
+          "confirmed": 143,
           "deceased": 1,
           "recovered": 51
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T21:13:18+05:30",
+      "last_updated": "2020-06-21T23:13:17+05:30",
       "tested": {
         "last_updated": "2020-06-21"
       }
@@ -6188,7 +6210,7 @@
     "total": {
       "confirmed": 1224,
       "deceased": 1,
-      "recovered": 680,
+      "recovered": 688,
       "tested": 54983
     }
   },
@@ -6196,11 +6218,11 @@
     "delta": {
       "confirmed": 14721,
       "deceased": 418,
-      "recovered": 8788,
+      "recovered": 8796,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T23:02:13+05:30",
+      "last_updated": "2020-06-21T23:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
@@ -6210,7 +6232,7 @@
       "confirmed": 426473,
       "deceased": 13695,
       "migrated": 51,
-      "recovered": 236971,
+      "recovered": 236979,
       "tested": 6807226
     }
   },
