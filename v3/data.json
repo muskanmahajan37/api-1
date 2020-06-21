@@ -21,7 +21,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-19T14:45:50+05:30",
+      "last_updated": "2020-06-21T19:13:16+05:30",
       "tested": {
         "last_updated": "2020-06-19",
         "source": "https://dhs.andaman.gov.in/NewEvents/300.pdf"
@@ -2207,6 +2207,7 @@
   "KA": {
     "delta": {
       "confirmed": 453,
+      "deceased": 5,
       "recovered": 225
     },
     "districts": {
@@ -2252,11 +2253,12 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 196,
+          "deceased": 3,
           "recovered": 17
         },
         "total": {
           "confirmed": 1272,
-          "deceased": 61,
+          "deceased": 64,
           "migrated": 1,
           "recovered": 410
         }
@@ -2264,11 +2266,12 @@
       "Bidar": {
         "delta": {
           "confirmed": 13,
+          "deceased": 2,
           "recovered": 58
         },
         "total": {
           "confirmed": 497,
-          "deceased": 13,
+          "deceased": 15,
           "recovered": 324
         }
       },
@@ -2518,7 +2521,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T19:03:14+05:30",
+      "last_updated": "2020-06-21T19:13:14+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-20",
@@ -2527,7 +2530,7 @@
     },
     "total": {
       "confirmed": 9150,
-      "deceased": 132,
+      "deceased": 137,
       "migrated": 4,
       "recovered": 5616,
       "tested": 493893
@@ -5356,12 +5359,12 @@
   "TT": {
     "delta": {
       "confirmed": 4331,
-      "deceased": 70,
+      "deceased": 75,
       "recovered": 2630,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T19:03:13+05:30",
+      "last_updated": "2020-06-21T19:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
@@ -5369,7 +5372,7 @@
     },
     "total": {
       "confirmed": 416077,
-      "deceased": 13347,
+      "deceased": 13352,
       "migrated": 50,
       "recovered": 230811,
       "tested": 6807226
