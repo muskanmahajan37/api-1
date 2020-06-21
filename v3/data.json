@@ -3329,7 +3329,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 300
+      "confirmed": 304,
+      "deceased": 2
     },
     "districts": {
       "Angul": {
@@ -3339,8 +3340,11 @@
         }
       },
       "Balangir": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 150,
+          "confirmed": 151,
           "recovered": 129
         }
       },
@@ -3356,10 +3360,12 @@
       },
       "Bargarh": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "deceased": 1
         },
         "total": {
           "confirmed": 66,
+          "deceased": 1,
           "recovered": 18
         }
       },
@@ -3395,8 +3401,11 @@
         }
       },
       "Dhenkanal": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 53,
           "recovered": 46
         }
       },
@@ -3411,11 +3420,12 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 40
+          "confirmed": 40,
+          "deceased": 1
         },
         "total": {
           "confirmed": 893,
-          "deceased": 6,
+          "deceased": 7,
           "recovered": 658
         }
       },
@@ -3559,8 +3569,11 @@
         }
       },
       "Sambalpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 24,
+          "confirmed": 26,
           "recovered": 18
         }
       },
@@ -3584,7 +3597,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T11:35:14+05:30",
+      "last_updated": "2020-06-21T11:43:14+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-20",
@@ -3592,8 +3605,8 @@
       }
     },
     "total": {
-      "confirmed": 5156,
-      "deceased": 15,
+      "confirmed": 5160,
+      "deceased": 17,
       "recovered": 3534,
       "tested": 219774
     }
@@ -4743,21 +4756,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 327,
-      "deceased": 4,
+      "confirmed": 331,
+      "deceased": 6,
       "recovered": 126,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T11:35:13+05:30",
+      "last_updated": "2020-06-21T11:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 412073,
-      "deceased": 13281,
+      "confirmed": 412077,
+      "deceased": 13283,
       "migrated": 50,
       "recovered": 228307,
       "tested": 6807226
