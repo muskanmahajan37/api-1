@@ -330,7 +330,7 @@
   "AS": {
     "delta": {
       "confirmed": 133,
-      "recovered": 158
+      "recovered": 202
     },
     "districts": {
       "Airport Quarantine": {
@@ -453,12 +453,13 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 73
+          "confirmed": 73,
+          "recovered": 44
         },
         "total": {
           "confirmed": 690,
           "deceased": 4,
-          "recovered": 339
+          "recovered": 383
         }
       },
       "Karbi Anglong": {
@@ -574,7 +575,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T21:17:17+05:30",
+      "last_updated": "2020-06-21T23:02:17+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-20",
@@ -585,7 +586,7 @@
       "confirmed": 5388,
       "deceased": 9,
       "migrated": 3,
-      "recovered": 3361,
+      "recovered": 3405,
       "tested": 273047
     }
   },
@@ -1447,7 +1448,8 @@
     "delta": {
       "confirmed": 580,
       "deceased": 25,
-      "recovered": 655
+      "recovered": 655,
+      "tested": 5460
     },
     "districts": {
       "Ahmedabad": {
@@ -1781,15 +1783,14 @@
     "meta": {
       "last_updated": "2020-06-21T20:25:15+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/indiacovid/7802?single"
+        "last_updated": "2020-06-21"
       }
     },
     "total": {
       "confirmed": 27317,
       "deceased": 1664,
       "recovered": 19357,
-      "tested": 319414
+      "tested": 324874
     }
   },
   "HP": {
@@ -3129,7 +3130,8 @@
     "meta": {
       "last_updated": "2020-06-21T16:37:16+05:30",
       "tested": {
-        "last_updated": "2020-06-21"
+        "last_updated": "2020-06-21",
+        "source": "https://www.facebook.com/114874993303412/photos/pcb.191046249019619/191046162352961/?type=3&__tn__=HH-R&eid=ARAE6mWIa6--A7ZYElLp4bvlQtYTiclZ6w89F9k4UMYkFWhRIkCQ5wPnLm4WDp1Zd8I6HA6iBP-UDGSG&__xts__%5B0%5D=68.ARAXZ9pfj-oAoKBiaw3Gs3T7UZ1D0au-_vyM3dIPUjorGQJ9wXT5i_MfrCGqTx3i6vsmhLXjlSRPMda-v9WWFUENKppYaqup_qAgAlva1zn1qplmfWWSNOBhs3PpOsjUHrAQFXvzngcooIqD8Tn2gQ2ysvCTIjV6UCye4lwKSYN4Ofq0WKDNKBGBxX73Dvtimttzm_K_uZL3I13yyZhMg-GLUuMjpOpvyZnKRDszrTq6Zcchymtn-NWRhbYkTFhe7P6Yb8TBhwpAxaLbWuPLPgCrEXbSZATyeJpkvQG5Dhp_eV5IbvoGRmYFXioLJ3le3KZqQcTVjRC8PIsCKnfEN9I"
       }
     },
     "total": {
@@ -3543,7 +3545,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T22:53:14+05:30",
+      "last_updated": "2020-06-21T23:02:14+05:30",
       "notes": "14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-21",
@@ -6115,7 +6117,8 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 35
+      "confirmed": 35,
+      "tested": 1078
     },
     "districts": {
       "Dhalai": {
@@ -6179,26 +6182,25 @@
     "meta": {
       "last_updated": "2020-06-21T21:13:18+05:30",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/576"
+        "last_updated": "2020-06-21"
       }
     },
     "total": {
       "confirmed": 1224,
       "deceased": 1,
       "recovered": 680,
-      "tested": 53905
+      "tested": 54983
     }
   },
   "TT": {
     "delta": {
       "confirmed": 14721,
       "deceased": 418,
-      "recovered": 8744,
+      "recovered": 8788,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T22:53:13+05:30",
+      "last_updated": "2020-06-21T23:02:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
@@ -6208,7 +6210,7 @@
       "confirmed": 426473,
       "deceased": 13695,
       "migrated": 51,
-      "recovered": 236927,
+      "recovered": 236971,
       "tested": 6807226
     }
   },
