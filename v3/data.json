@@ -23,21 +23,22 @@
     "meta": {
       "last_updated": "2020-06-19T14:45:50+05:30",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://dhs.andaman.gov.in/NewEvents/296.pdf"
+        "last_updated": "2020-06-19",
+        "source": "https://dhs.andaman.gov.in/NewEvents/300.pdf"
       }
     },
     "total": {
       "confirmed": 47,
       "recovered": 35,
-      "tested": 11518
+      "tested": 12930
     }
   },
   "AP": {
     "delta": {
       "confirmed": 477,
       "deceased": 5,
-      "recovered": 196
+      "recovered": 196,
+      "tested": 24451
     },
     "districts": {
       "Anantapur": {
@@ -201,15 +202,15 @@
       "last_updated": "2020-06-21T13:36:15+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://twitter.com/ArogyaAndhra/status/1274317274170535937?s=19"
+        "last_updated": "2020-06-21",
+        "source": "https://twitter.com/ArogyaAndhra/status/1274605653936373760?s=19"
       }
     },
     "total": {
       "confirmed": 8929,
       "deceased": 106,
       "recovered": 4307,
-      "tested": 652377
+      "tested": 676828
     }
   },
   "AR": {
@@ -3428,7 +3429,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 10
+      "confirmed": 10,
+      "recovered": 3
     },
     "districts": {
       "Dimapur": {
@@ -3475,11 +3477,12 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 3
         },
         "total": {
           "confirmed": 10,
-          "recovered": 132
+          "recovered": 135
         }
       },
       "Wokha": {
@@ -3494,7 +3497,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T10:06:19+05:30",
+      "last_updated": "2020-06-21T16:53:15+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/MyGovNagaland/status/1274329669039296512?s=19"
@@ -3502,7 +3505,7 @@
     },
     "total": {
       "confirmed": 211,
-      "recovered": 138,
+      "recovered": 141,
       "tested": 9128
     }
   },
@@ -4965,11 +4968,11 @@
     "delta": {
       "confirmed": 1209,
       "deceased": 15,
-      "recovered": 421,
+      "recovered": 424,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T16:37:14+05:30",
+      "last_updated": "2020-06-21T16:53:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
@@ -4979,7 +4982,7 @@
       "confirmed": 412955,
       "deceased": 13292,
       "migrated": 50,
-      "recovered": 228602,
+      "recovered": 228605,
       "tested": 6807226
     }
   },
