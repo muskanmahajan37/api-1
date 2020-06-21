@@ -198,7 +198,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T13:22:14+05:30",
+      "last_updated": "2020-06-21T13:26:15+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-20",
@@ -1508,6 +1508,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 1
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1516,10 +1520,14 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 44,
           "migrated": 1,
-          "recovered": 34
+          "recovered": 35
         }
       },
       "Hamirpur": {
@@ -1574,8 +1582,11 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 75,
           "migrated": 4,
           "recovered": 30
         }
@@ -1593,7 +1604,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-20T22:15:50+05:30",
+      "last_updated": "2020-06-21T13:35:16+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-20",
@@ -1601,10 +1612,10 @@
       }
     },
     "total": {
-      "confirmed": 656,
+      "confirmed": 658,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 405,
+      "recovered": 406,
       "tested": 62580
     }
   },
@@ -4897,23 +4908,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1040,
+      "confirmed": 1042,
       "deceased": 13,
-      "recovered": 322,
+      "recovered": 323,
       "tested": 190730
     },
     "meta": {
-      "last_updated": "2020-06-21T13:22:13+05:30",
+      "last_updated": "2020-06-21T13:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 412786,
+      "confirmed": 412788,
       "deceased": 13290,
       "migrated": 50,
-      "recovered": 228503,
+      "recovered": 228504,
       "tested": 6807226
     }
   },
