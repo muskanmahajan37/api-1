@@ -1082,10 +1082,17 @@
     }
   },
   "GA": {
+    "delta": {
+      "deceased": 1
+    },
     "districts": {
       "North Goa": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 6,
+          "deceased": 1,
           "recovered": 6
         }
       },
@@ -1108,7 +1115,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T19:45:19+05:30",
+      "last_updated": "2020-06-22T09:23:16+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/DHS_Goa/status/1274702106398724097?s=19"
@@ -1116,6 +1123,7 @@
     },
     "total": {
       "confirmed": 818,
+      "deceased": 1,
       "recovered": 135,
       "tested": 52301
     }
@@ -3219,7 +3227,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T09:11:16+05:30",
+      "last_updated": "2020-06-22T09:13:16+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2062020-500pm-2162020-500-pm"
@@ -3232,6 +3240,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 69
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3276,7 +3287,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 69
+        },
         "total": {
+          "confirmed": 69,
           "recovered": 135
         }
       },
@@ -3292,14 +3307,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T16:56:16+05:30",
+      "last_updated": "2020-06-22T09:23:19+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/MyGovNagaland/status/1274701169957330944?s=19"
       }
     },
     "total": {
-      "confirmed": 211,
+      "confirmed": 280,
       "recovered": 141,
       "tested": 9971
     }
@@ -4613,18 +4628,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 70,
+      "deceased": 1
     },
     "meta": {
-      "last_updated": "2020-06-22T09:11:13+05:30",
+      "last_updated": "2020-06-22T09:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
       }
     },
     "total": {
-      "confirmed": 426911,
-      "deceased": 13703,
+      "confirmed": 426980,
+      "deceased": 13704,
       "migrated": 51,
       "recovered": 237252,
       "tested": 6807226
