@@ -950,7 +950,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T09:53:17+05:30",
+      "last_updated": "2020-06-22T09:56:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/TS_SinghDeo/status/1274728518639706115?s=20"
@@ -3307,7 +3307,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T09:53:19+05:30",
+      "last_updated": "2020-06-22T09:56:19+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/MyGovNagaland/status/1274701169957330944?s=19"
@@ -3320,36 +3320,54 @@
     }
   },
   "OR": {
+    "delta": {
+      "confirmed": 143
+    },
     "districts": {
       "Angul": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 55,
+          "confirmed": 56,
           "recovered": 40
         }
       },
       "Balangir": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 151,
+          "confirmed": 152,
           "recovered": 129
         }
       },
       "Balasore": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 294,
+          "confirmed": 307,
           "deceased": 1,
           "recovered": 203
         }
       },
       "Bargarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 66,
+          "confirmed": 67,
           "deceased": 1,
           "recovered": 18
         }
       },
       "Bhadrak": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 196,
+          "confirmed": 200,
           "recovered": 175
         }
       },
@@ -3360,8 +3378,11 @@
         }
       },
       "Cuttack": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 394,
+          "confirmed": 414,
           "deceased": 1,
           "recovered": 375
         }
@@ -3373,8 +3394,11 @@
         }
       },
       "Dhenkanal": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 56,
           "recovered": 46
         }
       },
@@ -3385,15 +3409,21 @@
         }
       },
       "Ganjam": {
+        "delta": {
+          "confirmed": 32
+        },
         "total": {
-          "confirmed": 893,
+          "confirmed": 925,
           "deceased": 7,
           "recovered": 670
         }
       },
       "Jagatsinghpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 208,
+          "confirmed": 209,
           "recovered": 130
         }
       },
@@ -3404,14 +3434,20 @@
         }
       },
       "Jharsuguda": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 46,
+          "confirmed": 47,
           "recovered": 18
         }
       },
       "Kalahandi": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 64,
+          "confirmed": 70,
           "recovered": 38
         }
       },
@@ -3422,20 +3458,29 @@
         }
       },
       "Kendrapara": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 203,
+          "confirmed": 213,
           "recovered": 174
         }
       },
       "Kendujhar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 98,
+          "confirmed": 100,
           "recovered": 59
         }
       },
       "Khordha": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 444,
+          "confirmed": 460,
           "deceased": 6,
           "recovered": 394
         }
@@ -3466,8 +3511,11 @@
         }
       },
       "Nayagarh": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 116,
+          "confirmed": 129,
           "recovered": 111
         }
       },
@@ -3478,11 +3526,14 @@
         }
       },
       "Others": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "notes": "Includes NDRF-ODRF returnees after West Bengal Amphan duty"
         },
         "total": {
-          "confirmed": 266
+          "confirmed": 268
         }
       },
       "Puri": {
@@ -3499,8 +3550,11 @@
         }
       },
       "Sambalpur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 31,
           "recovered": 18
         }
       },
@@ -3511,14 +3565,17 @@
         }
       },
       "Sundargarh": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 147,
+          "confirmed": 159,
           "recovered": 126
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T17:26:15+05:30",
+      "last_updated": "2020-06-22T11:13:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-21",
@@ -3526,7 +3583,7 @@
       }
     },
     "total": {
-      "confirmed": 5160,
+      "confirmed": 5303,
       "deceased": 19,
       "recovered": 3720,
       "tested": 224402
@@ -4628,18 +4685,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -1225,
-      "deceased": 1
+      "confirmed": -1082,
+      "deceased": 1,
+      "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T09:53:13+05:30",
+      "last_updated": "2020-06-22T11:13:13+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
+        "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 425667,
+      "confirmed": 425810,
       "deceased": 13704,
       "migrated": 51,
       "recovered": 237252,
@@ -4651,7 +4709,7 @@
       "confirmed": -1295
     },
     "meta": {
-      "last_updated": "2020-06-22T09:53:15+05:30",
+      "last_updated": "2020-06-22T09:56:15+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 1295 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category"
     },
     "total": {
