@@ -1679,17 +1679,17 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 43,
-      "recovered": 5,
+      "confirmed": 54,
+      "recovered": 12,
       "tested": 854
     },
     "districts": {
       "Bilaspur": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 37,
           "recovered": 23
         }
       },
@@ -1759,29 +1759,33 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 32,
+          "confirmed": 34,
           "migrated": 7,
-          "recovered": 10
+          "recovered": 17
         }
       },
       "Solan": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 79,
+          "confirmed": 81,
           "migrated": 4,
           "recovered": 30
         }
       },
       "Una": {
         "delta": {
-          "confirmed": 9,
+          "confirmed": 13,
           "recovered": 2
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 93,
           "recovered": 56
         }
       },
@@ -1792,7 +1796,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T18:22:19+05:30",
+      "last_updated": "2020-06-22T21:23:19+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-22",
@@ -1800,10 +1804,10 @@
       }
     },
     "total": {
-      "confirmed": 716,
+      "confirmed": 727,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 422,
+      "recovered": 429,
       "tested": 65192
     }
   },
@@ -5279,7 +5283,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T21:13:16+05:30",
+      "last_updated": "2020-06-22T21:23:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/Eatala_Rajender/status/1274733095598452737?s=19"
@@ -5793,23 +5797,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5296,
+      "confirmed": 5307,
       "deceased": 105,
-      "recovered": 3887,
+      "recovered": 3894,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T21:13:13+05:30",
+      "last_updated": "2020-06-22T21:23:15+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 432189,
+      "confirmed": 432200,
       "deceased": 13808,
       "migrated": 51,
-      "recovered": 241140,
+      "recovered": 241147,
       "tested": 6950493
     }
   },
