@@ -309,6 +309,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "recovered": 117
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -510,11 +513,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 117
+        },
         "total": {
           "confirmed": 1626,
           "deceased": 4,
           "migrated": 3,
-          "recovered": 2489
+          "recovered": 2606
         }
       },
       "West Karbi Anglong": {
@@ -524,7 +530,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T00:13:15+05:30",
+      "last_updated": "2020-06-22T17:45:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-21",
@@ -535,7 +541,7 @@
       "confirmed": 5586,
       "deceased": 9,
       "migrated": 3,
-      "recovered": 3405,
+      "recovered": 3522,
       "tested": 288306
     }
   },
@@ -887,26 +893,34 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 4,
+      "recovered": 6
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 406,
+          "confirmed": 410,
           "deceased": 6,
-          "recovered": 316
+          "recovered": 322
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T19:55:19+05:30",
+      "last_updated": "2020-06-22T17:45:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/indiacovid/7874"
       }
     },
     "total": {
-      "confirmed": 406,
+      "confirmed": 410,
       "deceased": 6,
-      "recovered": 316,
+      "recovered": 322,
       "tested": 6677
     }
   },
@@ -1197,7 +1211,7 @@
       },
       "Diu": {
         "total": {
-          "confirmed": 10
+          "confirmed": 11
         }
       },
       "Other State": {
@@ -1207,14 +1221,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T17:36:15+05:30",
+      "last_updated": "2020-06-22T17:45:19+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD18062020.pdf"
       }
     },
     "total": {
-      "confirmed": 98,
+      "confirmed": 99,
       "recovered": 27,
       "tested": 26752
     }
@@ -4950,23 +4964,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -252,
+      "confirmed": -248,
       "deceased": 9,
-      "recovered": 351,
+      "recovered": 474,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T17:36:13+05:30",
+      "last_updated": "2020-06-22T17:45:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 426640,
+      "confirmed": 426645,
       "deceased": 13712,
       "migrated": 51,
-      "recovered": 237604,
+      "recovered": 237727,
       "tested": 6950493
     }
   },
