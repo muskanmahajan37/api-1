@@ -215,10 +215,17 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 9,
+      "recovered": 1
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 70,
+          "confirmed": 76,
           "recovered": 2
         }
       },
@@ -228,15 +235,29 @@
           "recovered": 4
         }
       },
+      "Lepa Rada": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Lohit": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 4,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "Longding": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 1
         }
       },
@@ -297,15 +318,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T22:35:21+05:30",
+      "last_updated": "2020-06-22T23:31:45+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/595"
       }
     },
     "total": {
-      "confirmed": 139,
-      "recovered": 21,
+      "confirmed": 148,
+      "recovered": 22,
       "tested": 19154
     }
   },
@@ -1899,7 +1920,8 @@
     "delta": {
       "confirmed": 390,
       "deceased": 9,
-      "recovered": 359
+      "recovered": 359,
+      "tested": 5151
     },
     "districts": {
       "Ambala": {
@@ -2130,15 +2152,15 @@
     "meta": {
       "last_updated": "2020-06-22T22:21:15+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2021-06-20%20Evening.pdf"
+        "last_updated": "2020-06-22",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2022-06-20%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 11025,
       "deceased": 169,
       "recovered": 5916,
-      "tested": 217797
+      "tested": 222948
     }
   },
   "JH": {
@@ -2346,7 +2368,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:23:33+05:30",
+      "last_updated": "2020-06-22T23:26:58+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/FOBGumla/status/1274731800200282112?s=19"
@@ -3516,7 +3538,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:23:22+05:30",
+      "last_updated": "2020-06-22T23:26:52+05:30",
       "notes": "14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-22",
@@ -5365,7 +5387,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:23:28+05:30",
+      "last_updated": "2020-06-22T23:26:56+05:30",
       "tested": {
         "last_updated": "2020-06-22"
       }
@@ -6209,7 +6231,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:23:37+05:30",
+      "last_updated": "2020-06-22T23:31:16+05:30",
       "tested": {
         "last_updated": "2020-06-21"
       }
@@ -6223,23 +6245,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13272,
+      "confirmed": 13281,
       "deceased": 312,
-      "recovered": 10874,
+      "recovered": 10875,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T23:23:13+05:30",
+      "last_updated": "2020-06-22T23:31:42+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 440174,
+      "confirmed": 440183,
       "deceased": 14015,
       "migrated": 51,
-      "recovered": 248128,
+      "recovered": 248129,
       "tested": 6950493
     }
   },
@@ -7053,7 +7075,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:23:25+05:30",
+      "last_updated": "2020-06-22T23:26:54+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/UPGovt/status/1274338954783776769?s=19"
