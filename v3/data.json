@@ -535,7 +535,8 @@
       "last_updated": "2020-06-22T22:15:20+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-22"
+        "last_updated": "2020-06-22",
+        "source": "https://twitter.com/himantabiswa/status/1275092040892575744?s=20"
       }
     },
     "total": {
@@ -917,7 +918,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T22:35:16+05:30",
+      "last_updated": "2020-06-22T22:42:15+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/PIB_Patna/status/1274666151436419072"
@@ -1203,7 +1204,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T22:35:18+05:30",
+      "last_updated": "2020-06-22T22:37:17+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://twitter.com/TS_SinghDeo/status/1275083759012982784?s=20"
@@ -3396,7 +3397,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T22:35:21+05:30",
+      "last_updated": "2020-06-22T22:42:18+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
         "last_updated": "2020-06-20",
@@ -4823,7 +4824,8 @@
   "RJ": {
     "delta": {
       "confirmed": 67,
-      "recovered": 55
+      "recovered": 55,
+      "tested": 10466
     },
     "districts": {
       "Ajmer": {
@@ -5111,15 +5113,14 @@
     "meta": {
       "last_updated": "2020-06-22T12:37:15+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://t.me/indiacovid/7922?single"
+        "last_updated": "2020-06-22"
       }
     },
     "total": {
       "confirmed": 14997,
       "deceased": 349,
       "recovered": 11652,
-      "tested": 699126
+      "tested": 709592
     }
   },
   "SK": {
@@ -5875,10 +5876,16 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 16
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 204,
+          "confirmed": 205,
           "recovered": 200
         }
       },
@@ -5889,20 +5896,29 @@
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 41,
           "recovered": 26
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 21,
           "recovered": 12
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 533,
+          "confirmed": 536,
           "recovered": 265
         }
       },
@@ -5913,27 +5929,33 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 67,
+          "confirmed": 68,
           "recovered": 49
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 143,
+          "confirmed": 147,
           "deceased": 1,
           "recovered": 58
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T23:26:15+05:30",
+      "last_updated": "2020-06-22T22:43:15+05:30",
       "tested": {
         "last_updated": "2020-06-21"
       }
     },
     "total": {
-      "confirmed": 1224,
+      "confirmed": 1240,
       "deceased": 1,
       "recovered": 759,
       "tested": 54983
@@ -5941,20 +5963,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8667,
+      "confirmed": 8683,
       "deceased": 173,
       "recovered": 7962,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T22:35:13+05:30",
+      "last_updated": "2020-06-22T22:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 435560,
+      "confirmed": 435576,
       "deceased": 13876,
       "migrated": 51,
       "recovered": 245216,
