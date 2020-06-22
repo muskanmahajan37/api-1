@@ -3322,7 +3322,7 @@
   "OR": {
     "delta": {
       "confirmed": 143,
-      "deceased": 1
+      "deceased": 2
     },
     "districts": {
       "Angul": {
@@ -3500,8 +3500,12 @@
         }
       },
       "Mayurbhanj": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 145,
+          "deceased": 1,
           "recovered": 98
         }
       },
@@ -3577,7 +3581,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T11:23:25+05:30",
+      "last_updated": "2020-06-22T11:36:31+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-21",
@@ -3586,7 +3590,7 @@
     },
     "total": {
       "confirmed": 5303,
-      "deceased": 20,
+      "deceased": 21,
       "recovered": 3720,
       "tested": 224402
     }
@@ -3757,11 +3761,18 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 17,
+      "recovered": 9
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 10,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Mahe": {
@@ -3771,10 +3782,14 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 17,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 346,
+          "confirmed": 363,
           "deceased": 8,
-          "recovered": 129
+          "recovered": 137
         }
       },
       "Yanam": {
@@ -3784,16 +3799,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T14:47:16+05:30",
+      "last_updated": "2020-06-22T11:36:42+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
-      "confirmed": 366,
+      "confirmed": 383,
       "deceased": 8,
-      "recovered": 140,
+      "recovered": 149,
       "tested": 12409
     }
   },
@@ -4687,22 +4702,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -1082,
-      "deceased": 2,
+      "confirmed": -1065,
+      "deceased": 3,
+      "recovered": 9,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T11:23:16+05:30",
+      "last_updated": "2020-06-22T11:36:15+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 425810,
-      "deceased": 13705,
+      "confirmed": 425827,
+      "deceased": 13706,
       "migrated": 51,
-      "recovered": 237252,
+      "recovered": 237261,
       "tested": 6950493
     }
   },
