@@ -530,7 +530,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T17:53:15+05:30",
+      "last_updated": "2020-06-22T17:56:16+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-21",
@@ -911,7 +911,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T17:53:18+05:30",
+      "last_updated": "2020-06-22T17:56:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://t.me/indiacovid/7874"
@@ -1221,7 +1221,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T17:53:19+05:30",
+      "last_updated": "2020-06-22T17:56:19+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD18062020.pdf"
@@ -2384,6 +2384,9 @@
     }
   },
   "KL": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Alappuzha": {
         "total": {
@@ -2467,8 +2470,11 @@
         }
       },
       "Thiruvananthapuram": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 161,
+          "confirmed": 162,
           "deceased": 4,
           "recovered": 112
         }
@@ -2497,7 +2503,7 @@
       }
     },
     "total": {
-      "confirmed": 3173,
+      "confirmed": 3174,
       "deceased": 22,
       "migrated": 2,
       "recovered": 1659,
@@ -4964,20 +4970,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -248,
+      "confirmed": -247,
       "deceased": 9,
       "recovered": 474,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T17:53:13+05:30",
+      "last_updated": "2020-06-22T17:56:14+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 426645,
+      "confirmed": 426646,
       "deceased": 13712,
       "migrated": 51,
       "recovered": 237727,
