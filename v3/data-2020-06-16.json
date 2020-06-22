@@ -1345,7 +1345,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 14,
+      "confirmed": 15,
       "recovered": 7,
       "tested": 657
     },
@@ -1377,8 +1377,11 @@
         }
       },
       "Other State": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       }
     },
@@ -1389,7 +1392,7 @@
       }
     },
     "total": {
-      "confirmed": 53,
+      "confirmed": 54,
       "recovered": 9,
       "tested": 24492
     }
@@ -6164,7 +6167,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11085,
+      "confirmed": 11086,
       "deceased": 2004,
       "migrated": 1,
       "recovered": 7226,
@@ -6177,7 +6180,7 @@
       }
     },
     "total": {
-      "confirmed": 354156,
+      "confirmed": 354157,
       "deceased": 11921,
       "migrated": 45,
       "recovered": 187549,

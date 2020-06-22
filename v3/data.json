@@ -1191,7 +1191,8 @@
       },
       "Daman": {
         "total": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 1
         }
       },
       "Diu": {
@@ -1201,20 +1202,20 @@
       },
       "Other State": {
         "total": {
-          "confirmed": 1
+          "confirmed": 2
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T17:23:21+05:30",
+      "last_updated": "2020-06-22T17:36:15+05:30",
       "tested": {
         "last_updated": "2020-06-18",
         "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD18062020.pdf"
       }
     },
     "total": {
-      "confirmed": 97,
-      "recovered": 26,
+      "confirmed": 98,
+      "recovered": 27,
       "tested": 26752
     }
   },
@@ -4955,17 +4956,17 @@
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T17:23:13+05:30",
+      "last_updated": "2020-06-22T17:36:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 426639,
+      "confirmed": 426640,
       "deceased": 13712,
       "migrated": 51,
-      "recovered": 237603,
+      "recovered": 237604,
       "tested": 6950493
     }
   },

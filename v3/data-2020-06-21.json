@@ -1350,7 +1350,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "recovered": 1
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1363,8 +1364,12 @@
         }
       },
       "Daman": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 1
         }
       },
       "Diu": {
@@ -1374,7 +1379,7 @@
       },
       "Other State": {
         "total": {
-          "confirmed": 1
+          "confirmed": 2
         }
       }
     },
@@ -1385,8 +1390,8 @@
       }
     },
     "total": {
-      "confirmed": 97,
-      "recovered": 26,
+      "confirmed": 98,
+      "recovered": 27,
       "tested": 26752
     }
   },
@@ -6230,7 +6235,7 @@
     "delta": {
       "confirmed": 15140,
       "deceased": 426,
-      "recovered": 9069,
+      "recovered": 9070,
       "tested": 190730
     },
     "meta": {
@@ -6240,10 +6245,10 @@
       }
     },
     "total": {
-      "confirmed": 426891,
+      "confirmed": 426892,
       "deceased": 13703,
       "migrated": 51,
-      "recovered": 237252,
+      "recovered": 237253,
       "tested": 6807226
     }
   },
