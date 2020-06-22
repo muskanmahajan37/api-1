@@ -1328,7 +1328,8 @@
     "delta": {
       "confirmed": 563,
       "deceased": 21,
-      "recovered": 560
+      "recovered": 560,
+      "tested": 4469
     },
     "districts": {
       "Ahmedabad": {
@@ -1663,17 +1664,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T20:36:18+05:30",
+      "last_updated": "2020-06-22T20:37:16+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2106212020075508941.pdf"
+        "last_updated": "2020-06-22"
       }
     },
     "total": {
       "confirmed": 27880,
       "deceased": 1685,
       "recovered": 19917,
-      "tested": 324874
+      "tested": 329343
     }
   },
   "HP": {
@@ -2704,7 +2704,8 @@
   "KL": {
     "delta": {
       "confirmed": 138,
-      "recovered": 88
+      "recovered": 88,
+      "tested": 2702
     },
     "districts": {
       "Alappuzha": {
@@ -2865,8 +2866,7 @@
       "last_updated": "2020-06-22T18:22:17+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-21-1.pdf"
+        "last_updated": "2020-06-22"
       }
     },
     "total": {
@@ -2874,7 +2874,7 @@
       "deceased": 22,
       "migrated": 2,
       "recovered": 1747,
-      "tested": 183201
+      "tested": 185903
     }
   },
   "LA": {
@@ -5750,7 +5750,7 @@
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T20:36:16+05:30",
+      "last_updated": "2020-06-22T20:37:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
