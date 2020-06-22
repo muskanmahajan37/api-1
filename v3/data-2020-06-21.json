@@ -5379,6 +5379,7 @@
   "SK": {
     "delta": {
       "confirmed": 8,
+      "recovered": 4,
       "tested": 2171
     },
     "districts": {
@@ -5401,9 +5402,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 1,
-          "recovered": 1
+          "recovered": 5
         }
       },
       "West Sikkim": {
@@ -5421,7 +5425,7 @@
     },
     "total": {
       "confirmed": 78,
-      "recovered": 21,
+      "recovered": 25,
       "tested": 9354
     }
   },
@@ -6242,7 +6246,7 @@
     "delta": {
       "confirmed": 15150,
       "deceased": 426,
-      "recovered": 9071,
+      "recovered": 9075,
       "tested": 190730
     },
     "meta": {
@@ -6255,7 +6259,7 @@
       "confirmed": 426902,
       "deceased": 13703,
       "migrated": 51,
-      "recovered": 237254,
+      "recovered": 237258,
       "tested": 6807226
     }
   },
