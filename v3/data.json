@@ -846,7 +846,7 @@
       },
       "Janjgir Champa": {
         "total": {
-          "confirmed": 226,
+          "confirmed": 208,
           "recovered": 87
         }
       },
@@ -950,14 +950,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-21T21:05:18+05:30",
+      "last_updated": "2020-06-22T09:43:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/TS_SinghDeo/status/1274728518639706115?s=20"
       }
     },
     "total": {
-      "confirmed": 2273,
+      "confirmed": 2255,
       "deceased": 11,
       "recovered": 1421,
       "tested": 126246
@@ -3241,7 +3241,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 68
+      "confirmed": 69
     },
     "districts": {
       "Dimapur": {
@@ -3288,10 +3288,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 68
+          "confirmed": 69
         },
         "total": {
-          "confirmed": 68,
+          "confirmed": 69,
           "recovered": 135
         }
       },
@@ -3307,14 +3307,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T09:36:15+05:30",
+      "last_updated": "2020-06-22T09:38:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/MyGovNagaland/status/1274701169957330944?s=19"
       }
     },
     "total": {
-      "confirmed": 279,
+      "confirmed": 280,
       "recovered": 141,
       "tested": 9971
     }
@@ -4628,31 +4628,34 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 69,
+      "confirmed": -1225,
       "deceased": 1
     },
     "meta": {
-      "last_updated": "2020-06-22T09:36:13+05:30",
+      "last_updated": "2020-06-22T09:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-21",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
+        "source": "https://twitter.com/ICMRDELHI/status/1274913260559577090?s=19"
       }
     },
     "total": {
-      "confirmed": 426979,
+      "confirmed": 425667,
       "deceased": 13704,
       "migrated": 51,
       "recovered": 237252,
-      "tested": 6807226
+      "tested": 6950493
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -1295
+    },
     "meta": {
-      "last_updated": "2020-06-22T09:33:15+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-06-22T09:43:15+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 1295 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category"
     },
     "total": {
-      "confirmed": 9127
+      "confirmed": 7832
     }
   },
   "UP": {

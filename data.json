@@ -1288,24 +1288,24 @@
 			"totalrecovered": "228184"
 		},
 		{
-			"dailyconfirmed": "15158",
+			"dailyconfirmed": "15140",
 			"dailydeceased": "426",
 			"dailyrecovered": "9069",
 			"date": "21 June ",
-			"totalconfirmed": "426911",
+			"totalconfirmed": "426893",
 			"totaldeceased": "13704",
 			"totalrecovered": "237253"
 		}
 	],
 	"statewise": [
 		{
-			"active": "175971",
-			"confirmed": "426979",
+			"active": "174659",
+			"confirmed": "425667",
 			"deaths": "13705",
-			"deltaconfirmed": "69",
+			"deltaconfirmed": "-1225",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/06/2020 09:36:13",
+			"lastupdatedtime": "22/06/2020 09:43:13",
 			"migratedother": "51",
 			"recovered": "237252",
 			"state": "Total",
@@ -1439,18 +1439,18 @@
 			"statenotes": ""
 		},
 		{
-			"active": "9127",
-			"confirmed": "9127",
+			"active": "7832",
+			"confirmed": "7832",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-1295",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/06/2020 09:33:15",
+			"lastupdatedtime": "22/06/2020 09:43:15",
 			"migratedother": "0",
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. "
+			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 1295 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category"
 		},
 		{
 			"active": "3390",
@@ -1593,13 +1593,13 @@
 			"statenotes": "15 Migrated cases reduced from Active count"
 		},
 		{
-			"active": "841",
-			"confirmed": "2273",
+			"active": "823",
+			"confirmed": "2255",
 			"deaths": "11",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/06/2020 21:05:18",
+			"lastupdatedtime": "22/06/2020 09:43:17",
 			"migratedother": "0",
 			"recovered": "1421",
 			"state": "Chhattisgarh",
@@ -1719,13 +1719,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "138",
-			"confirmed": "279",
+			"active": "139",
+			"confirmed": "280",
 			"deaths": "0",
-			"deltaconfirmed": "68",
+			"deltaconfirmed": "69",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/06/2020 09:36:15",
+			"lastupdatedtime": "22/06/2020 09:38:17",
 			"migratedother": "0",
 			"recovered": "141",
 			"state": "Nagaland",
@@ -3272,6 +3272,20 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "6807226",
+			"updatetimestamp": "21/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "143267",
+			"source": "https://twitter.com/ICMRDELHI/status/1274913260559577090?s=19",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "6950493",
 			"updatetimestamp": "21/06/2020 09:00:00"
 		}
 	]
