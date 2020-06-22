@@ -1270,7 +1270,9 @@
   },
   "GA": {
     "delta": {
-      "deceased": 1
+      "confirmed": 46,
+      "deceased": 1,
+      "recovered": 17
     },
     "districts": {
       "North Goa": {
@@ -1295,23 +1297,27 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 46,
+          "recovered": 17
+        },
         "total": {
-          "confirmed": 431,
-          "recovered": 68
+          "confirmed": 477,
+          "recovered": 85
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T09:34:16+05:30",
+      "last_updated": "2020-06-22T20:13:16+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/DHS_Goa/status/1274702106398724097?s=19"
       }
     },
     "total": {
-      "confirmed": 818,
+      "confirmed": 864,
       "deceased": 1,
-      "recovered": 135,
+      "recovered": 152,
       "tested": 52301
     }
   },
@@ -2252,7 +2258,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T20:03:20+05:30",
+      "last_updated": "2020-06-22T20:12:22+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/diprjk/status/1274700791366815745?s=09"
@@ -3772,7 +3778,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T20:03:18+05:30",
+      "last_updated": "2020-06-22T20:12:18+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/healthminmp/status/1274723270244225024?s=19"
@@ -5551,7 +5557,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T20:02:15+05:30",
+      "last_updated": "2020-06-22T20:05:18+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-21",
@@ -5632,23 +5638,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3815,
+      "confirmed": 3861,
       "deceased": 77,
-      "recovered": 3036,
+      "recovered": 3053,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T20:03:13+05:30",
+      "last_updated": "2020-06-22T20:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 430708,
+      "confirmed": 430754,
       "deceased": 13780,
       "migrated": 51,
-      "recovered": 240289,
+      "recovered": 240306,
       "tested": 6950493
     }
   },
@@ -6587,7 +6593,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T20:03:16+05:30",
+      "last_updated": "2020-06-22T20:12:16+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_21st_JUNE_REPORT_FINAL2.pdf"
