@@ -37,7 +37,8 @@
     "delta": {
       "confirmed": 443,
       "deceased": 5,
-      "recovered": 128
+      "recovered": 128,
+      "tested": 16720
     },
     "districts": {
       "Anantapur": {
@@ -202,15 +203,15 @@
       "last_updated": "2020-06-22T17:23:17+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://twitter.com/ArogyaAndhra/status/1274605653936373760?s=19"
+        "last_updated": "2020-06-22",
+        "source": "https://twitter.com/ArogyaAndhra/status/1275017579422048258?s=19"
       }
     },
     "total": {
       "confirmed": 9372,
       "deceased": 111,
       "recovered": 4435,
-      "tested": 676828
+      "tested": 693548
     }
   },
   "AR": {
@@ -1643,7 +1644,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T14:24:17+05:30",
+      "last_updated": "2020-06-22T18:22:19+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-21",
@@ -2166,7 +2167,7 @@
   "KA": {
     "delta": {
       "confirmed": 249,
-      "deceased": 9,
+      "deceased": 5,
       "recovered": 111
     },
     "districts": {
@@ -2181,9 +2182,12 @@
         }
       },
       "Ballari": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 442,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 110
         }
       },
@@ -2218,12 +2222,11 @@
       },
       "Bidar": {
         "delta": {
-          "confirmed": 5,
-          "deceased": 2
+          "confirmed": 5
         },
         "total": {
           "confirmed": 502,
-          "deceased": 17,
+          "deceased": 15,
           "recovered": 324
         }
       },
@@ -2247,12 +2250,11 @@
       },
       "Chikkamagaluru": {
         "delta": {
-          "confirmed": 5,
-          "deceased": 1
+          "confirmed": 5
         },
         "total": {
           "confirmed": 42,
-          "deceased": 2,
+          "deceased": 1,
           "recovered": 19
         }
       },
@@ -2279,12 +2281,11 @@
       },
       "Davanagere": {
         "delta": {
-          "confirmed": 9,
-          "deceased": 1
+          "confirmed": 9
         },
         "total": {
           "confirmed": 265,
-          "deceased": 8,
+          "deceased": 7,
           "recovered": 220
         }
       },
@@ -2384,12 +2385,9 @@
         }
       },
       "Other State": {
-        "delta": {
-          "deceased": 1
-        },
         "total": {
           "confirmed": 36,
-          "deceased": 4,
+          "deceased": 3,
           "recovered": 32
         }
       },
@@ -2402,11 +2400,12 @@
       },
       "Ramanagara": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "deceased": 1
         },
         "total": {
           "confirmed": 92,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 6
         }
       },
@@ -2431,12 +2430,11 @@
       "Udupi": {
         "delta": {
           "confirmed": 14,
-          "deceased": 1,
           "recovered": 2
         },
         "total": {
           "confirmed": 1077,
-          "deceased": 3,
+          "deceased": 2,
           "recovered": 961
         }
       },
@@ -2474,7 +2472,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T18:13:15+05:30",
+      "last_updated": "2020-06-22T18:23:15+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-21",
@@ -2483,7 +2481,7 @@
     },
     "total": {
       "confirmed": 9399,
-      "deceased": 146,
+      "deceased": 142,
       "migrated": 4,
       "recovered": 5729,
       "tested": 506765
@@ -2650,7 +2648,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T18:13:17+05:30",
+      "last_updated": "2020-06-22T18:22:17+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-21",
@@ -5126,12 +5124,12 @@
   "TT": {
     "delta": {
       "confirmed": 153,
-      "deceased": 18,
+      "deceased": 14,
       "recovered": 676,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T18:13:13+05:30",
+      "last_updated": "2020-06-22T18:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
@@ -5139,7 +5137,7 @@
     },
     "total": {
       "confirmed": 427046,
-      "deceased": 13721,
+      "deceased": 13717,
       "migrated": 51,
       "recovered": 237929,
       "tested": 6950493
