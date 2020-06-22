@@ -1358,7 +1358,8 @@
     "delta": {
       "confirmed": 46,
       "deceased": 1,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 749
     },
     "districts": {
       "North Goa": {
@@ -1396,15 +1397,15 @@
     "meta": {
       "last_updated": "2020-06-22T20:26:18+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://twitter.com/DHS_Goa/status/1274702106398724097?s=19"
+        "last_updated": "2020-06-22",
+        "source": "https://twitter.com/DHS_Goa/status/1275074156204179459?s=09"
       }
     },
     "total": {
       "confirmed": 864,
       "deceased": 1,
       "recovered": 152,
-      "tested": 52301
+      "tested": 53050
     }
   },
   "GJ": {
@@ -2345,7 +2346,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:13:21+05:30",
+      "last_updated": "2020-06-22T23:23:33+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://twitter.com/FOBGumla/status/1274731800200282112?s=19"
@@ -3515,7 +3516,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:13:14+05:30",
+      "last_updated": "2020-06-22T23:23:22+05:30",
       "notes": "14 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-22",
@@ -5364,7 +5365,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:13:18+05:30",
+      "last_updated": "2020-06-22T23:23:28+05:30",
       "tested": {
         "last_updated": "2020-06-22"
       }
@@ -6130,7 +6131,8 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 16
+      "confirmed": 16,
+      "recovered": 23
     },
     "districts": {
       "Dhalai": {
@@ -6168,17 +6170,21 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 7
         },
         "total": {
           "confirmed": 536,
-          "recovered": 265
+          "recovered": 272
         }
       },
       "South Tripura": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 101,
-          "recovered": 67
+          "recovered": 68
         }
       },
       "Unokoti": {
@@ -6192,17 +6198,18 @@
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 15
         },
         "total": {
           "confirmed": 147,
           "deceased": 1,
-          "recovered": 58
+          "recovered": 73
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T22:56:21+05:30",
+      "last_updated": "2020-06-22T23:23:37+05:30",
       "tested": {
         "last_updated": "2020-06-21"
       }
@@ -6210,7 +6217,7 @@
     "total": {
       "confirmed": 1240,
       "deceased": 1,
-      "recovered": 759,
+      "recovered": 782,
       "tested": 54983
     }
   },
@@ -6218,11 +6225,11 @@
     "delta": {
       "confirmed": 13272,
       "deceased": 312,
-      "recovered": 10851,
+      "recovered": 10874,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T23:13:13+05:30",
+      "last_updated": "2020-06-22T23:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
@@ -6232,7 +6239,7 @@
       "confirmed": 440174,
       "deceased": 14015,
       "migrated": 51,
-      "recovered": 248105,
+      "recovered": 248128,
       "tested": 6950493
     }
   },
@@ -7046,7 +7053,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:13:16+05:30",
+      "last_updated": "2020-06-22T23:23:25+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/UPGovt/status/1274338954783776769?s=19"
