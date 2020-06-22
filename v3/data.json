@@ -1223,7 +1223,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T21:43:15+05:30",
+      "last_updated": "2020-06-22T21:46:15+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-21",
@@ -2417,7 +2417,7 @@
         "total": {
           "confirmed": 442,
           "deceased": 3,
-          "recovered": 110
+          "recovered": 112
         }
       },
       "Belagavi": {
@@ -2546,7 +2546,7 @@
         "total": {
           "confirmed": 291,
           "deceased": 1,
-          "recovered": 208
+          "recovered": 207
         }
       },
       "Haveri": {
@@ -2701,7 +2701,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T18:37:15+05:30",
+      "last_updated": "2020-06-22T21:56:16+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-22",
@@ -2712,7 +2712,7 @@
       "confirmed": 9399,
       "deceased": 142,
       "migrated": 4,
-      "recovered": 5729,
+      "recovered": 5730,
       "tested": 515969
     }
   },
@@ -5807,23 +5807,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8216,
-      "deceased": 163,
-      "recovered": 7483,
+      "confirmed": 8217,
+      "deceased": 164,
+      "recovered": 7493,
       "tested": 143267
     },
     "meta": {
-      "last_updated": "2020-06-22T21:43:13+05:30",
+      "last_updated": "2020-06-22T21:56:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 435109,
-      "deceased": 13866,
+      "confirmed": 435110,
+      "deceased": 13867,
       "migrated": 51,
-      "recovered": 244736,
+      "recovered": 244747,
       "tested": 6950493
     }
   },
@@ -6370,8 +6370,9 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 57,
-      "recovered": 11,
+      "confirmed": 58,
+      "deceased": 1,
+      "recovered": 21,
       "tested": 905
     },
     "districts": {
@@ -6414,11 +6415,11 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 7
         },
         "total": {
-          "confirmed": 607,
+          "confirmed": 608,
           "deceased": 16,
           "migrated": 13,
           "recovered": 419
@@ -6426,12 +6427,13 @@
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 17,
+          "recovered": 10
         },
         "total": {
           "confirmed": 288,
           "migrated": 2,
-          "recovered": 116
+          "recovered": 126
         }
       },
       "Nainital": {
@@ -6461,8 +6463,12 @@
         }
       },
       "Rudraprayag": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 60,
+          "deceased": 1,
           "recovered": 39
         }
       },
@@ -6493,7 +6499,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T15:46:15+05:30",
+      "last_updated": "2020-06-22T21:56:17+05:30",
       "notes": "15 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-22",
@@ -6501,10 +6507,10 @@
       }
     },
     "total": {
-      "confirmed": 2401,
-      "deceased": 27,
+      "confirmed": 2402,
+      "deceased": 28,
       "migrated": 15,
-      "recovered": 1511,
+      "recovered": 1521,
       "tested": 56724
     }
   },
