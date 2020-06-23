@@ -1788,7 +1788,7 @@
     "delta": {
       "confirmed": 54,
       "recovered": 12,
-      "tested": 854
+      "tested": 851
     },
     "districts": {
       "Bilaspur": {
@@ -1907,7 +1907,7 @@
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-22",
-        "source": "https://twitter.com/nhm_hp/status/1275046281090482178?s=19"
+        "source": "https://twitter.com/nhm_hp/status/1275093800528957440?s=19"
       }
     },
     "total": {
@@ -1915,7 +1915,7 @@
       "deceased": 7,
       "migrated": 13,
       "recovered": 429,
-      "tested": 65192
+      "tested": 65189
     }
   },
   "HR": {
@@ -2168,7 +2168,8 @@
   "JH": {
     "delta": {
       "confirmed": 42,
-      "recovered": 63
+      "recovered": 63,
+      "tested": 1118288
     },
     "districts": {
       "Bokaro": {
@@ -2372,22 +2373,23 @@
     "meta": {
       "last_updated": "2020-06-22T23:26:58+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://twitter.com/FOBGumla/status/1274731800200282112?s=19"
+        "last_updated": "2020-06-22",
+        "source": "https://twitter.com/FOBGumla/status/1275120329304633344?s=09"
       }
     },
     "total": {
       "confirmed": 2140,
       "deceased": 11,
       "recovered": 1469,
-      "tested": 121770
+      "tested": 1240058
     }
   },
   "JK": {
     "delta": {
       "confirmed": 132,
       "deceased": 3,
-      "recovered": 149
+      "recovered": 149,
+      "tested": 6049
     },
     "districts": {
       "Anantnag": {
@@ -2588,15 +2590,15 @@
     "meta": {
       "last_updated": "2020-06-22T20:15:20+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://twitter.com/diprjk/status/1274700791366815745?s=09"
+        "last_updated": "2020-06-22",
+        "source": "https://twitter.com/diprjk/status/1275070546829443083?s=19"
       }
     },
     "total": {
       "confirmed": 6088,
       "deceased": 85,
       "recovered": 3531,
-      "tested": 307638
+      "tested": 313687
     }
   },
   "KA": {
@@ -3557,7 +3559,8 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 950
     },
     "districts": {
       "East Khasi Hills": {
@@ -3610,20 +3613,21 @@
       "last_updated": "2020-06-22T22:45:21+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
-        "last_updated": "2020-06-20",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/568"
+        "last_updated": "2020-06-22",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "total": {
       "confirmed": 45,
       "deceased": 1,
       "recovered": 37,
-      "tested": 15346
+      "tested": 16296
     }
   },
   "MN": {
     "delta": {
-      "confirmed": 57
+      "confirmed": 57,
+      "tested": 2343
     },
     "districts": {
       "Bishnupur": {
@@ -3756,14 +3760,14 @@
     "meta": {
       "last_updated": "2020-06-22T19:54:24+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://twitter.com/DiprManipur/status/1274733047158501383?s=09"
+        "last_updated": "2020-06-22",
+        "source": "https://twitter.com/DiprManipur/status/1275153577476911104?s=09"
       }
     },
     "total": {
       "confirmed": 898,
       "recovered": 250,
-      "tested": 35943
+      "tested": 38286
     }
   },
   "MP": {
@@ -5024,7 +5028,8 @@
     "meta": {
       "last_updated": "2020-06-22T11:46:32+05:30",
       "tested": {
-        "last_updated": "2020-06-22"
+        "last_updated": "2020-06-22",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
