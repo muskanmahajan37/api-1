@@ -335,7 +335,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:02:22+05:30",
+      "last_updated": "2020-06-23T22:07:22+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/608"
@@ -973,7 +973,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:03:17+05:30",
+      "last_updated": "2020-06-23T22:11:17+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/PIB_Patna/status/1275394867682631680"
@@ -1942,7 +1942,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:02:20+05:30",
+      "last_updated": "2020-06-23T22:07:21+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-22",
@@ -3567,6 +3567,7 @@
   },
   "ML": {
     "delta": {
+      "confirmed": 1,
       "recovered": 4
     },
     "districts": {
@@ -3590,8 +3591,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 10
         }
       },
@@ -3617,7 +3621,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:02:23+05:30",
+      "last_updated": "2020-06-23T22:13:18+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
         "last_updated": "2020-06-22",
@@ -3625,7 +3629,7 @@
       }
     },
     "total": {
-      "confirmed": 45,
+      "confirmed": 46,
       "deceased": 1,
       "recovered": 41,
       "tested": 16296
@@ -5396,7 +5400,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:03:15+05:30",
+      "last_updated": "2020-06-23T22:11:15+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/600"
@@ -6172,40 +6176,61 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 23
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 205,
+          "confirmed": 209,
           "recovered": 200
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 121,
+          "confirmed": 122,
           "recovered": 82
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 43,
           "recovered": 26
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "recovered": 12
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 536,
+          "confirmed": 545,
           "recovered": 272
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 101,
+          "confirmed": 106,
           "recovered": 68
         }
       },
@@ -6216,22 +6241,25 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 147,
+          "confirmed": 148,
           "deceased": 1,
           "recovered": 73
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T23:35:16+05:30",
+      "last_updated": "2020-06-23T22:13:16+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/605"
       }
     },
     "total": {
-      "confirmed": 1240,
+      "confirmed": 1263,
       "deceased": 1,
       "recovered": 782,
       "tested": 56035
@@ -6239,21 +6267,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 15343,
+      "confirmed": 15368,
       "deceased": 468,
       "migrated": 4,
       "recovered": 10386,
       "tested": 187223
     },
     "meta": {
-      "last_updated": "2020-06-23T22:03:13+05:30",
+      "last_updated": "2020-06-23T22:13:14+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
       }
     },
     "total": {
-      "confirmed": 455805,
+      "confirmed": 455830,
       "deceased": 14483,
       "migrated": 55,
       "recovered": 258523,
@@ -7071,7 +7099,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:03:14+05:30",
+      "last_updated": "2020-06-23T22:11:14+05:30",
       "tested": {
         "last_updated": "2020-06-20",
         "source": "https://twitter.com/UPGovt/status/1274338954783776769?s=19"
@@ -7086,7 +7114,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 132,
+      "confirmed": 133,
       "deceased": 2,
       "migrated": 2,
       "recovered": 81,
@@ -7160,10 +7188,10 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 375,
+          "confirmed": 376,
           "deceased": 2,
           "recovered": 268
         }
@@ -7227,7 +7255,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:03:18+05:30",
+      "last_updated": "2020-06-23T22:11:19+05:30",
       "notes": "17 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-23",
@@ -7235,7 +7263,7 @@
       }
     },
     "total": {
-      "confirmed": 2534,
+      "confirmed": 2535,
       "deceased": 30,
       "migrated": 17,
       "recovered": 1602,
