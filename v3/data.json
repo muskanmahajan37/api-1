@@ -45,7 +45,8 @@
     "delta": {
       "confirmed": 462,
       "deceased": 8,
-      "recovered": 157
+      "recovered": 157,
+      "tested": 20639
     },
     "districts": {
       "Anantapur": {
@@ -214,15 +215,15 @@
       "last_updated": "2020-06-23T13:55:15+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-22",
-        "source": "https://twitter.com/ArogyaAndhra/status/1275017579422048258?s=19"
+        "last_updated": "2020-06-23",
+        "source": "https://twitter.com/ArogyaAndhra/status/1275329802954670080?s=20"
       }
     },
     "total": {
       "confirmed": 9834,
       "deceased": 119,
       "recovered": 4592,
-      "tested": 693548
+      "tested": 714187
     }
   },
   "AR": {
@@ -1288,7 +1289,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T18:13:17+05:30",
+      "last_updated": "2020-06-23T18:23:17+05:30",
       "tested": {
         "last_updated": "2020-06-21",
         "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD21062020.pdf"
@@ -1689,7 +1690,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T18:13:15+05:30",
+      "last_updated": "2020-06-23T18:23:15+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-22",
@@ -3510,8 +3511,11 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 24
+        },
         "total": {
-          "confirmed": 33,
+          "confirmed": 57,
           "recovered": 4
         }
       },
@@ -3521,13 +3525,32 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 17
+          "confirmed": 26
+        }
+      },
+      "Longding": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Mon": {
         "total": {
           "confirmed": 48
+        }
+      },
+      "Other State": {
+        "delta": {
+          "confirmed": 3
+        },
+        "total": {
+          "confirmed": 3
         }
       },
       "Others": {
@@ -3536,8 +3559,11 @@
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 149,
+          "confirmed": 161,
           "recovered": 2
         }
       },
@@ -3552,11 +3578,7 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 50
-        },
         "total": {
-          "confirmed": 50,
           "recovered": 135
         }
       },
@@ -3566,8 +3588,11 @@
         }
       },
       "Zunheboto": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 3
         }
       }
     },
@@ -5047,7 +5072,7 @@
       "tested": 187223
     },
     "meta": {
-      "last_updated": "2020-06-23T18:13:13+05:30",
+      "last_updated": "2020-06-23T18:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
