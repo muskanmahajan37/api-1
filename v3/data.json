@@ -1826,7 +1826,7 @@
       "confirmed": 2140,
       "deceased": 11,
       "recovered": 1469,
-      "tested": 1240058
+      "tested": 124008
     }
   },
   "JK": {
@@ -3245,6 +3245,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 50
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3289,7 +3292,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 50
+        },
         "total": {
+          "confirmed": 50,
           "recovered": 135
         }
       },
@@ -3305,14 +3312,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T09:56:19+05:30",
+      "last_updated": "2020-06-23T08:53:14+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://twitter.com/MyGovNagaland/status/1275066349572640774?s=20"
       }
     },
     "total": {
-      "confirmed": 280,
+      "confirmed": 330,
       "recovered": 141,
       "tested": 10599
     }
@@ -4628,18 +4635,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2,
+      "confirmed": 52,
       "recovered": 3
     },
     "meta": {
-      "last_updated": "2020-06-23T08:37:13+05:30",
+      "last_updated": "2020-06-23T08:53:12+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 440452,
+      "confirmed": 440502,
       "deceased": 14015,
       "migrated": 51,
       "recovered": 248140,
