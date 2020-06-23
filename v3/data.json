@@ -4635,18 +4635,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 52,
+      "confirmed": 235,
       "recovered": 3
     },
     "meta": {
-      "last_updated": "2020-06-23T09:02:13+05:30",
+      "last_updated": "2020-06-23T09:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
       }
     },
     "total": {
-      "confirmed": 440502,
+      "confirmed": 440685,
       "deceased": 14015,
       "migrated": 51,
       "recovered": 248140,
@@ -4654,12 +4654,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 183
+    },
     "meta": {
-      "last_updated": "2020-06-22T09:56:15+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-06-23T09:43:16+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 183 cases were increased in this category today by MoHFW. We have included these cases to this category"
     },
     "total": {
-      "confirmed": 7832
+      "confirmed": 8015
     }
   },
   "UP": {
