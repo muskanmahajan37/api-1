@@ -2229,7 +2229,7 @@
   },
   "KA": {
     "delta": {
-      "confirmed": 301,
+      "confirmed": 322,
       "recovered": 274
     },
     "districts": {
@@ -2252,8 +2252,11 @@
         }
       },
       "Belagavi": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 309,
+          "confirmed": 311,
           "deceased": 1,
           "recovered": 282
         }
@@ -2335,28 +2338,32 @@
       },
       "Davanagere": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 6
         },
         "total": {
-          "confirmed": 266,
+          "confirmed": 267,
           "deceased": 7,
           "recovered": 226
         }
       },
       "Dharwad": {
         "delta": {
+          "confirmed": 4,
           "recovered": 14
         },
         "total": {
-          "confirmed": 202,
+          "confirmed": 206,
           "deceased": 3,
           "recovered": 91
         }
       },
       "Gadag": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 79,
+          "confirmed": 88,
           "deceased": 2,
           "recovered": 42
         }
@@ -2374,10 +2381,11 @@
       },
       "Haveri": {
         "delta": {
+          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 42,
+          "confirmed": 44,
           "recovered": 25
         }
       },
@@ -2498,10 +2506,11 @@
       },
       "Uttara Kannada": {
         "delta": {
+          "confirmed": 3,
           "recovered": 6
         },
         "total": {
-          "confirmed": 144,
+          "confirmed": 147,
           "recovered": 112
         }
       },
@@ -2529,7 +2538,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T18:36:17+05:30",
+      "last_updated": "2020-06-23T18:43:16+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-22",
@@ -2537,7 +2546,7 @@
       }
     },
     "total": {
-      "confirmed": 9700,
+      "confirmed": 9721,
       "deceased": 142,
       "migrated": 4,
       "recovered": 6004,
@@ -2666,32 +2675,43 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 85,
+      "recovered": 12
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 65
+        },
         "total": {
-          "confirmed": 625,
+          "confirmed": 690,
           "recovered": 68
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 20,
+          "recovered": 12
+        },
         "total": {
-          "confirmed": 222,
+          "confirmed": 242,
           "deceased": 1,
-          "recovered": 68
+          "recovered": 80
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T19:26:19+05:30",
+      "last_updated": "2020-06-23T18:43:18+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://www.facebook.com/114874993303412/photos/pcb.191364335654477/191364182321159/?type=3&__tn__=HH-R&eid=ARDYD1VULQnGd-GxZzXKtIcwTlPETZBSWvfuAniaMSlglSCsag2dXNSjv4f5U3uwQIRJS3GKYPPYby6M&__xts__%5B0%5D=68.ARD_3vjjr97izRpuv74f4VQsjvRlL7wduyIoXn6ZnBRfBP3Ebu46ixEdyKnKU2RjbBMXDAI2mVimI-WhpNfNhMmawKAZNcjM_oE0yvZBrM3XEgXX_6AktSCtC3Q_3a62BrF1_iUh9c5aKButQlaa9aOpVPCmrdS3rINw61eQaUKoIxlZo2C4BsJOkTKltHsf705TfkOn_lIGMBCRPtmGCrQccSCHsgadwkQVqaTD0pnvHd9x-IzEwSvIzcKInGHTdjiWwUMQoG2X0dXQ97AWy7fBSZUOhC3Ia6Q5xfsKlWCf66e0Rf3OlP_AME40xIXdmKtBLZHAoaTLzOXwzbTA6o8"
       }
     },
     "total": {
-      "confirmed": 847,
+      "confirmed": 932,
       "deceased": 1,
-      "recovered": 136,
+      "recovered": 148,
       "tested": 13018
     }
   },
@@ -5069,7 +5089,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T20:05:18+05:30",
+      "last_updated": "2020-06-23T18:43:14+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-22",
@@ -5151,24 +5171,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1787,
+      "confirmed": 1893,
       "deceased": 15,
       "migrated": 1,
-      "recovered": 1026,
+      "recovered": 1038,
       "tested": 187223
     },
     "meta": {
-      "last_updated": "2020-06-23T18:36:13+05:30",
+      "last_updated": "2020-06-23T18:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
       }
     },
     "total": {
-      "confirmed": 442249,
+      "confirmed": 442355,
       "deceased": 14030,
       "migrated": 52,
-      "recovered": 249163,
+      "recovered": 249175,
       "tested": 7137716
     }
   },
