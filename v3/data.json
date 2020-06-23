@@ -880,24 +880,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 411,
+          "confirmed": 415,
           "deceased": 6,
           "recovered": 322
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-22T19:54:28+05:30",
+      "last_updated": "2020-06-23T16:23:15+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://t.me/indiacovid/7985?single"
       }
     },
     "total": {
-      "confirmed": 411,
+      "confirmed": 415,
       "deceased": 6,
       "recovered": 322,
       "tested": 6745
@@ -4937,20 +4943,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1470,
+      "confirmed": 1474,
       "deceased": 13,
       "recovered": 367,
       "tested": 187223
     },
     "meta": {
-      "last_updated": "2020-06-23T15:36:12+05:30",
+      "last_updated": "2020-06-23T16:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
       }
     },
     "total": {
-      "confirmed": 441920,
+      "confirmed": 441924,
       "deceased": 14028,
       "migrated": 51,
       "recovered": 248504,
@@ -5632,7 +5638,8 @@
       "last_updated": "2020-06-23T15:26:30+05:30",
       "notes": "15 Migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-23"
+        "last_updated": "2020-06-23",
+        "source": "https://twitter.com/PIBDehradun/status/1275365134999810050?s=20"
       }
     },
     "total": {
