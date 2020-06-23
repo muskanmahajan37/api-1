@@ -1325,7 +1325,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 15
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1338,8 +1338,11 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 39,
           "recovered": 1
         }
       },
@@ -1361,7 +1364,7 @@
       }
     },
     "total": {
-      "confirmed": 102,
+      "confirmed": 114,
       "recovered": 27,
       "tested": 27839
     }
@@ -6214,7 +6217,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13548,
+      "confirmed": 13560,
       "deceased": 312,
       "recovered": 10879,
       "tested": 143267
@@ -6226,7 +6229,7 @@
       }
     },
     "total": {
-      "confirmed": 440450,
+      "confirmed": 440462,
       "deceased": 14015,
       "migrated": 51,
       "recovered": 248137,
