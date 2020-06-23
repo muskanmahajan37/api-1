@@ -3326,7 +3326,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 167
+      "confirmed": 167,
+      "deceased": 2
     },
     "districts": {
       "Angul": {
@@ -3378,11 +3379,12 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "deceased": 2
         },
         "total": {
           "confirmed": 417,
-          "deceased": 1,
+          "deceased": 3,
           "recovered": 385
         }
       },
@@ -3581,7 +3583,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T11:06:15+05:30",
+      "last_updated": "2020-06-23T11:43:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-22"
@@ -3589,7 +3591,7 @@
     },
     "total": {
       "confirmed": 5470,
-      "deceased": 21,
+      "deceased": 23,
       "recovered": 3863,
       "tested": 227860
     }
@@ -4693,11 +4695,12 @@
   "TT": {
     "delta": {
       "confirmed": 402,
+      "deceased": 2,
       "recovered": 3,
       "tested": 187223
     },
     "meta": {
-      "last_updated": "2020-06-23T11:06:13+05:30",
+      "last_updated": "2020-06-23T11:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
@@ -4705,7 +4708,7 @@
     },
     "total": {
       "confirmed": 440852,
-      "deceased": 14015,
+      "deceased": 14017,
       "migrated": 51,
       "recovered": 248140,
       "tested": 7137716
