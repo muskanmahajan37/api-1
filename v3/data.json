@@ -1383,7 +1383,7 @@
     "delta": {
       "confirmed": 45,
       "deceased": 1,
-      "recovered": 33
+      "recovered": 53
     },
     "districts": {
       "North Goa": {
@@ -1408,17 +1408,17 @@
         "delta": {
           "confirmed": 45,
           "deceased": 1,
-          "recovered": 33
+          "recovered": 53
         },
         "total": {
           "confirmed": 522,
           "deceased": 1,
-          "recovered": 118
+          "recovered": 138
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T19:46:23+05:30",
+      "last_updated": "2020-06-23T20:43:20+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://twitter.com/DHS_Goa/status/1275074156204179459?s=09"
@@ -1427,7 +1427,7 @@
     "total": {
       "confirmed": 909,
       "deceased": 2,
-      "recovered": 185,
+      "recovered": 205,
       "tested": 53050
     }
   },
@@ -1788,7 +1788,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T20:23:14+05:30",
+      "last_updated": "2020-06-23T20:33:14+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/PIBAhmedabad/status/1275431546841894912?s=19"
@@ -2496,7 +2496,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T20:23:16+05:30",
+      "last_updated": "2020-06-23T20:33:16+05:30",
       "tested": {
         "last_updated": "2020-06-22",
         "source": "https://twitter.com/diprjk/status/1275070546829443083?s=19"
@@ -2843,7 +2843,8 @@
     "delta": {
       "confirmed": 141,
       "deceased": 1,
-      "recovered": 60
+      "recovered": 60,
+      "tested": 6156
     },
     "districts": {
       "Alappuzha": {
@@ -2999,8 +3000,8 @@
       "last_updated": "2020-06-23T19:27:19+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-22",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-22.pdf"
+        "last_updated": "2020-06-23",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-23.pdf"
       }
     },
     "total": {
@@ -3008,7 +3009,7 @@
       "deceased": 23,
       "migrated": 2,
       "recovered": 1807,
-      "tested": 185903
+      "tested": 192059
     }
   },
   "LA": {
@@ -5772,11 +5773,11 @@
       "confirmed": 9848,
       "deceased": 175,
       "migrated": 1,
-      "recovered": 6782,
+      "recovered": 6802,
       "tested": 187223
     },
     "meta": {
-      "last_updated": "2020-06-23T20:23:13+05:30",
+      "last_updated": "2020-06-23T20:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
@@ -5786,7 +5787,7 @@
       "confirmed": 450310,
       "deceased": 14190,
       "migrated": 52,
-      "recovered": 254919,
+      "recovered": 254939,
       "tested": 7137716
     }
   },
