@@ -4985,7 +4985,8 @@
   "PY": {
     "delta": {
       "confirmed": 17,
-      "recovered": 9
+      "recovered": 9,
+      "tested": 256
     },
     "districts": {
       "Karaikal": {
@@ -5023,15 +5024,14 @@
     "meta": {
       "last_updated": "2020-06-22T11:46:32+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "last_updated": "2020-06-22"
       }
     },
     "total": {
       "confirmed": 383,
       "deceased": 8,
       "recovered": 149,
-      "tested": 12781
+      "tested": 13037
     }
   },
   "RJ": {
@@ -7254,7 +7254,8 @@
     "delta": {
       "confirmed": 413,
       "deceased": 14,
-      "recovered": 390
+      "recovered": 390,
+      "tested": 9363
     },
     "districts": {
       "Alipurduar": {
@@ -7506,15 +7507,15 @@
     "meta": {
       "last_updated": "2020-06-22T20:15:15+05:30",
       "tested": {
-        "last_updated": "2020-06-21",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_21st_JUNE_REPORT_FINAL2.pdf"
+        "last_updated": "2020-06-22",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_22nd_JUNE_REPORT_FINAL1.pdf"
       }
     },
     "total": {
       "confirmed": 14358,
       "deceased": 569,
       "recovered": 8687,
-      "tested": 401491
+      "tested": 410854
     }
   }
 }
