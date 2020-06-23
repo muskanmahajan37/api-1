@@ -5185,7 +5185,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 77255,,23/06/2020,,,,Zunheboto,Nagaland,NL,1,Hospitalized,,,https://twitter.com/MyGovNagaland/status/1275409740122603522?s=19,,,,,,106625
 77256,,23/06/2020,,,,Other State,Nagaland,NL,3,Hospitalized,,,https://twitter.com/MyGovNagaland/status/1275409740122603522?s=19,,,,,,106626
 77257,,23/06/2020,,,,,Nagaland,NL,-50,Hospitalized,,,https://twitter.com/MyGovNagaland/status/1275409740122603522?s=19,,,,,,106627
-77258,,23/06/2020,,,,Longding,Nagaland,NL,1,Hospitalized,,,https://twitter.com/MyGovNagaland/status/1275409740122603522?s=19,,,,,,106628
+77258,,23/06/2020,,,,Longleng,Nagaland,NL,1,Hospitalized,,,https://twitter.com/MyGovNagaland/status/1275409740122603522?s=19,,,,,,106628
 77259,KA-P9421,23/06/2020,68,M,,Davanagere,Karnataka,KA,1,Hospitalized,,SARI,https://twitter.com/DHFWKA/status/1275415120760287234,,,,,,106629
 77260,KA-P9422,23/06/2020,53,F,,Bengaluru Urban,Karnataka,KA,1,Hospitalized,,Contact under tracing,https://twitter.com/DHFWKA/status/1275415120760287234,,,,,,106630
 77261,KA-P9423,23/06/2020,21,M,,Bengaluru Urban,Karnataka,KA,1,Hospitalized,,ILI,https://twitter.com/DHFWKA/status/1275415120760287234,,,,,,106631
@@ -6277,158 +6277,407 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 78347,,23/06/2020,,,,Una,Himachal Pradesh,HP,3,Hospitalized,,,https://twitter.com/nhm_hp/status/1275460634537164800,,,,,,107717
 78348,,23/06/2020,,,,Kinnaur,Himachal Pradesh,HP,2,Recovered,,,https://twitter.com/nhm_hp/status/1275460634537164800,,,,,,107718
 78349,,23/06/2020,,,,Kullu,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1275460634537164800,,,,,,107719
-78350,,23/06/2020,,,,Almora,Uttarakhand,UT,3,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107720
-78351,,23/06/2020,,,,Chamoli,Uttarakhand,UT,4,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107721
-78352,,23/06/2020,,,,Champawat,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107722
-78353,,23/06/2020,,,,Dehradun,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107723
-78354,,23/06/2020,,,,Dehradun,Uttarakhand,UT,10,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107724
-78355,,23/06/2020,,,,Nainital,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107725
-78356,,23/06/2020,,,,Rudraprayag,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107726
-78357,,23/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107727
-78358,,23/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,2,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107728
-78359,,23/06/2020,,,,Uttarkashi,Uttarakhand,UT,5,Hospitalized,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107729
+78350,,23/06/2020,,,,Almora,Uttarakhand,UT,3,Hospitalized,,Returnees from Delhi/NCR,https://twitter.com/ANI/status/1275462259481800704,,,,,,107720
+78351,,23/06/2020,,,,Chamoli,Uttarakhand,UT,4,Hospitalized,,Returnees from Delhi,https://twitter.com/ANI/status/1275462259481800704,,,,,,107721
+78352,,23/06/2020,,,,Champawat,Uttarakhand,UT,1,Hospitalized,,Travel History NA**(Travel history was not available at the time of release of this bulletin),https://twitter.com/ANI/status/1275462259481800704,,,,,,107722
+78353,,23/06/2020,,,,Dehradun,Uttarakhand,UT,1,Hospitalized,,Paramilitary staff,https://twitter.com/ANI/status/1275462259481800704,,,,,,107723
+78354,,23/06/2020,,,,Dehradun,Uttarakhand,UT,10,Hospitalized,,Travel History NA**(Travel history was not available at the time of release of this bulletin),https://twitter.com/ANI/status/1275462259481800704,,,,,,107724
+78355,,23/06/2020,,,,Nainital,Uttarakhand,UT,2,Hospitalized,,Returnee from Delhi,https://twitter.com/ANI/status/1275462259481800704,,,,,,107725
+78356,,23/06/2020,,,,Rudraprayag,Uttarakhand,UT,2,Hospitalized,,Travel History NA**(Travel history was not available at the time of release of this bulletin),https://twitter.com/ANI/status/1275462259481800704,,,,,,107726
+78357,,23/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,1,Hospitalized,,Travel History NA**(Travel history was not available at the time of release of this bulletin),https://twitter.com/ANI/status/1275462259481800704,,,,,,107727
+78358,,23/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,2,Hospitalized,,Returnees from Maharashtra,https://twitter.com/ANI/status/1275462259481800704,,,,,,107728
+78359,,23/06/2020,,,,Uttarkashi,Uttarakhand,UT,5,Hospitalized,,Travel History NA**(Travel history was not available at the time of release of this bulletin),https://twitter.com/ANI/status/1275462259481800704,,,,,,107729
 78360,,23/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,58,Recovered,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107730
 78361,,23/06/2020,,,,Uttarkashi,Uttarakhand,UT,1,Recovered,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107731
 78362,,23/06/2020,,,,Dehradun,Uttarakhand,UT,2,Recovered,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107732
-78363,,23/06/2020,52,M,,Dehradun,Uttarakhand,UT,1,Deceased,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107733
+78363,,23/06/2020,52,M,Dehradun,Dehradun,Uttarakhand,UT,1,Deceased,,Cause of Death is Cardiac Arrest,https://twitter.com/ANI/status/1275462259481800704,,,,,,107733
 78364,,23/06/2020,,,,Haridwar,Uttarakhand,UT,2,Migrated_Other,,,https://twitter.com/ANI/status/1275462259481800704,,,,,,107734
-78365,,23/06/2020,,,,Dehradun,Uttarakhand,UT,-1,Hospitalized,,,"https://twitter.com/ANI/status/1275462259481800704
-https://twitter.com/ANI/status/1275462259481800704
-https://twitter.com/ANI/status/1275462259481800704
-https://twitter.com/ANI/status/12754622594818",,,,,,107735
-78366,,23/06/2020,,,,,,,,,,,,,,,,,107736
-78367,,23/06/2020,,,,,,,,,,,,,,,,,107737
-78368,,23/06/2020,,,,,,,,,,,,,,,,,107738
-78369,,23/06/2020,,,,,,,,,,,,,,,,,107739
-78370,,23/06/2020,,,,,,,,,,,,,,,,,107740
-78371,,23/06/2020,,,,,,,,,,,,,,,,,107741
-78372,,23/06/2020,,,,,,,,,,,,,,,,,107742
-78373,,23/06/2020,,,,,,,,,,,,,,,,,107743
-78374,,23/06/2020,,,,,,,,,,,,,,,,,107744
-78375,,23/06/2020,,,,,,,,,,,,,,,,,107745
-78376,,23/06/2020,,,,,,,,,,,,,,,,,107746
-78377,,23/06/2020,,,,,,,,,,,,,,,,,107747
-78378,,23/06/2020,,,,,,,,,,,,,,,,,107748
-78379,,23/06/2020,,,,,,,,,,,,,,,,,107749
-78380,,23/06/2020,,,,,,,,,,,,,,,,,107750
-78381,,23/06/2020,,,,,,,,,,,,,,,,,107751
-78382,,23/06/2020,,,,,,,,,,,,,,,,,107752
-78383,,23/06/2020,,,,,,,,,,,,,,,,,107753
-78384,,23/06/2020,,,,,,,,,,,,,,,,,107754
-78385,,23/06/2020,,,,,,,,,,,,,,,,,107755
-78386,,23/06/2020,,,,,,,,,,,,,,,,,107756
-78387,,23/06/2020,,,,,,,,,,,,,,,,,107757
-78388,,23/06/2020,,,,,,,,,,,,,,,,,107758
-78389,,23/06/2020,,,,,,,,,,,,,,,,,107759
-78390,,23/06/2020,,,,,,,,,,,,,,,,,107760
-78391,,23/06/2020,,,,,,,,,,,,,,,,,107761
-78392,,23/06/2020,,,,,,,,,,,,,,,,,107762
-78393,,23/06/2020,,,,,,,,,,,,,,,,,107763
-78394,,23/06/2020,,,,,,,,,,,,,,,,,107764
-78395,,23/06/2020,,,,,,,,,,,,,,,,,107765
-78396,,23/06/2020,,,,,,,,,,,,,,,,,107766
-78397,,23/06/2020,,,,,,,,,,,,,,,,,107767
-78398,,23/06/2020,,,,,,,,,,,,,,,,,107768
-78399,,23/06/2020,,,,,,,,,,,,,,,,,107769
-78400,,23/06/2020,,,,,,,,,,,,,,,,,107770
-78401,,23/06/2020,,,,,,,,,,,,,,,,,107771
-78402,,23/06/2020,,,,,,,,,,,,,,,,,107772
-78403,,23/06/2020,,,,,,,,,,,,,,,,,107773
-78404,,23/06/2020,,,,,,,,,,,,,,,,,107774
-78405,,23/06/2020,,,,,,,,,,,,,,,,,107775
-78406,,23/06/2020,,,,,,,,,,,,,,,,,107776
-78407,,23/06/2020,,,,,,,,,,,,,,,,,107777
-78408,,23/06/2020,,,,,,,,,,,,,,,,,107778
-78409,,23/06/2020,,,,,,,,,,,,,,,,,107779
-78410,,23/06/2020,,,,,,,,,,,,,,,,,107780
-78411,,23/06/2020,,,,,,,,,,,,,,,,,107781
-78412,,23/06/2020,,,,,,,,,,,,,,,,,107782
-78413,,23/06/2020,,,,,,,,,,,,,,,,,107783
-78414,,23/06/2020,,,,,,,,,,,,,,,,,107784
-78415,,23/06/2020,,,,,,,,,,,,,,,,,107785
-78416,,23/06/2020,,,,,,,,,,,,,,,,,107786
-78417,,23/06/2020,,,,,,,,,,,,,,,,,107787
-78418,,23/06/2020,,,,,,,,,,,,,,,,,107788
-78419,,23/06/2020,,,,,,,,,,,,,,,,,107789
-78420,,23/06/2020,,,,,,,,,,,,,,,,,107790
-78421,,23/06/2020,,,,,,,,,,,,,,,,,107791
-78422,,23/06/2020,,,,,,,,,,,,,,,,,107792
-78423,,23/06/2020,,,,,,,,,,,,,,,,,107793
-78424,,23/06/2020,,,,,,,,,,,,,,,,,107794
-78425,,23/06/2020,,,,,,,,,,,,,,,,,107795
-78426,,23/06/2020,,,,,,,,,,,,,,,,,107796
-78427,,23/06/2020,,,,,,,,,,,,,,,,,107797
-78428,,23/06/2020,,,,,,,,,,,,,,,,,107798
-78429,,23/06/2020,,,,,,,,,,,,,,,,,107799
-78430,,23/06/2020,,,,,,,,,,,,,,,,,107800
-78431,,23/06/2020,,,,,,,,,,,,,,,,,107801
-78432,,23/06/2020,,,,,,,,,,,,,,,,,107802
-78433,,23/06/2020,,,,,,,,,,,,,,,,,107803
-78434,,23/06/2020,,,,,,,,,,,,,,,,,107804
-78435,,23/06/2020,,,,,,,,,,,,,,,,,107805
-78436,,23/06/2020,,,,,,,,,,,,,,,,,107806
-78437,,23/06/2020,,,,,,,,,,,,,,,,,107807
-78438,,23/06/2020,,,,,,,,,,,,,,,,,107808
-78439,,23/06/2020,,,,,,,,,,,,,,,,,107809
-78440,,23/06/2020,,,,,,,,,,,,,,,,,107810
-78441,,23/06/2020,,,,,,,,,,,,,,,,,107811
-78442,,23/06/2020,,,,,,,,,,,,,,,,,107812
-78443,,23/06/2020,,,,,,,,,,,,,,,,,107813
-78444,,23/06/2020,,,,,,,,,,,,,,,,,107814
-78445,,23/06/2020,,,,,,,,,,,,,,,,,107815
-78446,,23/06/2020,,,,,,,,,,,,,,,,,107816
-78447,,23/06/2020,,,,,,,,,,,,,,,,,107817
-78448,,23/06/2020,,,,,,,,,,,,,,,,,107818
-78449,,23/06/2020,,,,,,,,,,,,,,,,,107819
-78450,,23/06/2020,,,,,,,,,,,,,,,,,107820
-78451,,23/06/2020,,,,,,,,,,,,,,,,,107821
-78452,,23/06/2020,,,,,,,,,,,,,,,,,107822
-78453,,23/06/2020,,,,,,,,,,,,,,,,,107823
-78454,,23/06/2020,,,,,,,,,,,,,,,,,
-78455,,23/06/2020,,,,,,,,,,,,,,,,,
-78456,,23/06/2020,,,,,,,,,,,,,,,,,
-78457,,23/06/2020,,,,,,,,,,,,,,,,,
-78458,,,,,,,,,,,,,,,,,,,
-78459,,,,,,,,,,,,,,,,,,,
-78460,,,,,,,,,,,,,,,,,,,
-78461,,,,,,,,,,,,,,,,,,,
-78462,,,,,,,,,,,,,,,,,,,
-78463,,,,,,,,,,,,,,,,,,,
-78464,,,,,,,,,,,,,,,,,,,
-78465,,,,,,,,,,,,,,,,,,,
-78466,,,,,,,,,,,,,,,,,,,
-78467,,,,,,,,,,,,,,,,,,,
-78468,,,,,,,,,,,,,,,,,,,
-78469,,,,,,,,,,,,,,,,,,,
-78470,,,,,,,,,,,,,,,,,,,
-78471,,,,,,,,,,,,,,,,,,,
-78472,,,,,,,,,,,,,,,,,,,
-78473,,,,,,,,,,,,,,,,,,,
-78474,,,,,,,,,,,,,,,,,,,
-78475,,,,,,,,,,,,,,,,,,,
-78476,,,,,,,,,,,,,,,,,,,
-78477,,,,,,,,,,,,,,,,,,,
-78478,,,,,,,,,,,,,,,,,,,
-78479,,,,,,,,,,,,,,,,,,,
-78480,,,,,,,,,,,,,,,,,,,
-78481,,,,,,,,,,,,,,,,,,,
-78482,,,,,,,,,,,,,,,,,,,
-78483,,,,,,,,,,,,,,,,,,,
-78484,,,,,,,,,,,,,,,,,,,
-78485,,,,,,,,,,,,,,,,,,,
-78486,,,,,,,,,,,,,,,,,,,
-78487,,,,,,,,,,,,,,,,,,,
-78488,,,,,,,,,,,,,,,,,,,
-78489,,,,,,,,,,,,,,,,,,,
-78490,,,,,,,,,,,,,,,,,,,
-78491,,,,,,,,,,,,,,,,,,,
-78492,,,,,,,,,,,,,,,,,,,
-78493,,,,,,,,,,,,,,,,,,,
-78494,,,,,,,,,,,,,,,,,,,
-78495,,,,,,,,,,,,,,,,,,,
-78496,,,,,,,,,,,,,,,,,,,
-78497,,,,,,,,,,,,,,,,,,,
-78498,,,,,,,,,,,,,,,,,,,
-78499,,,,,,,,,,,,,,,,,,,
-78500,,,,,,,,,,,,,,,,,,,
-78501,,,,,,,,,,,,,,,,,,,
+78365,,23/06/2020,,,,Dehradun,Uttarakhand,UT,-1,Hospitalized,,Repeated Sample,https://twitter.com/ANI/status/1275462259481800704,,,,,,107735
+78366,,23/06/2020,,,,Sipahijala,,,9,Hospitalized,,,,,,,,,107736
+78367,,23/06/2020,,,,South Tripura,,,5,Hospitalized,,,,,,,,,107737
+78368,,23/06/2020,,,,Dhalai,,,4,Hospitalized,,,,,,,,,107738
+78369,,23/06/2020,,,,Khowai,,,2,Hospitalized,,,,,,,,,107739
+78370,,23/06/2020,,,,Gomati,,,1,Hospitalized,,,,,,,,,107740
+78371,,23/06/2020,,,,North Tripura,,,1,Hospitalized,,,,,,,,,107741
+78372,,23/06/2020,,,,West Tripura,,,1,Hospitalized,,,,,,,,,107742
+78373,,23/06/2020,,,,Ajmer,Rajasthan,RJ,10,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107743
+78374,,23/06/2020,,,,Alwar,Rajasthan,RJ,3,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107744
+78375,,23/06/2020,,,,Barmer,Rajasthan,RJ,15,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107745
+78376,,23/06/2020,,,,Bharatpur,Rajasthan,RJ,4,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107746
+78377,,23/06/2020,,,,Bhilwara,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107747
+78378,,23/06/2020,,,,Bikaner,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107748
+78379,,23/06/2020,,,,Churu,Rajasthan,RJ,5,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107749
+78380,,23/06/2020,,,,Dausa,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107750
+78381,,23/06/2020,,,,Dholpur,Rajasthan,RJ,4,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107751
+78382,,23/06/2020,,,,Hanumangarh,Rajasthan,RJ,6,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107752
+78383,,23/06/2020,,,,Jaipur,Rajasthan,RJ,18,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107753
+78384,,23/06/2020,,,,Jalore,Rajasthan,RJ,19,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107754
+78385,,23/06/2020,,,,Jodhpur,Rajasthan,RJ,40,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107755
+78386,,23/06/2020,,,,Karauli,Rajasthan,RJ,4,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107756
+78387,,23/06/2020,,,,Kota,Rajasthan,RJ,1,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107757
+78388,,23/06/2020,,,,Nagaur,Rajasthan,RJ,3,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107758
+78389,,23/06/2020,,,,Other State,Rajasthan,RJ,1,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107759
+78390,,23/06/2020,,,,Pali,Rajasthan,RJ,15,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107760
+78391,,23/06/2020,,,,Rajsamand,Rajasthan,RJ,7,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107761
+78392,,23/06/2020,,,,Sawai Madhopur,Rajasthan,RJ,11,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107762
+78393,,23/06/2020,,,,Sikar,Rajasthan,RJ,5,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107763
+78394,,23/06/2020,,,,Sirohi,Rajasthan,RJ,14,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107764
+78395,,23/06/2020,,,,Udaipur,Rajasthan,RJ,5,Hospitalized,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107765
+78396,,23/06/2020,,,,Ajmer,Rajasthan,RJ,3,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107766
+78397,,23/06/2020,,,,Banswara,Rajasthan,RJ,2,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107767
+78398,,23/06/2020,,,,Barmer,Rajasthan,RJ,2,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107768
+78399,,23/06/2020,,,,Bharatpur,Rajasthan,RJ,67,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107769
+78400,,23/06/2020,,,,Bikaner,Rajasthan,RJ,2,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107770
+78401,,23/06/2020,,,,Bundi,Rajasthan,RJ,2,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107771
+78402,,23/06/2020,,,,Dausa,Rajasthan,RJ,4,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107772
+78403,,23/06/2020,,,,Jaipur,Rajasthan,RJ,13,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107773
+78404,,23/06/2020,,,,Jaisalmer,Rajasthan,RJ,4,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107774
+78405,,23/06/2020,,,,Jalore,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107775
+78406,,23/06/2020,,,,Jhalawar,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107776
+78407,,23/06/2020,,,,Jhunjhunu,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107777
+78408,,23/06/2020,,,,Karauli,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107778
+78409,,23/06/2020,,,,Nagaur,Rajasthan,RJ,13,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107779
+78410,,23/06/2020,,,,Pali,Rajasthan,RJ,37,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107780
+78411,,23/06/2020,,,,Rajsamand,Rajasthan,RJ,3,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107781
+78412,,23/06/2020,,,,Sawai Madhopur,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107782
+78413,,23/06/2020,,,,Sikar,Rajasthan,RJ,12,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107783
+78414,,23/06/2020,,,,Udaipur,Rajasthan,RJ,4,Recovered,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107784
+78415,,23/06/2020,,,,Bhilwara,Rajasthan,RJ,2,Deceased,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107785
+78416,,23/06/2020,,,,Ganganagar,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107786
+78417,,23/06/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107787
+78418,,23/06/2020,,,,Jodhpur,Rajasthan,RJ,3,Deceased,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107788
+78419,,23/06/2020,,,,Kota,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107789
+78420,,23/06/2020,,,,Sikar,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1275447503907774470,,,,,,107790
+78421,,23/06/2020,32,M,Sikandra,Jamui,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107791
+78422,,23/06/2020,60,M,Barari,Katihar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107792
+78423,,23/06/2020,19,M,Barari,Katihar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107793
+78424,,23/06/2020,36,M,Sameli,Katihar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107794
+78425,,23/06/2020,40,M,Ladania,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107795
+78426,,23/06/2020,25,M,Ladania,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107796
+78427,,23/06/2020,7,M,Ladania,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107797
+78428,,23/06/2020,30,M,Khutauna,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107798
+78429,,23/06/2020,55,M,Madhepur,Madhubani,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107799
+78430,,23/06/2020,12,M,Sangrampur,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107800
+78431,,23/06/2020,28,M,Sang Rampur,Munger,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107801
+78432,,23/06/2020,48,M,Mushahari,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107802
+78433,,23/06/2020,31,M,Mushahari,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107803
+78434,,23/06/2020,30,M,Marwan,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107804
+78435,,23/06/2020,44,M,Kurhani,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107805
+78436,,23/06/2020,55,M,Mushahari,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107806
+78437,,23/06/2020,26,M,Aurai,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107807
+78438,,23/06/2020,40,M,Mushahari,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107808
+78439,,23/06/2020,38,M,Mushahari,Muzaffarpur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107809
+78440,,23/06/2020,23,M,Katrisarai,Nalanda,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107810
+78441,,23/06/2020,40,M,Kauakole,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107811
+78442,,23/06/2020,30,M,Kauakole,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107812
+78443,,23/06/2020,28,M,Kauakole,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107813
+78444,,23/06/2020,37,M,Kashichak,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107814
+78445,,23/06/2020,40,M,Kauakole,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107815
+78446,,23/06/2020,27,M,Kauakole,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107816
+78447,,23/06/2020,24,M,Kashichak,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107817
+78448,,23/06/2020,22,M,Kashichak,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107818
+78449,,23/06/2020,30,M,Kashichak,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107819
+78450,,23/06/2020,34,M,Kashichak,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107820
+78451,,23/06/2020,24,M,Nardiganj,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107821
+78452,,23/06/2020,26,M,Mescaur,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107822
+78453,,23/06/2020,30,M,Narhat,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,107823
+78454,,23/06/2020,30,M,Narhat,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78455,,23/06/2020,40,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78456,,23/06/2020,47,M,Muradpur,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78457,,23/06/2020,43,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78458,,23/06/2020,23,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78459,,23/06/2020,15,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78460,,23/06/2020,58,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78461,,23/06/2020,30,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78462,,23/06/2020,30,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78463,,23/06/2020,22,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78464,,23/06/2020,53,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78465,,23/06/2020,38,M,Phulwari Sharif,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78466,,23/06/2020,27,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78467,,23/06/2020,36,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78468,,23/06/2020,51,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78469,,23/06/2020,60,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78470,,23/06/2020,40,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78471,,23/06/2020,45,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78472,,23/06/2020,32,M,Masaurhi,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78473,,23/06/2020,30,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78474,,23/06/2020,45,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78475,,23/06/2020,22,M,Barh,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78476,,23/06/2020,23,M,Barh,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78477,,23/06/2020,60,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78478,,23/06/2020,40,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78479,,23/06/2020,12,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78480,,23/06/2020,18,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78481,,23/06/2020,21,M,Kamala Nehru Nagar,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78482,,23/06/2020,29,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78483,,23/06/2020,47,M,Patna,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78484,,23/06/2020,37,M,Kankarbagh,Patna,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78485,,23/06/2020,41,M,Purnea East,Purnia,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78486,,23/06/2020,32,M,Kasba,Purnia,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78487,,23/06/2020,54,M,Kahra,Saharsa,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78488,,23/06/2020,48,M,Samastipur,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78489,,23/06/2020,48,M,Police Line,Samastipur,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78490,,23/06/2020,30,M,Dumari Katsarai,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78491,,23/06/2020,40,M,Dumari Katsarai,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78492,,23/06/2020,40,M,Dumari Katsarai,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78493,,23/06/2020,55,M,Dumari Katsarai,Sheohar,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78494,,23/06/2020,27,M,Lakrinabiganj,Siwan,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78495,,23/06/2020,20,M,Baghai,West Champaran,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78496,,23/06/2020,23,M,Baghai,West Champaran,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1275447033084522498?s=19,,,,,,
+78497,,23/06/2020,,,,Agra,Uttar Pradesh,UP,6,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78498,,23/06/2020,,,,Meerut,Uttar Pradesh,UP,25,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78499,,23/06/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,UP,59,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78500,,23/06/2020,,,,Lucknow,Uttar Pradesh,UP,26,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78501,,23/06/2020,,,,Kanpur Nagar,Uttar Pradesh,UP,15,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78502,,23/06/2020,,,,Ghaziabad,Uttar Pradesh,UP,34,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78503,,23/06/2020,,,,Saharanpur,Uttar Pradesh,UP,4,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78504,,23/06/2020,,,,Firozabad,Uttar Pradesh,UP,12,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78505,,23/06/2020,,,,Moradabad,Uttar Pradesh,UP,6,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78506,,23/06/2020,,,,Varanasi,Uttar Pradesh,UP,12,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78507,,23/06/2020,,,,Rampur,Uttar Pradesh,UP,4,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78508,,23/06/2020,,,,Jaunpur,Uttar Pradesh,UP,5,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78509,,23/06/2020,,,,Basti,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78510,,23/06/2020,,,,Barabanki,Uttar Pradesh,UP,5,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78511,,23/06/2020,,,,Aligarh,Uttar Pradesh,UP,30,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78512,,23/06/2020,,,,Hapur,Uttar Pradesh,UP,86,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78513,,23/06/2020,,,,Bulandshahr,Uttar Pradesh,UP,5,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78514,,23/06/2020,,,,Siddharthnagar,Uttar Pradesh,UP,10,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78515,,23/06/2020,,,,Ayodhya,Uttar Pradesh,UP,8,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78516,,23/06/2020,,,,Ghazipur,Uttar Pradesh,UP,9,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78517,,23/06/2020,,,,Amethi,Uttar Pradesh,UP,6,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78518,,23/06/2020,,,,Bijnor,Uttar Pradesh,UP,5,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78519,,23/06/2020,,,,Prayagraj,Uttar Pradesh,UP,16,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78520,,23/06/2020,,,,Sambhal,Uttar Pradesh,UP,8,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78521,,23/06/2020,,,,Mathura,Uttar Pradesh,UP,15,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78522,,23/06/2020,,,,Sultanpur,Uttar Pradesh,UP,4,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78523,,23/06/2020,,,,Gorakhpur,Uttar Pradesh,UP,6,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78524,,23/06/2020,,,,Deoria,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78525,,23/06/2020,,,,Lakhimpur Kheri,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78526,,23/06/2020,,,,Gonda,Uttar Pradesh,UP,8,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78527,,23/06/2020,,,,Amroha,Uttar Pradesh,UP,3,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78528,,23/06/2020,,,,Ambedkar Nagar,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78529,,23/06/2020,,,,Bareilly,Uttar Pradesh,UP,13,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78530,,23/06/2020,,,,Etawah,Uttar Pradesh,UP,27,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78531,,23/06/2020,,,,Sant Kabir Nagar,Uttar Pradesh,UP,4,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78532,,23/06/2020,,,,Agra,Uttar Pradesh,UP,10,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78533,,23/06/2020,,,,Meerut,Uttar Pradesh,UP,12,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78534,,23/06/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,UP,55,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78535,,23/06/2020,,,,Lucknow,Uttar Pradesh,UP,35,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78536,,23/06/2020,,,,Kanpur Nagar,Uttar Pradesh,UP,13,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78537,,23/06/2020,,,,Ghaziabad,Uttar Pradesh,UP,16,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78538,,23/06/2020,,,,Saharanpur,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78539,,23/06/2020,,,,Firozabad,Uttar Pradesh,UP,14,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78540,,23/06/2020,,,,Moradabad,Uttar Pradesh,UP,8,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78541,,23/06/2020,,,,Varanasi,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78542,,23/06/2020,,,,Rampur,Uttar Pradesh,UP,13,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78543,,23/06/2020,,,,Jaunpur,Uttar Pradesh,UP,22,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78544,,23/06/2020,,,,Basti,Uttar Pradesh,UP,13,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78545,,23/06/2020,,,,Barabanki,Uttar Pradesh,UP,19,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78546,,23/06/2020,,,,Aligarh,Uttar Pradesh,UP,11,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78547,,23/06/2020,,,,Hapur,Uttar Pradesh,UP,10,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78548,,23/06/2020,,,,Bulandshahr,Uttar Pradesh,UP,21,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78549,,23/06/2020,,,,Siddharthnagar,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78550,,23/06/2020,,,,Ayodhya,Uttar Pradesh,UP,9,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78551,,23/06/2020,,,,Ghazipur,Uttar Pradesh,UP,34,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78552,,23/06/2020,,,,Azamgarh,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78553,,23/06/2020,,,,Bijnor,Uttar Pradesh,UP,5,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78554,,23/06/2020,,,,Prayagraj,Uttar Pradesh,UP,5,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78555,,23/06/2020,,,,Sambhal,Uttar Pradesh,UP,10,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78556,,23/06/2020,,,,Pratapgarh,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78557,,23/06/2020,,,,Mathura,Uttar Pradesh,UP,18,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78558,,23/06/2020,,,,Sultanpur,Uttar Pradesh,UP,6,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78559,,23/06/2020,,,,Gorakhpur,Uttar Pradesh,UP,17,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78560,,23/06/2020,,,,Muzaffarnagar,Uttar Pradesh,UP,19,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78561,,23/06/2020,,,,Deoria,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78562,,23/06/2020,,,,Rae Bareli,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78563,,23/06/2020,,,,Gonda,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78564,,23/06/2020,,,,Amroha,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78565,,23/06/2020,,,,Ambedkar Nagar,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78566,,23/06/2020,,,,Bareilly,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78567,,23/06/2020,,,,Etawah,Uttar Pradesh,UP,7,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78568,,23/06/2020,,,,Sant Kabir Nagar,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78569,,23/06/2020,,,,Agra,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78570,,23/06/2020,,,,Kanpur Nagar,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78571,,23/06/2020,,,,Ghaziabad,Uttar Pradesh,UP,2,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78572,,23/06/2020,,,,Firozabad,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78573,,23/06/2020,,,,Varanasi,Uttar Pradesh,UP,2,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78574,,23/06/2020,,,,Jaunpur,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78575,,23/06/2020,,,,Basti,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78576,,23/06/2020,,,,Aligarh,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78577,,23/06/2020,,,,Ghazipur,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78578,,23/06/2020,,,,Mathura,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78579,,23/06/2020,,,,Muzaffarnagar,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78580,,23/06/2020,,,,Deoria,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78581,,23/06/2020,,,,Bareilly,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78582,,23/06/2020,,,,Etawah,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78583,,23/06/2020,,,,Hardoi,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78584,,23/06/2020,,,,Maharajganj,Uttar Pradesh,UP,4,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78585,,23/06/2020,,,,Pilibhit,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78586,,23/06/2020,,,,Shamli,Uttar Pradesh,UP,3,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78587,,23/06/2020,,,,Ballia,Uttar Pradesh,UP,7,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78588,,23/06/2020,,,,Jalaun,Uttar Pradesh,UP,5,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78589,,23/06/2020,,,,Sitapur,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78590,,23/06/2020,,,,Budaun,Uttar Pradesh,UP,5,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78591,,23/06/2020,,,,Balrampur,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78592,,23/06/2020,,,,Jhansi,Uttar Pradesh,UP,6,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78593,,23/06/2020,,,,Chitrakoot,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78594,,23/06/2020,,,,Mainpuri,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78595,,23/06/2020,,,,Mirzapur,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78596,,23/06/2020,,,,Farrukhabad,Uttar Pradesh,UP,6,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78597,,23/06/2020,,,,Baghpat,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78598,,23/06/2020,,,,Auraiya,Uttar Pradesh,UP,4,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78599,,23/06/2020,,,,Banda,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78600,,23/06/2020,,,,Hathras,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78601,,23/06/2020,,,,Mau,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78602,,23/06/2020,,,,Chandauli,Uttar Pradesh,UP,14,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78603,,23/06/2020,,,,Kanpur Dehat,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78604,,23/06/2020,,,,Shahjahanpur,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78605,,23/06/2020,,,,Kasganj,Uttar Pradesh,UP,2,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78606,,23/06/2020,,,,Kushinagar,Uttar Pradesh,UP,9,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78607,,23/06/2020,,,,Sonbhadra,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78608,,23/06/2020,,,,Hamirpur,Uttar Pradesh,UP,1,Hospitalized,,,https://t.me/indiacovid/8143,,,,,,
+78609,,23/06/2020,,,,Hardoi,Uttar Pradesh,UP,16,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78610,,23/06/2020,,,,Maharajganj,Uttar Pradesh,UP,3,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78611,,23/06/2020,,,,Fatehpur,Uttar Pradesh,UP,5,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78612,,23/06/2020,,,,Kannauj,Uttar Pradesh,UP,9,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78613,,23/06/2020,,,,Pilibhit,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78614,,23/06/2020,,,,Jalaun,Uttar Pradesh,UP,12,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78615,,23/06/2020,,,,Sitapur,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78616,,23/06/2020,,,,Budaun,Uttar Pradesh,UP,5,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78617,,23/06/2020,,,,Balrampur,Uttar Pradesh,UP,4,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78618,,23/06/2020,,,,Bhadohi,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78619,,23/06/2020,,,,Chitrakoot,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78620,,23/06/2020,,,,Mainpuri,Uttar Pradesh,UP,9,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78621,,23/06/2020,,,,Mirzapur,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78622,,23/06/2020,,,,Farrukhabad,Uttar Pradesh,UP,9,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78623,,23/06/2020,,,,Unnao,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78624,,23/06/2020,,,,Baghpat,Uttar Pradesh,UP,3,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78625,,23/06/2020,,,,Auraiya,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78626,,23/06/2020,,,,Hathras,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78627,,23/06/2020,,,,Chandauli,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78628,,23/06/2020,,,,Kushinagar,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78629,,23/06/2020,,,,Hamirpur,Uttar Pradesh,UP,6,Recovered,,,https://t.me/indiacovid/8143,,,,,,
+78630,,23/06/2020,,,,Jalaun,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78631,,23/06/2020,,,,Etah,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78632,,23/06/2020,,,,Mau,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/8143,,,,,,
+78633,,23/06/2020,,,,,,,,,,,,,,,,,
+78634,,23/06/2020,,,,,,,,,,,,,,,,,
+78635,,23/06/2020,,,,,,,,,,,,,,,,,
+78636,,23/06/2020,,,,,,,,,,,,,,,,,
+78637,,23/06/2020,,,,,,,,,,,,,,,,,
+78638,,23/06/2020,,,,,,,,,,,,,,,,,
+78639,,23/06/2020,,,,,,,,,,,,,,,,,
+78640,,23/06/2020,,,,,,,,,,,,,,,,,
+78641,,23/06/2020,,,,,,,,,,,,,,,,,
+78642,,23/06/2020,,,,,,,,,,,,,,,,,
+78643,,23/06/2020,,,,,,,,,,,,,,,,,
+78644,,23/06/2020,,,,,,,,,,,,,,,,,
+78645,,23/06/2020,,,,,,,,,,,,,,,,,
+78646,,23/06/2020,,,,,,,,,,,,,,,,,
+78647,,23/06/2020,,,,,,,,,,,,,,,,,
+78648,,23/06/2020,,,,,,,,,,,,,,,,,
+78649,,23/06/2020,,,,,,,,,,,,,,,,,
+78650,,23/06/2020,,,,,,,,,,,,,,,,,
+78651,,23/06/2020,,,,,,,,,,,,,,,,,
+78652,,23/06/2020,,,,,,,,,,,,,,,,,
+78653,,23/06/2020,,,,,,,,,,,,,,,,,
+78654,,23/06/2020,,,,,,,,,,,,,,,,,
+78655,,23/06/2020,,,,,,,,,,,,,,,,,
+78656,,23/06/2020,,,,,,,,,,,,,,,,,
+78657,,23/06/2020,,,,,,,,,,,,,,,,,
+78658,,23/06/2020,,,,,,,,,,,,,,,,,
+78659,,23/06/2020,,,,,,,,,,,,,,,,,
+78660,,23/06/2020,,,,,,,,,,,,,,,,,
+78661,,23/06/2020,,,,,,,,,,,,,,,,,
+78662,,23/06/2020,,,,,,,,,,,,,,,,,
+78663,,23/06/2020,,,,,,,,,,,,,,,,,
+78664,,23/06/2020,,,,,,,,,,,,,,,,,
+78665,,23/06/2020,,,,,,,,,,,,,,,,,
+78666,,23/06/2020,,,,,,,,,,,,,,,,,
+78667,,23/06/2020,,,,,,,,,,,,,,,,,
+78668,,23/06/2020,,,,,,,,,,,,,,,,,
+78669,,23/06/2020,,,,,,,,,,,,,,,,,
+78670,,23/06/2020,,,,,,,,,,,,,,,,,
+78671,,23/06/2020,,,,,,,,,,,,,,,,,
+78672,,,,,,,,,,,,,,,,,,,
+78673,,,,,,,,,,,,,,,,,,,
+78674,,,,,,,,,,,,,,,,,,,
+78675,,,,,,,,,,,,,,,,,,,
+78676,,,,,,,,,,,,,,,,,,,
+78677,,,,,,,,,,,,,,,,,,,
+78678,,,,,,,,,,,,,,,,,,,
+78679,,,,,,,,,,,,,,,,,,,
+78680,,,,,,,,,,,,,,,,,,,
+78681,,,,,,,,,,,,,,,,,,,
+78682,,,,,,,,,,,,,,,,,,,
+78683,,,,,,,,,,,,,,,,,,,
+78684,,,,,,,,,,,,,,,,,,,
+78685,,,,,,,,,,,,,,,,,,,
+78686,,,,,,,,,,,,,,,,,,,
+78687,,,,,,,,,,,,,,,,,,,
+78688,,,,,,,,,,,,,,,,,,,
+78689,,,,,,,,,,,,,,,,,,,
+78690,,,,,,,,,,,,,,,,,,,
+78691,,,,,,,,,,,,,,,,,,,
+78692,,,,,,,,,,,,,,,,,,,
+78693,,,,,,,,,,,,,,,,,,,
+78694,,,,,,,,,,,,,,,,,,,
+78695,,,,,,,,,,,,,,,,,,,
+78696,,,,,,,,,,,,,,,,,,,
+78697,,,,,,,,,,,,,,,,,,,
+78698,,,,,,,,,,,,,,,,,,,
+78699,,,,,,,,,,,,,,,,,,,
+78700,,,,,,,,,,,,,,,,,,,
+78701,,,,,,,,,,,,,,,,,,,
+78702,,,,,,,,,,,,,,,,,,,
+78703,,,,,,,,,,,,,,,,,,,
+78704,,,,,,,,,,,,,,,,,,,
+78705,,,,,,,,,,,,,,,,,,,
+78706,,,,,,,,,,,,,,,,,,,
+78707,,,,,,,,,,,,,,,,,,,
+78708,,,,,,,,,,,,,,,,,,,
+78709,,,,,,,,,,,,,,,,,,,
+78710,,,,,,,,,,,,,,,,,,,
+78711,,,,,,,,,,,,,,,,,,,
+78712,,,,,,,,,,,,,,,,,,,
+78713,,,,,,,,,,,,,,,,,,,
+78714,,,,,,,,,,,,,,,,,,,
+78715,,,,,,,,,,,,,,,,,,,
+78716,,,,,,,,,,,,,,,,,,,
+78717,,,,,,,,,,,,,,,,,,,
+78718,,,,,,,,,,,,,,,,,,,
+78719,,,,,,,,,,,,,,,,,,,
+78720,,,,,,,,,,,,,,,,,,,
+78721,,,,,,,,,,,,,,,,,,,
+78722,,,,,,,,,,,,,,,,,,,
+78723,,,,,,,,,,,,,,,,,,,
+78724,,,,,,,,,,,,,,,,,,,
+78725,,,,,,,,,,,,,,,,,,,
+78726,,,,,,,,,,,,,,,,,,,
+78727,,,,,,,,,,,,,,,,,,,
+78728,,,,,,,,,,,,,,,,,,,
+78729,,,,,,,,,,,,,,,,,,,
+78730,,,,,,,,,,,,,,,,,,,
+78731,,,,,,,,,,,,,,,,,,,
+78732,,,,,,,,,,,,,,,,,,,
+78733,,,,,,,,,,,,,,,,,,,
+78734,,,,,,,,,,,,,,,,,,,
+78735,,,,,,,,,,,,,,,,,,,
+78736,,,,,,,,,,,,,,,,,,,
+78737,,,,,,,,,,,,,,,,,,,
+78738,,,,,,,,,,,,,,,,,,,
+78739,,,,,,,,,,,,,,,,,,,
+78740,,,,,,,,,,,,,,,,,,,
+78741,,,,,,,,,,,,,,,,,,,
+78742,,,,,,,,,,,,,,,,,,,
+78743,,,,,,,,,,,,,,,,,,,
+78744,,,,,,,,,,,,,,,,,,,
+78745,,,,,,,,,,,,,,,,,,,
+78746,,,,,,,,,,,,,,,,,,,
+78747,,,,,,,,,,,,,,,,,,,
+78748,,,,,,,,,,,,,,,,,,,
+78749,,,,,,,,,,,,,,,,,,,
+78750,,,,,,,,,,,,,,,,,,,
+78751,,,,,,,,,,,,,,,,,,,
+78752,,,,,,,,,,,,,,,,,,,
+78753,,,,,,,,,,,,,,,,,,,
