@@ -897,24 +897,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 418,
+          "confirmed": 420,
           "deceased": 6,
           "recovered": 322
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T21:28:15+05:30",
+      "last_updated": "2020-06-24T18:43:21+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/612"
       }
     },
     "total": {
-      "confirmed": 418,
+      "confirmed": 420,
       "deceased": 6,
       "recovered": 322,
       "tested": 6840
@@ -1533,7 +1539,7 @@
   "HP": {
     "delta": {
       "confirmed": 3,
-      "recovered": 5
+      "recovered": 9
     },
     "districts": {
       "Bilaspur": {
@@ -1592,11 +1598,14 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 36,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 13
+          "recovered": 14
         }
       },
       "Sirmaur": {
@@ -1617,9 +1626,12 @@
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 96,
-          "recovered": 56
+          "recovered": 59
         }
       },
       "Unknown": {
@@ -1629,7 +1641,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T12:46:16+05:30",
+      "last_updated": "2020-06-24T18:43:18+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-23",
@@ -1640,7 +1652,7 @@
       "confirmed": 778,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 437,
+      "recovered": 441,
       "tested": 67020
     }
   },
@@ -2579,7 +2591,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T18:35:18+05:30",
+      "last_updated": "2020-06-24T18:37:16+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-23",
@@ -5118,23 +5130,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5480,
+      "confirmed": 5482,
       "deceased": 86,
-      "recovered": 3027,
+      "recovered": 3031,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T18:35:13+05:30",
+      "last_updated": "2020-06-24T18:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 461596,
+      "confirmed": 461598,
       "deceased": 14569,
       "migrated": 55,
-      "recovered": 261626,
+      "recovered": 261630,
       "tested": 7352911
     }
   },
