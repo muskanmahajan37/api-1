@@ -328,6 +328,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 226
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -440,7 +443,7 @@
       },
       "Kamrup Metropolitan": {
         "total": {
-          "confirmed": 690,
+          "confirmed": 691,
           "deceased": 4,
           "recovered": 383
         }
@@ -529,8 +532,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 226
+        },
         "total": {
-          "confirmed": 2096,
+          "confirmed": 2322,
           "deceased": 4,
           "migrated": 3,
           "recovered": 2847
@@ -543,7 +549,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T00:05:15+05:30",
+      "last_updated": "2020-06-24T19:35:21+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-23",
@@ -551,7 +557,7 @@
       }
     },
     "total": {
-      "confirmed": 6056,
+      "confirmed": 6283,
       "deceased": 9,
       "migrated": 3,
       "recovered": 3763,
@@ -562,7 +568,8 @@
     "delta": {
       "confirmed": 130,
       "deceased": 1,
-      "recovered": 79
+      "recovered": 79,
+      "tested": 5702
     },
     "districts": {
       "Araria": {
@@ -905,17 +912,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T13:48:20+05:30",
+      "last_updated": "2020-06-24T19:35:18+05:30",
       "tested": {
-        "last_updated": "2020-06-23",
-        "source": "https://twitter.com/PIB_Patna/status/1275394867682631680"
+        "last_updated": "2020-06-24",
+        "source": "https://twitter.com/PIB_Patna/status/1275787406814445576"
       }
     },
     "total": {
       "confirmed": 8180,
       "deceased": 55,
       "recovered": 6106,
-      "tested": 169401
+      "tested": 175103
     }
   },
   "CH": {
@@ -2228,7 +2235,8 @@
     "delta": {
       "confirmed": 397,
       "deceased": 14,
-      "recovered": 149
+      "recovered": 149,
+      "tested": 12709
     },
     "districts": {
       "Bagalkote": {
@@ -2546,10 +2554,10 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:23:17+05:30",
+      "last_updated": "2020-06-24T19:35:16+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
-        "last_updated": "2020-06-23"
+        "last_updated": "2020-06-24"
       }
     },
     "total": {
@@ -2557,7 +2565,7 @@
       "deceased": 164,
       "migrated": 4,
       "recovered": 6153,
-      "tested": 526538
+      "tested": 539247
     }
   },
   "KL": {
@@ -2723,7 +2731,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:20:19+05:30",
+      "last_updated": "2020-06-24T19:35:24+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-23",
@@ -3258,7 +3266,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:22:18+05:30",
+      "last_updated": "2020-06-24T19:35:28+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/DiprManipur/status/1275450368730660866?s=20"
@@ -5448,7 +5456,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:20:15+05:30",
+      "last_updated": "2020-06-24T19:27:14+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-23",
@@ -5530,20 +5538,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9023,
+      "confirmed": 9249,
       "deceased": 142,
       "recovered": 5735,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T19:23:13+05:30",
+      "last_updated": "2020-06-24T19:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 465139,
+      "confirmed": 465366,
       "deceased": 14625,
       "migrated": 55,
       "recovered": 264334,
