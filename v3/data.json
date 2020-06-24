@@ -549,7 +549,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:35:21+05:30",
+      "last_updated": "2020-06-24T19:42:16+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-23",
@@ -912,7 +912,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:35:18+05:30",
+      "last_updated": "2020-06-24T19:38:16+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/PIB_Patna/status/1275787406814445576"
@@ -2554,7 +2554,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:35:16+05:30",
+      "last_updated": "2020-06-24T19:38:15+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-24"
@@ -2731,7 +2731,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:35:24+05:30",
+      "last_updated": "2020-06-24T19:38:20+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-23",
@@ -3129,7 +3129,8 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 49
+      "confirmed": 49,
+      "recovered": 70
     },
     "districts": {
       "Bishnupur": {
@@ -3263,10 +3264,18 @@
           "confirmed": 99,
           "recovered": 14
         }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": 70
+        },
+        "total": {
+          "recovered": 70
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T19:35:28+05:30",
+      "last_updated": "2020-06-24T19:43:17+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/DiprManipur/status/1275450368730660866?s=20"
@@ -3274,7 +3283,7 @@
     },
     "total": {
       "confirmed": 970,
-      "recovered": 258,
+      "recovered": 328,
       "tested": 40829
     }
   },
@@ -5031,7 +5040,8 @@
     "delta": {
       "confirmed": 2865,
       "deceased": 33,
-      "recovered": 2424
+      "recovered": 2424,
+      "tested": 32079
     },
     "districts": {
       "Airport Quarantine": {
@@ -5459,15 +5469,14 @@
       "last_updated": "2020-06-24T19:27:14+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
-        "last_updated": "2020-06-23",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-23.06.2020-17-Pages-English-419.2-KB.pdf"
+        "last_updated": "2020-06-24"
       }
     },
     "total": {
       "confirmed": 67468,
       "deceased": 866,
       "recovered": 37763,
-      "tested": 944352
+      "tested": 976431
     }
   },
   "TR": {
@@ -5540,11 +5549,11 @@
     "delta": {
       "confirmed": 9249,
       "deceased": 142,
-      "recovered": 5735,
+      "recovered": 5805,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T19:35:13+05:30",
+      "last_updated": "2020-06-24T19:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
@@ -5554,7 +5563,7 @@
       "confirmed": 465366,
       "deceased": 14625,
       "migrated": 55,
-      "recovered": 264334,
+      "recovered": 264404,
       "tested": 7352911
     }
   },
