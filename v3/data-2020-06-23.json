@@ -1359,7 +1359,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 7,
+      "confirmed": 9,
       "migrated": 1
     },
     "districts": {
@@ -1375,8 +1375,11 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 41,
           "recovered": 1
         }
       },
@@ -1396,7 +1399,7 @@
       }
     },
     "total": {
-      "confirmed": 119,
+      "confirmed": 121,
       "migrated": 1,
       "recovered": 27,
       "tested": 27839
@@ -1406,7 +1409,8 @@
     "delta": {
       "confirmed": 45,
       "deceased": 1,
-      "recovered": 53
+      "recovered": 53,
+      "tested": 1059
     },
     "districts": {
       "North Goa": {
@@ -1442,15 +1446,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-22",
-        "source": "https://twitter.com/DHS_Goa/status/1275074156204179459?s=09"
+        "last_updated": "2020-06-23"
       }
     },
     "total": {
       "confirmed": 909,
       "deceased": 2,
       "recovered": 205,
-      "tested": 53050
+      "tested": 54109
     }
   },
   "GJ": {
@@ -4401,17 +4404,12 @@
           "confirmed": 48
         }
       },
-      "Other State": {
+      "Others": {
         "delta": {
           "confirmed": 3
         },
         "total": {
-          "confirmed": 3
-        }
-      },
-      "Others": {
-        "total": {
-          "confirmed": 3
+          "confirmed": 6
         }
       },
       "Peren": {
@@ -5425,6 +5423,7 @@
   },
   "SK": {
     "delta": {
+      "confirmed": 1,
       "tested": 145
     },
     "districts": {
@@ -5441,8 +5440,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 9
         }
       },
@@ -5459,7 +5461,7 @@
       }
     },
     "total": {
-      "confirmed": 78,
+      "confirmed": 79,
       "recovered": 29,
       "tested": 9594
     }
@@ -6282,7 +6284,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 15653,
+      "confirmed": 15656,
       "deceased": 468,
       "migrated": 4,
       "recovered": 10462,
@@ -6295,7 +6297,7 @@
       }
     },
     "total": {
-      "confirmed": 456113,
+      "confirmed": 456116,
       "deceased": 14483,
       "migrated": 55,
       "recovered": 258599,
