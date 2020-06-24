@@ -1113,6 +1113,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 3788,
+      "deceased": 64,
+      "recovered": 2124
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1166,10 +1171,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 3788,
+          "deceased": 64,
+          "recovered": 2124
+        },
         "total": {
-          "confirmed": 65814,
-          "deceased": 2300,
-          "recovered": 39313
+          "confirmed": 69602,
+          "deceased": 2364,
+          "recovered": 41437
         }
       },
       "West Delhi": {
@@ -1179,7 +1189,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T20:04:14+05:30",
+      "last_updated": "2020-06-24T18:13:14+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-23",
@@ -1187,9 +1197,9 @@
       }
     },
     "total": {
-      "confirmed": 66602,
-      "deceased": 2301,
-      "recovered": 39313,
+      "confirmed": 70390,
+      "deceased": 2365,
+      "recovered": 41437,
       "tested": 401648
     }
   },
@@ -5054,23 +5064,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1540,
-      "deceased": 22,
-      "recovered": 822,
+      "confirmed": 5328,
+      "deceased": 86,
+      "recovered": 2946,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T17:56:13+05:30",
+      "last_updated": "2020-06-24T18:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 457656,
-      "deceased": 14505,
+      "confirmed": 461444,
+      "deceased": 14569,
       "migrated": 55,
-      "recovered": 259421,
+      "recovered": 261545,
       "tested": 7352911
     }
   },
