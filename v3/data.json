@@ -45,7 +45,8 @@
     "delta": {
       "confirmed": 497,
       "deceased": 10,
-      "recovered": 187
+      "recovered": 187,
+      "tested": 36047
     },
     "districts": {
       "Anantapur": {
@@ -213,15 +214,14 @@
       "last_updated": "2020-06-24T14:04:15+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-23",
-        "source": "https://twitter.com/ArogyaAndhra/status/1275329802954670080?s=20"
+        "last_updated": "2020-06-24"
       }
     },
     "total": {
       "confirmed": 10331,
       "deceased": 129,
       "recovered": 4779,
-      "tested": 714187
+      "tested": 750234
     }
   },
   "AR": {
@@ -5703,7 +5703,8 @@
       "last_updated": "2020-06-24T16:01:15+05:30",
       "notes": "17 Migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-24"
+        "last_updated": "2020-06-24",
+        "source": "https://twitter.com/PIBDehradun/status/1275736380224581633?s=20"
       }
     },
     "total": {
