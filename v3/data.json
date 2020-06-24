@@ -228,7 +228,8 @@
   "AR": {
     "delta": {
       "confirmed": 2,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 540
     },
     "districts": {
       "Changlang": {
@@ -331,15 +332,14 @@
     "meta": {
       "last_updated": "2020-06-24T21:38:34+05:30",
       "tested": {
-        "last_updated": "2020-06-23",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/623"
+        "last_updated": "2020-06-24"
       }
     },
     "total": {
       "confirmed": 160,
       "deceased": 1,
       "recovered": 38,
-      "tested": 20398
+      "tested": 20938
     }
   },
   "AS": {
@@ -1210,7 +1210,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T22:13:16+05:30",
+      "last_updated": "2020-06-24T22:19:28+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/TS_SinghDeo/status/1275460615977357314?s=20"
@@ -1898,7 +1898,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T22:12:22+05:30",
+      "last_updated": "2020-06-24T22:17:30+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-24",
@@ -6087,23 +6087,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16775,
+      "confirmed": 16830,
       "deceased": 423,
-      "recovered": 12765,
+      "recovered": 12833,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T22:13:13+05:30",
+      "last_updated": "2020-06-24T22:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 472892,
+      "confirmed": 472947,
       "deceased": 14906,
       "migrated": 55,
-      "recovered": 271364,
+      "recovered": 271432,
       "tested": 7352911
     }
   },
@@ -6921,9 +6921,9 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 33,
+      "confirmed": 88,
       "deceased": 5,
-      "recovered": 51
+      "recovered": 119
     },
     "districts": {
       "Almora": {
@@ -6937,8 +6937,11 @@
         }
       },
       "Bageshwar": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 63,
+          "confirmed": 68,
           "deceased": 1,
           "recovered": 46
         }
@@ -6953,57 +6956,69 @@
         }
       },
       "Champawat": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 50,
+          "confirmed": 51,
           "deceased": 1,
           "recovered": 44
         }
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 16,
           "deceased": 3,
-          "recovered": 22
+          "recovered": 39
         },
         "total": {
-          "confirmed": 642,
+          "confirmed": 648,
           "deceased": 20,
           "migrated": 13,
-          "recovered": 446
+          "recovered": 463
         }
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 1,
-          "recovered": 9
+          "confirmed": 6,
+          "recovered": 16
         },
         "total": {
-          "confirmed": 298,
+          "confirmed": 303,
           "migrated": 4,
-          "recovered": 143
+          "recovered": 150
         }
       },
       "Nainital": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 376,
+          "confirmed": 383,
           "deceased": 2,
-          "recovered": 268
+          "recovered": 277
         }
       },
       "Pauri Garhwal": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 7
         },
         "total": {
           "confirmed": 138,
           "deceased": 3,
-          "recovered": 50
+          "recovered": 57
         }
       },
       "Pithoragarh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 23
+        },
         "total": {
-          "confirmed": 64,
-          "recovered": 27
+          "confirmed": 65,
+          "recovered": 50
         }
       },
       "Rudraprayag": {
@@ -7015,24 +7030,24 @@
       },
       "Tehri Garhwal": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 17,
           "deceased": 2
         },
         "total": {
-          "confirmed": 399,
+          "confirmed": 409,
           "deceased": 2,
           "recovered": 321
         }
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 6,
-          "recovered": 7
+          "confirmed": 26,
+          "recovered": 12
         },
         "total": {
-          "confirmed": 184,
+          "confirmed": 204,
           "deceased": 3,
-          "recovered": 103
+          "recovered": 108
         }
       },
       "Uttarkashi": {
@@ -7043,14 +7058,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T16:01:15+05:30",
+      "last_updated": "2020-06-24T22:23:16+05:30",
       "notes": "17 Migrated cases reduced from Active count"
     },
     "total": {
-      "confirmed": 2568,
+      "confirmed": 2623,
       "deceased": 35,
       "migrated": 17,
-      "recovered": 1653
+      "recovered": 1721
     }
   },
   "WB": {
