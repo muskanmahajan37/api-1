@@ -4229,12 +4229,12 @@
       {
         "district": "Alappuzha",
         "notes": "",
-        "active": 125,
-        "confirmed": 209,
+        "active": 140,
+        "confirmed": 224,
         "deceased": 1,
         "recovered": 83,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -4242,12 +4242,12 @@
       {
         "district": "Ernakulam",
         "notes": "",
-        "active": 110,
-        "confirmed": 191,
+        "active": 118,
+        "confirmed": 199,
         "deceased": 1,
         "recovered": 79,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -4255,12 +4255,12 @@
       {
         "district": "Idukki",
         "notes": "",
-        "active": 51,
-        "confirmed": 86,
+        "active": 57,
+        "confirmed": 92,
         "deceased": 0,
         "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4268,12 +4268,12 @@
       {
         "district": "Kannur",
         "notes": "",
-        "active": 100,
-        "confirmed": 358,
+        "active": 117,
+        "confirmed": 375,
         "deceased": 5,
         "recovered": 253,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
@@ -4281,12 +4281,12 @@
       {
         "district": "Kasaragod",
         "notes": "",
-        "active": 126,
-        "confirmed": 411,
+        "active": 132,
+        "confirmed": 417,
         "deceased": 0,
         "recovered": 285,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4294,12 +4294,12 @@
       {
         "district": "Kollam",
         "notes": "",
-        "active": 164,
-        "confirmed": 252,
+        "active": 182,
+        "confirmed": 270,
         "deceased": 2,
         "recovered": 86,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
@@ -4307,12 +4307,12 @@
       {
         "district": "Kottayam",
         "notes": "",
-        "active": 87,
-        "confirmed": 171,
+        "active": 94,
+        "confirmed": 178,
         "deceased": 1,
         "recovered": 83,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -4320,12 +4320,12 @@
       {
         "district": "Kozhikode",
         "notes": "",
-        "active": 105,
-        "confirmed": 217,
+        "active": 108,
+        "confirmed": 220,
         "deceased": 1,
         "recovered": 111,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4333,12 +4333,12 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 187,
-        "confirmed": 369,
+        "active": 197,
+        "confirmed": 379,
         "deceased": 3,
         "recovered": 179,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -4346,12 +4346,12 @@
       {
         "district": "Palakkad",
         "notes": "",
-        "active": 192,
-        "confirmed": 408,
+        "active": 208,
+        "confirmed": 424,
         "deceased": 1,
         "recovered": 214,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
@@ -4359,12 +4359,12 @@
       {
         "district": "Pathanamthitta",
         "notes": "",
-        "active": 155,
-        "confirmed": 224,
+        "active": 180,
+        "confirmed": 249,
         "deceased": 0,
         "recovered": 69,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 25,
           "deceased": 0,
           "recovered": 0
         }
@@ -4372,12 +4372,12 @@
       {
         "district": "Thiruvananthapuram",
         "notes": "",
-        "active": 57,
-        "confirmed": 176,
+        "active": 61,
+        "confirmed": 180,
         "deceased": 4,
         "recovered": 115,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -4385,12 +4385,12 @@
       {
         "district": "Thrissur",
         "notes": "",
-        "active": 129,
-        "confirmed": 302,
+        "active": 144,
+        "confirmed": 317,
         "deceased": 3,
         "recovered": 170,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -4398,10 +4398,23 @@
       {
         "district": "Wayanad",
         "notes": "",
-        "active": 30,
-        "confirmed": 76,
+        "active": 32,
+        "confirmed": 78,
         "deceased": 1,
         "recovered": 45,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -81,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 81,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
