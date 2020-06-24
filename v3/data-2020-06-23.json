@@ -1506,23 +1506,20 @@
       },
       "Aravalli": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 3
         },
         "total": {
-          "confirmed": 177,
+          "confirmed": 179,
           "deceased": 15,
           "recovered": 139
         }
       },
       "Banaskantha": {
-        "delta": {
-          "recovered": 3
-        },
         "total": {
           "confirmed": 167,
           "deceased": 8,
-          "recovered": 142
+          "recovered": 139
         }
       },
       "Bharuch": {
@@ -1571,11 +1568,12 @@
       },
       "Dahod": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 53,
-          "recovered": 43
+          "recovered": 44
         }
       },
       "Dang": {
@@ -1608,11 +1606,12 @@
       },
       "Gir Somnath": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 58,
-          "recovered": 47
+          "recovered": 48
         }
       },
       "Jamnagar": {
@@ -1638,22 +1637,22 @@
       },
       "Kheda": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": -10,
           "recovered": 2
         },
         "total": {
-          "confirmed": 133,
+          "confirmed": 122,
           "deceased": 5,
           "recovered": 92
         }
       },
       "Kutch": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 15,
           "recovered": 4
         },
         "total": {
-          "confirmed": 106,
+          "confirmed": 117,
           "deceased": 5,
           "recovered": 86
         }
@@ -1730,12 +1729,12 @@
         "delta": {
           "confirmed": 2,
           "deceased": 1,
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 149,
           "deceased": 11,
-          "recovered": 98
+          "recovered": 99
         }
       },
       "Porbandar": {
@@ -1780,19 +1779,30 @@
       },
       "Surendranagar": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 7,
           "recovered": 1
         },
         "total": {
-          "confirmed": 91,
+          "confirmed": 95,
           "deceased": 4,
           "recovered": 50
         }
       },
       "Tapi": {
+        "delta": {
+          "confirmed": -4
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 6,
           "recovered": 5
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": -2
+        },
+        "total": {
+          "confirmed": -2
         }
       },
       "Vadodara": {

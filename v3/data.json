@@ -329,7 +329,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T21:23:24+05:30",
+      "last_updated": "2020-06-24T21:35:08+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/623"
@@ -935,7 +935,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T21:23:20+05:30",
+      "last_updated": "2020-06-24T21:36:21+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/PIB_Patna/status/1275787406814445576"
@@ -1350,6 +1350,10 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 42,
+      "recovered": 84
+    },
     "districts": {
       "North Goa": {
         "total": {
@@ -1370,24 +1374,28 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 42,
+          "recovered": 84
+        },
         "total": {
-          "confirmed": 522,
+          "confirmed": 564,
           "deceased": 1,
-          "recovered": 138
+          "recovered": 222
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T20:55:17+05:30",
+      "last_updated": "2020-06-24T21:35:01+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/DHS_Goa/status/1275427554967486464?s=20"
       }
     },
     "total": {
-      "confirmed": 909,
+      "confirmed": 951,
       "deceased": 2,
-      "recovered": 205,
+      "recovered": 289,
       "tested": 54781
     }
   },
@@ -1438,7 +1446,7 @@
           "recovered": 5
         },
         "total": {
-          "confirmed": 184,
+          "confirmed": 186,
           "deceased": 15,
           "recovered": 144
         }
@@ -1450,7 +1458,7 @@
         "total": {
           "confirmed": 168,
           "deceased": 8,
-          "recovered": 142
+          "recovered": 139
         }
       },
       "Bharuch": {
@@ -1500,7 +1508,7 @@
         },
         "total": {
           "confirmed": 54,
-          "recovered": 43
+          "recovered": 44
         }
       },
       "Dang": {
@@ -1538,7 +1546,7 @@
         "total": {
           "confirmed": 63,
           "deceased": 1,
-          "recovered": 47
+          "recovered": 48
         }
       },
       "Jamnagar": {
@@ -1570,7 +1578,7 @@
           "recovered": 2
         },
         "total": {
-          "confirmed": 136,
+          "confirmed": 125,
           "deceased": 5,
           "recovered": 94
         }
@@ -1581,7 +1589,7 @@
           "recovered": 1
         },
         "total": {
-          "confirmed": 111,
+          "confirmed": 122,
           "deceased": 5,
           "recovered": 87
         }
@@ -1660,7 +1668,7 @@
         "total": {
           "confirmed": 152,
           "deceased": 13,
-          "recovered": 99
+          "recovered": 100
         }
       },
       "Porbandar": {
@@ -1710,15 +1718,20 @@
           "confirmed": 9
         },
         "total": {
-          "confirmed": 100,
+          "confirmed": 104,
           "deceased": 4,
           "recovered": 50
         }
       },
       "Tapi": {
         "total": {
-          "confirmed": 10,
+          "confirmed": 6,
           "recovered": 5
+        }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": -2
         }
       },
       "Vadodara": {
@@ -1744,7 +1757,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T20:46:17+05:30",
+      "last_updated": "2020-06-24T21:35:26+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/PIBAhmedabad/status/1275431546841894912?s=19"
@@ -5215,7 +5228,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T21:23:17+05:30",
+      "last_updated": "2020-06-24T21:35:55+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/613"
@@ -6104,23 +6117,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17053,
-      "deceased": 793,
-      "recovered": 12656,
+      "confirmed": 16725,
+      "deceased": 423,
+      "recovered": 12740,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T21:23:13+05:30",
+      "last_updated": "2020-06-24T21:36:21+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 473170,
-      "deceased": 15276,
+      "confirmed": 472842,
+      "deceased": 14906,
       "migrated": 55,
-      "recovered": 271255,
+      "recovered": 271339,
       "tested": 7352911
     }
   },
@@ -6138,8 +6151,8 @@
   },
   "UP": {
     "delta": {
-      "confirmed": 1034,
-      "deceased": 378,
+      "confirmed": 664,
+      "deceased": 8,
       "recovered": 470
     },
     "districts": {
@@ -6582,13 +6595,13 @@
       },
       "Kanpur Nagar": {
         "delta": {
-          "confirmed": 397,
-          "deceased": 371,
+          "confirmed": 27,
+          "deceased": 1,
           "recovered": 32
         },
         "total": {
-          "confirmed": 1384,
-          "deceased": 411,
+          "confirmed": 1014,
+          "deceased": 41,
           "recovered": 615
         }
       },
@@ -6928,15 +6941,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T21:23:15+05:30",
+      "last_updated": "2020-06-24T21:36:38+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/UPGovt/status/1275418654327189506?s=20"
       }
     },
     "total": {
-      "confirmed": 19927,
-      "deceased": 966,
+      "confirmed": 19557,
+      "deceased": 596,
       "recovered": 12586,
       "tested": 588186
     }
