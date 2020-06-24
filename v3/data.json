@@ -2172,6 +2172,11 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 26,
+      "deceased": 1,
+      "recovered": 55
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -2187,27 +2192,40 @@
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 32,
+          "confirmed": 33,
           "recovered": 10
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 122,
+          "confirmed": 127,
           "recovered": 109
         }
       },
       "Dumka": {
+        "delta": {
+          "confirmed": -6
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 4,
           "recovered": 4
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 16,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 330,
-          "recovered": 168
+          "confirmed": 346,
+          "recovered": 170
         }
       },
       "Garhwa": {
@@ -2230,16 +2248,23 @@
         }
       },
       "Gumla": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 105,
           "deceased": 1,
-          "recovered": 67
+          "recovered": 68
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 4,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 170,
-          "deceased": 1,
+          "confirmed": 174,
+          "deceased": 2,
           "recovered": 122
         }
       },
@@ -2250,8 +2275,11 @@
         }
       },
       "Khunti": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 23,
+          "confirmed": 25,
           "recovered": 23
         }
       },
@@ -2263,15 +2291,22 @@
         }
       },
       "Latehar": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 54,
-          "recovered": 46
+          "recovered": 48
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 52,
-          "recovered": 37
+          "confirmed": 53,
+          "recovered": 41
         }
       },
       "Pakur": {
@@ -2281,8 +2316,11 @@
         }
       },
       "Palamu": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 49,
+          "confirmed": 50,
           "recovered": 45
         }
       },
@@ -2293,10 +2331,14 @@
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 201,
+          "confirmed": 202,
           "deceased": 5,
-          "recovered": 144
+          "recovered": 148
         }
       },
       "Sahibganj": {
@@ -2312,9 +2354,13 @@
         }
       },
       "Simdega": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 42
+        },
         "total": {
-          "confirmed": 348,
-          "recovered": 228
+          "confirmed": 349,
+          "recovered": 270
         }
       },
       "West Singhbhum": {
@@ -2325,16 +2371,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T05:55:15+05:30",
+      "last_updated": "2020-06-24T23:13:15+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/FOBGumla/status/1275476179600850947?s=20"
       }
     },
     "total": {
-      "confirmed": 2193,
-      "deceased": 11,
-      "recovered": 1520,
+      "confirmed": 2219,
+      "deceased": 12,
+      "recovered": 1575,
       "tested": 126007
     }
   },
@@ -3525,7 +3571,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T23:03:14+05:30",
+      "last_updated": "2020-06-24T23:12:19+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-24",
@@ -6223,23 +6269,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16829,
-      "deceased": 423,
-      "recovered": 13034,
+      "confirmed": 16855,
+      "deceased": 424,
+      "recovered": 13089,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T23:03:13+05:30",
+      "last_updated": "2020-06-24T23:13:12+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 472946,
-      "deceased": 14906,
+      "confirmed": 472972,
+      "deceased": 14907,
       "migrated": 55,
-      "recovered": 271633,
+      "recovered": 271688,
       "tested": 7352911
     }
   },
