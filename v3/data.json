@@ -3179,10 +3179,16 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 3
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 33,
+          "confirmed": 35,
           "recovered": 10
         }
       },
@@ -3208,8 +3214,11 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 46
+          "confirmed": 47
         }
       },
       "Mamit": {
@@ -3236,14 +3245,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T13:55:20+05:30",
+      "last_updated": "2020-06-24T07:43:16+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2262020-500pm-2362020-500-pm"
       }
     },
     "total": {
-      "confirmed": 142,
+      "confirmed": 145,
       "recovered": 19,
       "tested": 9840
     }
@@ -4635,17 +4644,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 7
     },
     "meta": {
-      "last_updated": "2020-06-24T07:34:14+05:30",
+      "last_updated": "2020-06-24T07:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
       }
     },
     "total": {
-      "confirmed": 456119,
+      "confirmed": 456122,
       "deceased": 14483,
       "migrated": 55,
       "recovered": 258599,
