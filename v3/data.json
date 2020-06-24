@@ -1389,6 +1389,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 5
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1404,20 +1408,26 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 205,
           "deceased": 1,
-          "recovered": 111
+          "recovered": 114
         }
       },
       "Kangra": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
           "confirmed": 208,
           "deceased": 2,
-          "recovered": 120
+          "recovered": 122
         }
       },
       "Kinnaur": {
@@ -1455,8 +1465,11 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 81,
+          "confirmed": 84,
           "migrated": 4,
           "recovered": 30
         }
@@ -1474,7 +1487,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-23T22:07:21+05:30",
+      "last_updated": "2020-06-24T12:36:17+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-23",
@@ -1482,10 +1495,10 @@
       }
     },
     "total": {
-      "confirmed": 775,
+      "confirmed": 778,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 432,
+      "recovered": 437,
       "tested": 67020
     }
   },
@@ -2632,7 +2645,7 @@
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-24",
-        "source": "https://twitter.com/Maha_MEDD/status/1275671147372318721?s=20"
+        "source": "https://t.co/A4mIFHwgFD?amp=1"
       }
     },
     "total": {
@@ -3815,9 +3828,9 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T12:23:19+05:30",
+      "last_updated": "2020-06-24T12:26:23+05:30",
       "tested": {
-        "last_updated": "2020-06-22",
+        "last_updated": "2020-06-23",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
@@ -3825,7 +3838,7 @@
       "confirmed": 461,
       "deceased": 9,
       "recovered": 176,
-      "tested": 13037
+      "tested": 13435
     }
   },
   "RJ": {
@@ -4159,7 +4172,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T12:23:15+05:30",
+      "last_updated": "2020-06-24T12:26:16+05:30",
       "tested": {
         "last_updated": "2020-06-23"
       }
@@ -4800,23 +4813,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 677,
+      "confirmed": 680,
       "deceased": 7,
-      "recovered": 223,
+      "recovered": 228,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T12:23:13+05:30",
+      "last_updated": "2020-06-24T12:36:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 456793,
+      "confirmed": 456796,
       "deceased": 14490,
       "migrated": 55,
-      "recovered": 258822,
+      "recovered": 258827,
       "tested": 7352911
     }
   },
