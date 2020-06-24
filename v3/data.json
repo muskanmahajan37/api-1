@@ -980,7 +980,7 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 12,
+      "confirmed": 34,
       "recovered": 74
     },
     "districts": {
@@ -992,10 +992,11 @@
       },
       "Baloda Bazar": {
         "delta": {
+          "confirmed": 2,
           "recovered": 4
         },
         "total": {
-          "confirmed": 223,
+          "confirmed": 225,
           "recovered": 133
         }
       },
@@ -1043,10 +1044,11 @@
       },
       "Durg": {
         "delta": {
+          "confirmed": 1,
           "recovered": 2
         },
         "total": {
-          "confirmed": 108,
+          "confirmed": 109,
           "deceased": 3,
           "recovered": 60
         }
@@ -1157,21 +1159,22 @@
       },
       "Raipur": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 6,
           "recovered": 5
         },
         "total": {
-          "confirmed": 233,
+          "confirmed": 236,
           "deceased": 1,
           "recovered": 127
         }
       },
       "Rajnandgaon": {
         "delta": {
+          "confirmed": 2,
           "recovered": 3
         },
         "total": {
-          "confirmed": 207,
+          "confirmed": 209,
           "deceased": 2,
           "recovered": 88
         }
@@ -1197,21 +1200,24 @@
         }
       },
       "Uttar Bastar Kanker": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 45,
           "recovered": 25
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T20:15:26+05:30",
+      "last_updated": "2020-06-24T22:13:16+05:30",
       "tested": {
         "last_updated": "2020-06-23",
         "source": "https://twitter.com/TS_SinghDeo/status/1275460615977357314?s=20"
       }
     },
     "total": {
-      "confirmed": 2397,
+      "confirmed": 2419,
       "deceased": 12,
       "recovered": 1601,
       "tested": 133753
@@ -1892,7 +1898,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T22:03:20+05:30",
+      "last_updated": "2020-06-24T22:12:22+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-24",
@@ -6081,20 +6087,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16753,
+      "confirmed": 16775,
       "deceased": 423,
       "recovered": 12765,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T22:03:17+05:30",
+      "last_updated": "2020-06-24T22:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 472870,
+      "confirmed": 472892,
       "deceased": 14906,
       "migrated": 55,
       "recovered": 271364,
