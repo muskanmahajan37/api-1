@@ -1405,7 +1405,8 @@
     "delta": {
       "confirmed": 572,
       "deceased": 25,
-      "recovered": 575
+      "recovered": 575,
+      "tested": 5754
     },
     "districts": {
       "Ahmedabad": {
@@ -1761,56 +1762,63 @@
     "meta": {
       "last_updated": "2020-06-24T21:35:26+05:30",
       "tested": {
-        "last_updated": "2020-06-23",
-        "source": "https://twitter.com/PIBAhmedabad/status/1275431546841894912?s=19"
+        "last_updated": "2020-06-24"
       }
     },
     "total": {
       "confirmed": 29001,
       "deceased": 1736,
       "recovered": 21096,
-      "tested": 334326
+      "tested": 340080
     }
   },
   "HP": {
     "delta": {
-      "confirmed": 3,
-      "recovered": 9,
+      "confirmed": 31,
+      "recovered": 34,
       "tested": 1956
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 38,
           "recovered": 23
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 46,
+          "confirmed": 50,
           "migrated": 1,
           "recovered": 35
         }
       },
       "Hamirpur": {
         "delta": {
+          "confirmed": 16,
           "recovered": 3
         },
         "total": {
-          "confirmed": 205,
+          "confirmed": 221,
           "deceased": 1,
           "recovered": 114
         }
       },
       "Kangra": {
         "delta": {
+          "confirmed": 3,
           "recovered": 2
         },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 208,
+          "confirmed": 211,
           "deceased": 2,
           "recovered": 122
         }
@@ -1828,21 +1836,25 @@
         }
       },
       "Mandi": {
-        "total": {
-          "confirmed": 24,
-          "deceased": 2,
-          "recovered": 20
-        }
-      },
-      "Shimla": {
         "delta": {
           "recovered": 1
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 24,
+          "deceased": 2,
+          "recovered": 21
+        }
+      },
+      "Shimla": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 3
+        },
+        "total": {
+          "confirmed": 37,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 14
+          "recovered": 16
         }
       },
       "Sirmaur": {
@@ -1854,21 +1866,23 @@
       },
       "Solan": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 11
         },
         "total": {
           "confirmed": 84,
           "migrated": 4,
-          "recovered": 30
+          "recovered": 41
         }
       },
       "Una": {
         "delta": {
-          "recovered": 3
+          "confirmed": 3,
+          "recovered": 14
         },
         "total": {
-          "confirmed": 96,
-          "recovered": 59
+          "confirmed": 99,
+          "recovered": 70
         }
       },
       "Unknown": {
@@ -1878,7 +1892,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T18:55:21+05:30",
+      "last_updated": "2020-06-24T22:03:20+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-24",
@@ -1886,10 +1900,10 @@
       }
     },
     "total": {
-      "confirmed": 778,
+      "confirmed": 806,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 441,
+      "recovered": 466,
       "tested": 68976
     }
   },
@@ -6067,23 +6081,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16725,
+      "confirmed": 16753,
       "deceased": 423,
-      "recovered": 12740,
+      "recovered": 12765,
       "tested": 215195
     },
     "meta": {
-      "last_updated": "2020-06-24T21:46:13+05:30",
+      "last_updated": "2020-06-24T22:03:17+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
       }
     },
     "total": {
-      "confirmed": 472842,
+      "confirmed": 472870,
       "deceased": 14906,
       "migrated": 55,
-      "recovered": 271339,
+      "recovered": 271364,
       "tested": 7352911
     }
   },
