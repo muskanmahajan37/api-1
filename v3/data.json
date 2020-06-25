@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -14,21 +17,24 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 22,
           "recovered": 8
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T15:36:16+05:30",
+      "last_updated": "2020-06-25T17:36:24+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://dhs.andaman.gov.in/NewEvents/305.pdf"
       }
     },
     "total": {
-      "confirmed": 56,
+      "confirmed": 58,
       "recovered": 41,
       "tested": 13994
     }
@@ -602,7 +608,8 @@
     "delta": {
       "confirmed": 108,
       "deceased": 1,
-      "recovered": 374
+      "recovered": 374,
+      "tested": 6634
     },
     "districts": {
       "Araria": {
@@ -974,17 +981,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T17:23:15+05:30",
+      "last_updated": "2020-06-25T17:26:15+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/PIB_Patna/status/1275787406814445576"
+        "last_updated": "2020-06-25",
+        "source": "https://twitter.com/PIB_Patna/status/1276107290639126529"
       }
     },
     "total": {
       "confirmed": 8381,
       "deceased": 56,
       "recovered": 6480,
-      "tested": 175103
+      "tested": 181737
     }
   },
   "CH": {
@@ -1317,7 +1324,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T17:23:18+05:30",
+      "last_updated": "2020-06-25T17:36:18+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/DnhPublicity/status/1275854003721703425?s=20"
@@ -3938,7 +3945,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T17:23:16+05:30",
+      "last_updated": "2020-06-25T17:36:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "tested": {
         "last_updated": "2020-06-24",
@@ -5117,19 +5124,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1600,
+      "confirmed": 1602,
       "deceased": 8,
       "recovered": 864
     },
     "meta": {
-      "last_updated": "2020-06-25T17:23:13+05:30",
+      "last_updated": "2020-06-25T17:36:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 474585,
+      "confirmed": 474587,
       "deceased": 14915,
       "migrated": 55,
       "recovered": 272552,
