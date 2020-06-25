@@ -1003,7 +1003,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:24:19+05:30",
+      "last_updated": "2020-06-25T21:34:20+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/PIB_Patna/status/1276107290639126529"
@@ -1049,6 +1049,10 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 37,
+      "recovered": 128
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -1057,28 +1061,49 @@
         }
       },
       "Baloda Bazar": {
+        "delta": {
+          "recovered": 39
+        },
         "total": {
           "confirmed": 225,
-          "recovered": 133
+          "recovered": 172
         }
       },
       "Balrampur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 111,
+          "confirmed": 114,
           "recovered": 72
         }
       },
       "Bametara": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 45,
-          "recovered": 38
+          "confirmed": 46,
+          "recovered": 41
         }
       },
       "Bastar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 5,
+          "confirmed": 7,
           "deceased": 1,
           "recovered": 4
+        }
+      },
+      "Bijapur": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Bilaspur": {
@@ -1089,29 +1114,42 @@
         }
       },
       "Dakshin Bastar Dantewada": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 2
         }
       },
       "Dhamtari": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 8,
           "deceased": 1,
-          "recovered": 6
+          "recovered": 7
         }
       },
       "Durg": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 109,
           "deceased": 3,
-          "recovered": 60
+          "recovered": 63
         }
       },
       "Gariaband": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 26,
-          "recovered": 16
+          "confirmed": 29,
+          "recovered": 20
         }
       },
       "Gaurela Pendra Marwahi": {
@@ -1121,21 +1159,31 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 14
+        },
         "total": {
-          "confirmed": 220,
-          "recovered": 107
+          "confirmed": 221,
+          "recovered": 121
         }
       },
       "Jashpur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 122,
+          "confirmed": 125,
           "recovered": 82
         }
       },
       "Kabeerdham": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 92,
-          "recovered": 80
+          "recovered": 86
         }
       },
       "Kondagaon": {
@@ -1145,9 +1193,12 @@
         }
       },
       "Korba": {
+        "delta": {
+          "recovered": 33
+        },
         "total": {
           "confirmed": 306,
-          "recovered": 201
+          "recovered": 234
         }
       },
       "Koriya": {
@@ -1157,10 +1208,13 @@
         }
       },
       "Mahasamund": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 82,
           "deceased": 1,
-          "recovered": 73
+          "recovered": 74
         }
       },
       "Mungeli": {
@@ -1182,34 +1236,51 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 94,
+          "confirmed": 98,
           "deceased": 1,
-          "recovered": 72
+          "recovered": 73
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 23
+        },
         "total": {
-          "confirmed": 236,
+          "confirmed": 245,
           "deceased": 1,
-          "recovered": 127
+          "recovered": 150
         }
       },
       "Rajnandgaon": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 209,
+          "confirmed": 213,
           "deceased": 2,
           "recovered": 88
         }
       },
       "Sukma": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Surajpur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 24,
           "recovered": 18
         }
       },
@@ -1227,16 +1298,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T22:25:23+05:30",
+      "last_updated": "2020-06-25T21:35:15+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/TS_SinghDeo/status/1275832015217033223?s=20"
       }
     },
     "total": {
-      "confirmed": 2419,
+      "confirmed": 2456,
       "deceased": 12,
-      "recovered": 1601,
+      "recovered": 1729,
       "tested": 137400
     }
   },
@@ -1317,7 +1388,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:24:15+05:30",
+      "last_updated": "2020-06-25T21:34:15+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-24",
@@ -3400,7 +3471,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:24:14+05:30",
+      "last_updated": "2020-06-25T21:34:14+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-25",
@@ -5253,7 +5324,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:24:17+05:30",
+      "last_updated": "2020-06-25T21:34:17+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/640"
@@ -5978,10 +6049,16 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 32
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 209,
+          "confirmed": 210,
           "recovered": 201
         }
       },
@@ -5992,32 +6069,44 @@
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 43,
-          "recovered": 26
+          "confirmed": 58,
+          "recovered": 28
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 22,
+          "confirmed": 23,
           "recovered": 13
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 545,
-          "recovered": 278
+          "confirmed": 549,
+          "recovered": 359
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 106,
+          "confirmed": 116,
           "recovered": 74
         }
       },
       "Unknown": {
         "total": {
-          "recovered": 97
+          "recovered": 7
         }
       },
       "Unokoti": {
@@ -6027,22 +6116,25 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 148,
+          "confirmed": 149,
           "deceased": 1,
-          "recovered": 79
+          "recovered": 86
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T20:36:27+05:30",
+      "last_updated": "2020-06-25T21:35:16+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/636"
       }
     },
     "total": {
-      "confirmed": 1263,
+      "confirmed": 1295,
       "deceased": 1,
       "recovered": 904,
       "tested": 57753
@@ -6050,22 +6142,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16741,
+      "confirmed": 16810,
       "deceased": 395,
-      "recovered": 13260
+      "recovered": 13388
     },
     "meta": {
-      "last_updated": "2020-06-25T21:24:13+05:30",
+      "last_updated": "2020-06-25T21:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 489726,
+      "confirmed": 489795,
       "deceased": 15302,
       "migrated": 55,
-      "recovered": 284948,
+      "recovered": 285076,
       "tested": 7560782
     }
   },
