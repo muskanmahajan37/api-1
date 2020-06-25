@@ -1680,6 +1680,10 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 175,
+      "recovered": 32
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1689,10 +1693,14 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 15,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 316,
+          "confirmed": 331,
           "deceased": 3,
-          "recovered": 96
+          "recovered": 105
         }
       },
       "Charkhi Dadri": {
@@ -1710,8 +1718,11 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 94,
+          "confirmed": 95,
           "recovered": 67
         }
       },
@@ -1722,17 +1733,24 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 65
+        },
         "total": {
-          "confirmed": 4762,
+          "confirmed": 4827,
           "deceased": 75,
           "recovered": 2877
         }
       },
       "Hisar": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 17
+        },
         "total": {
-          "confirmed": 206,
+          "confirmed": 208,
           "deceased": 1,
-          "recovered": 101
+          "recovered": 118
         }
       },
       "Italians": {
@@ -1742,10 +1760,14 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 208,
+          "confirmed": 210,
           "deceased": 3,
-          "recovered": 132
+          "recovered": 136
         }
       },
       "Jind": {
@@ -1762,8 +1784,11 @@
         }
       },
       "Karnal": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 236,
+          "confirmed": 250,
           "deceased": 3,
           "recovered": 154
         }
@@ -1794,8 +1819,11 @@
         }
       },
       "Panchkula": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 99,
+          "confirmed": 102,
           "recovered": 50
         }
       },
@@ -1814,21 +1842,30 @@
         }
       },
       "Rohtak": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 481,
+          "confirmed": 488,
           "deceased": 7,
           "recovered": 405
         }
       },
       "Sirsa": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 90,
-          "recovered": 70
+          "recovered": 72
         }
       },
       "Sonipat": {
+        "delta": {
+          "confirmed": 66
+        },
         "total": {
-          "confirmed": 954,
+          "confirmed": 1020,
           "deceased": 11,
           "recovered": 574
         }
@@ -1841,16 +1878,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T21:16:18+05:30",
+      "last_updated": "2020-06-25T16:35:15+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2024-06-20%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 12010,
+      "confirmed": 12185,
       "deceased": 188,
-      "recovered": 6925,
+      "recovered": 6957,
       "tested": 231673
     }
   },
@@ -4966,22 +5003,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1425,
+      "confirmed": 1600,
       "deceased": 7,
-      "recovered": 270
+      "recovered": 302
     },
     "meta": {
-      "last_updated": "2020-06-25T15:37:13+05:30",
+      "last_updated": "2020-06-25T16:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 474410,
+      "confirmed": 474585,
       "deceased": 14914,
       "migrated": 55,
-      "recovered": 271958,
+      "recovered": 271990,
       "tested": 7560782
     }
   },
