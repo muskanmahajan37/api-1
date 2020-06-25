@@ -1870,7 +1870,8 @@
     "delta": {
       "confirmed": 33,
       "deceased": 1,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 2179
     },
     "districts": {
       "Bilaspur": {
@@ -1990,8 +1991,8 @@
       "last_updated": "2020-06-25T22:06:19+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/nhm_hp/status/1275827544852361217?s=20"
+        "last_updated": "2020-06-25",
+        "source": "https://twitter.com/nhm_hp/status/1276186995199324160?s=20"
       }
     },
     "total": {
@@ -1999,7 +2000,7 @@
       "deceased": 8,
       "migrated": 13,
       "recovered": 474,
-      "tested": 68899
+      "tested": 71078
     }
   },
   "HR": {
@@ -5117,10 +5118,17 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 41,
+      "recovered": 11
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 21,
           "recovered": 3
         }
       },
@@ -5131,10 +5139,14 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 34,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 436,
+          "confirmed": 470,
           "deceased": 9,
-          "recovered": 164
+          "recovered": 175
         }
       },
       "Yanam": {
@@ -5144,16 +5156,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T22:22:16+05:30",
+      "last_updated": "2020-06-25T22:33:15+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/647?single"
       }
     },
     "total": {
-      "confirmed": 461,
+      "confirmed": 502,
       "deceased": 9,
-      "recovered": 176,
+      "recovered": 187,
       "tested": 13861
     }
   },
@@ -6342,22 +6354,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16934,
+      "confirmed": 16975,
       "deceased": 396,
-      "recovered": 13512
+      "recovered": 13523
     },
     "meta": {
-      "last_updated": "2020-06-25T22:22:13+05:30",
+      "last_updated": "2020-06-25T22:33:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 489919,
+      "confirmed": 489960,
       "deceased": 15303,
       "migrated": 55,
-      "recovered": 285200,
+      "recovered": 285211,
       "tested": 7560782
     }
   },
