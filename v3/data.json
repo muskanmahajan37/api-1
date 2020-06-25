@@ -3769,7 +3769,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T00:53:15+05:30",
+      "last_updated": "2020-06-26T01:02:16+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
         "last_updated": "2020-06-25"
@@ -5158,7 +5158,8 @@
   "PY": {
     "delta": {
       "confirmed": 41,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 406
     },
     "districts": {
       "Karaikal": {
@@ -5196,15 +5197,15 @@
     "meta": {
       "last_updated": "2020-06-25T22:37:17+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/647?single"
+        "last_updated": "2020-06-25",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
       "confirmed": 502,
       "deceased": 9,
       "recovered": 187,
-      "tested": 13861
+      "tested": 14267
     }
   },
   "RJ": {
@@ -6469,7 +6470,7 @@
       "recovered": 13983
     },
     "meta": {
-      "last_updated": "2020-06-26T00:53:13+05:30",
+      "last_updated": "2020-06-26T01:02:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
@@ -6499,7 +6500,8 @@
     "delta": {
       "confirmed": 636,
       "deceased": 15,
-      "recovered": 533
+      "recovered": 533,
+      "tested": 17564
     },
     "districts": {
       "Agra": {
@@ -7300,15 +7302,15 @@
     "meta": {
       "last_updated": "2020-06-25T20:26:14+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/UPGovt/status/1275816112639184896?s=20"
+        "last_updated": "2020-06-25",
+        "source": "https://twitter.com/UPGovt/status/1276173021032542212?s=20"
       }
     },
     "total": {
       "confirmed": 20193,
       "deceased": 611,
       "recovered": 13119,
-      "tested": 603390
+      "tested": 620954
     }
   },
   "UT": {
