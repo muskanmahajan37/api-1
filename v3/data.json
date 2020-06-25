@@ -1434,6 +1434,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "recovered": 2
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1442,10 +1445,13 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 50,
           "migrated": 1,
-          "recovered": 35
+          "recovered": 36
         }
       },
       "Hamirpur": {
@@ -1500,10 +1506,13 @@
         }
       },
       "Solan": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 84,
           "migrated": 4,
-          "recovered": 41
+          "recovered": 42
         }
       },
       "Una": {
@@ -1519,7 +1528,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T22:17:30+05:30",
+      "last_updated": "2020-06-25T12:23:15+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-24",
@@ -1530,7 +1539,7 @@
       "confirmed": 806,
       "deceased": 7,
       "migrated": 13,
-      "recovered": 466,
+      "recovered": 468,
       "tested": 68976
     }
   },
@@ -4813,11 +4822,11 @@
   "TT": {
     "delta": {
       "confirmed": 734,
-      "recovered": 35,
+      "recovered": 37,
       "tested": 207871
     },
     "meta": {
-      "last_updated": "2020-06-25T11:00:13+05:30",
+      "last_updated": "2020-06-25T12:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
@@ -4827,7 +4836,7 @@
       "confirmed": 473719,
       "deceased": 14907,
       "migrated": 55,
-      "recovered": 271723,
+      "recovered": 271725,
       "tested": 7560782
     }
   },
