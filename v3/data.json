@@ -258,6 +258,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 88
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -265,8 +268,11 @@
         }
       },
       "Baksa": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 77
+          "confirmed": 85
         }
       },
       "Barpeta": {
@@ -276,8 +282,11 @@
         }
       },
       "Biswanath": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 56,
+          "confirmed": 58,
           "recovered": 16
         }
       },
@@ -309,20 +318,29 @@
         }
       },
       "Dhemaji": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 94,
+          "confirmed": 95,
           "recovered": 6
         }
       },
       "Dhubri": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 330,
+          "confirmed": 334,
           "recovered": 5
         }
       },
       "Dibrugarh": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 72,
+          "confirmed": 77,
           "recovered": 5
         }
       },
@@ -363,14 +381,20 @@
         }
       },
       "Kamrup": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 212,
+          "confirmed": 215,
           "recovered": 21
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 23
+        },
         "total": {
-          "confirmed": 691,
+          "confirmed": 714,
           "deceased": 4,
           "recovered": 383
         }
@@ -387,9 +411,20 @@
           "recovered": 20
         }
       },
-      "Kokrajhar": {
+      "Kishanganj": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 83,
+          "confirmed": 7
+        }
+      },
+      "Kokrajhar": {
+        "delta": {
+          "confirmed": 3
+        },
+        "total": {
+          "confirmed": 86,
           "recovered": 10
         }
       },
@@ -417,8 +452,11 @@
         }
       },
       "Nalbari": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 28,
           "recovered": 9
         }
       },
@@ -435,8 +473,11 @@
         }
       },
       "Sonitpur": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 84,
+          "confirmed": 104,
           "recovered": 35
         }
       },
@@ -447,8 +488,11 @@
         }
       },
       "Tinsukia": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 104,
+          "confirmed": 114,
           "recovered": 6
         }
       },
@@ -473,7 +517,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T22:50:34+05:30",
+      "last_updated": "2020-06-25T10:13:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-24",
@@ -481,7 +525,7 @@
       }
     },
     "total": {
-      "confirmed": 6283,
+      "confirmed": 6371,
       "deceased": 9,
       "migrated": 3,
       "recovered": 3959,
@@ -4647,18 +4691,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 360,
+      "confirmed": 448,
       "tested": 207871
     },
     "meta": {
-      "last_updated": "2020-06-25T09:43:13+05:30",
+      "last_updated": "2020-06-25T10:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 473345,
+      "confirmed": 473433,
       "deceased": 14907,
       "migrated": 55,
       "recovered": 271688,
