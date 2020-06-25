@@ -227,16 +227,26 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 12,
+      "recovered": 4
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 76,
+          "confirmed": 77,
           "recovered": 16
         }
       },
       "East Siang": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 4
         }
       },
@@ -269,8 +279,11 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 10,
           "recovered": 2
         }
       },
@@ -281,8 +294,11 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 38,
+          "confirmed": 42,
           "recovered": 8
         }
       },
@@ -295,6 +311,14 @@
         "total": {
           "confirmed": 3,
           "recovered": 1
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": 4
+        },
+        "total": {
+          "recovered": 4
         }
       },
       "Upper Siang": {
@@ -317,16 +341,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T21:38:34+05:30",
+      "last_updated": "2020-06-25T23:36:17+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/DirectorateofHS/status/1275816281048932354?s=20"
       }
     },
     "total": {
-      "confirmed": 160,
+      "confirmed": 172,
       "deceased": 1,
-      "recovered": 38,
+      "recovered": 42,
       "tested": 20938
     }
   },
@@ -3687,6 +3711,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "tested": 143
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -3735,15 +3762,14 @@
       "last_updated": "2020-06-23T22:20:18+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/639"
+        "last_updated": "2020-06-25"
       }
     },
     "total": {
       "confirmed": 46,
       "deceased": 1,
       "recovered": 41,
-      "tested": 17115
+      "tested": 17258
     }
   },
   "MN": {
@@ -3895,7 +3921,8 @@
     "meta": {
       "last_updated": "2020-06-25T20:26:21+05:30",
       "tested": {
-        "last_updated": "2020-06-25"
+        "last_updated": "2020-06-25",
+        "source": "https://twitter.com/DiprManipur/status/1276183415172276225?s=20"
       }
     },
     "total": {
@@ -6413,7 +6440,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T23:23:14+05:30",
+      "last_updated": "2020-06-25T23:36:15+05:30",
       "tested": {
         "last_updated": "2020-06-25"
       }
@@ -6427,22 +6454,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17895,
+      "confirmed": 17907,
       "deceased": 401,
-      "recovered": 13972
+      "recovered": 13976
     },
     "meta": {
-      "last_updated": "2020-06-25T23:23:13+05:30",
+      "last_updated": "2020-06-25T23:36:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 490880,
+      "confirmed": 490892,
       "deceased": 15308,
       "migrated": 55,
-      "recovered": 285660,
+      "recovered": 285664,
       "tested": 7560782
     }
   },
