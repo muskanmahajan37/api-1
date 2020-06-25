@@ -341,7 +341,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T23:42:15+05:30",
+      "last_updated": "2020-06-25T23:43:17+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/DirectorateofHS/status/1275816281048932354?s=20"
@@ -356,7 +356,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 88,
+      "confirmed": 364,
       "recovered": 75
     },
     "districts": {
@@ -504,17 +504,12 @@
         }
       },
       "Karimganj": {
-        "total": {
-          "confirmed": 99,
-          "recovered": 20
-        }
-      },
-      "Kishanganj": {
         "delta": {
           "confirmed": 7
         },
         "total": {
-          "confirmed": 7
+          "confirmed": 106,
+          "recovered": 20
         }
       },
       "Kokrajhar": {
@@ -602,10 +597,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 276,
           "recovered": 75
         },
         "total": {
-          "confirmed": 2322,
+          "confirmed": 2598,
           "deceased": 4,
           "migrated": 3,
           "recovered": 3118
@@ -618,7 +614,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T22:06:15+05:30",
+      "last_updated": "2020-06-25T23:53:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-24",
@@ -626,7 +622,7 @@
       }
     },
     "total": {
-      "confirmed": 6371,
+      "confirmed": 6647,
       "deceased": 9,
       "migrated": 3,
       "recovered": 4034,
@@ -1479,7 +1475,8 @@
   "GA": {
     "delta": {
       "confirmed": 44,
-      "recovered": 46
+      "recovered": 46,
+      "tested": 1659
     },
     "districts": {
       "North Goa": {
@@ -1515,15 +1512,14 @@
     "meta": {
       "last_updated": "2020-06-25T20:37:23+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/DHS_Goa/status/1275819832605175808/photo/1"
+        "last_updated": "2020-06-25"
       }
     },
     "total": {
       "confirmed": 995,
       "deceased": 2,
       "recovered": 335,
-      "tested": 56925
+      "tested": 58584
     }
   },
   "GJ": {
@@ -2498,7 +2494,8 @@
     "delta": {
       "confirmed": 127,
       "deceased": 2,
-      "recovered": 149
+      "recovered": 149,
+      "tested": 6015
     },
     "districts": {
       "Anantnag": {
@@ -2712,15 +2709,15 @@
     "meta": {
       "last_updated": "2020-06-25T20:37:21+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/diprjk/status/1275798062082883586?s=20"
+        "last_updated": "2020-06-25",
+        "source": "https://twitter.com/diprjk/status/1276162464208564227?s=20"
       }
     },
     "total": {
       "confirmed": 6549,
       "deceased": 90,
       "recovered": 3967,
-      "tested": 326430
+      "tested": 332445
     }
   },
   "KA": {
@@ -6455,19 +6452,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17907,
+      "confirmed": 18183,
       "deceased": 401,
       "recovered": 13976
     },
     "meta": {
-      "last_updated": "2020-06-25T23:42:13+05:30",
+      "last_updated": "2020-06-25T23:53:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 490892,
+      "confirmed": 491168,
       "deceased": 15308,
       "migrated": 55,
       "recovered": 285664,
