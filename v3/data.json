@@ -920,7 +920,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T14:23:14+05:30",
+      "last_updated": "2020-06-25T14:35:15+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/PIB_Patna/status/1275787406814445576"
@@ -1231,10 +1231,16 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 11
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 79,
           "migrated": 1,
           "recovered": 29
         }
@@ -1252,14 +1258,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T00:23:17+05:30",
+      "last_updated": "2020-06-25T14:35:19+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/DnhPublicity/status/1275854003721703425?s=20"
       }
     },
     "total": {
-      "confirmed": 134,
+      "confirmed": 145,
       "migrated": 1,
       "recovered": 30,
       "tested": 28726
@@ -4960,20 +4966,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1395,
+      "confirmed": 1406,
       "deceased": 7,
       "recovered": 246,
       "tested": 207871
     },
     "meta": {
-      "last_updated": "2020-06-25T14:23:13+05:30",
+      "last_updated": "2020-06-25T14:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 474380,
+      "confirmed": 474391,
       "deceased": 14914,
       "migrated": 55,
       "recovered": 271934,
