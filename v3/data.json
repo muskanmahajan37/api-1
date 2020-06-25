@@ -4570,7 +4570,8 @@
   "OR": {
     "delta": {
       "confirmed": 210,
-      "recovered": 168
+      "recovered": 168,
+      "tested": 4188
     },
     "districts": {
       "Angul": {
@@ -4862,15 +4863,14 @@
       "last_updated": "2020-06-25T17:36:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/642?single"
+        "last_updated": "2020-06-25"
       }
     },
     "total": {
       "confirmed": 5962,
       "deceased": 24,
       "recovered": 4291,
-      "tested": 235627
+      "tested": 239815
     }
   },
   "PB": {
@@ -5875,7 +5875,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T22:52:14+05:30",
+      "last_updated": "2020-06-25T22:55:15+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/Eatala_Rajender/status/1276198438095302656?s=20"
@@ -6328,7 +6328,8 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 32
+      "confirmed": 32,
+      "tested": 1272
     },
     "districts": {
       "Dhalai": {
@@ -6407,15 +6408,14 @@
     "meta": {
       "last_updated": "2020-06-25T21:45:21+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/636"
+        "last_updated": "2020-06-25"
       }
     },
     "total": {
       "confirmed": 1295,
       "deceased": 1,
       "recovered": 904,
-      "tested": 57753
+      "tested": 59025
     }
   },
   "TT": {
@@ -6425,7 +6425,7 @@
       "recovered": 13850
     },
     "meta": {
-      "last_updated": "2020-06-25T22:52:12+05:30",
+      "last_updated": "2020-06-25T22:55:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
