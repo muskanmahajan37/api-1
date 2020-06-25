@@ -1,8 +1,5 @@
 # Other Trackers/Dashboards using this API
 
-- [Tracker](https:/www.ncov19india.in/)
-    - By: [@khalidfarooq ](https://github.com/khalidfarooq/ncov19india)
-
 - [Tracker](https://covidstat.info/)
     - By: [@skavinvarnan ](https://github.com/skavinvarnan)
 
@@ -137,3 +134,8 @@
 
 - [COVID 19 Tracker - Karnataka](https://kar.covid19-info.website/)
     - By: [@AbhishekPednekar](https://github.com/AbhishekPednekar84)
+
+---
+
+- [COVID-19 Tracker | India](https://indiafightscorona.netlify.app/)
+    - By: [@vinitshahdeo](https://github.com/vinitshahdeo)
