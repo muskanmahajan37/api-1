@@ -1,5 +1,8 @@
 # Other Trackers/Dashboards using this API
 
+- [Tracker](https:/www.ncov19india.in/)
+    - By: [@khalidfarooq ](https://github.com/khalidfarooq/ncov19india)
+
 - [Tracker](https://covidstat.info/)
     - By: [@skavinvarnan ](https://github.com/skavinvarnan)
 
