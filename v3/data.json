@@ -332,7 +332,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 88
+      "confirmed": 88,
+      "recovered": 75
     },
     "districts": {
       "Airport Quarantine": {
@@ -576,11 +577,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 75
+        },
         "total": {
           "confirmed": 2322,
           "deceased": 4,
           "migrated": 3,
-          "recovered": 3043
+          "recovered": 3118
         }
       },
       "West Karbi Anglong": {
@@ -590,7 +594,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T10:25:16+05:30",
+      "last_updated": "2020-06-25T21:53:16+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-24",
@@ -601,7 +605,7 @@
       "confirmed": 6371,
       "deceased": 9,
       "migrated": 3,
-      "recovered": 3959,
+      "recovered": 4034,
       "tested": 336091
     }
   },
@@ -1298,7 +1302,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:43:19+05:30",
+      "last_updated": "2020-06-25T21:45:19+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/TS_SinghDeo/status/1275832015217033223?s=20"
@@ -1864,53 +1868,61 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 33,
       "deceased": 1,
-      "recovered": 2
+      "recovered": 8
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 38,
-          "recovered": 23
+          "recovered": 26
         }
       },
       "Chamba": {
         "delta": {
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 50,
           "migrated": 1,
-          "recovered": 36
+          "recovered": 37
         }
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 222,
+          "confirmed": 225,
           "deceased": 1,
           "recovered": 114
         }
       },
       "Kangra": {
         "delta": {
-          "deceased": 1
+          "confirmed": 17,
+          "deceased": 1,
+          "recovered": 1
         },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 211,
+          "confirmed": 228,
           "deceased": 3,
-          "recovered": 122
+          "recovered": 123
         }
       },
       "Kinnaur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 3
         }
       },
@@ -1928,34 +1940,44 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 39,
           "deceased": 2,
           "migrated": 1,
           "recovered": 16
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 34,
+          "confirmed": 36,
           "migrated": 7,
           "recovered": 17
         }
       },
       "Solan": {
         "delta": {
+          "confirmed": 7,
           "recovered": 1
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 91,
           "migrated": 4,
           "recovered": 42
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 99,
-          "recovered": 70
+          "recovered": 71
         }
       },
       "Unknown": {
@@ -1965,7 +1987,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T12:34:15+05:30",
+      "last_updated": "2020-06-25T21:53:19+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-24",
@@ -1973,10 +1995,10 @@
       }
     },
     "total": {
-      "confirmed": 807,
+      "confirmed": 839,
       "deceased": 8,
       "migrated": 13,
-      "recovered": 468,
+      "recovered": 474,
       "tested": 68899
     }
   },
@@ -3600,7 +3622,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:43:14+05:30",
+      "last_updated": "2020-06-25T21:53:14+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-25",
@@ -6257,7 +6279,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:43:21+05:30",
+      "last_updated": "2020-06-25T21:45:21+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/636"
@@ -6272,22 +6294,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16811,
-      "deceased": 395,
-      "recovered": 13388
+      "confirmed": 16892,
+      "deceased": 396,
+      "recovered": 13482
     },
     "meta": {
-      "last_updated": "2020-06-25T21:43:13+05:30",
+      "last_updated": "2020-06-25T21:53:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 489796,
-      "deceased": 15302,
+      "confirmed": 489877,
+      "deceased": 15303,
       "migrated": 55,
-      "recovered": 285076,
+      "recovered": 285170,
       "tested": 7560782
     }
   },
@@ -7121,27 +7143,30 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 19,
-      "recovered": 24,
+      "confirmed": 68,
+      "deceased": 1,
+      "recovered": 37,
       "tested": 1549
     },
     "districts": {
       "Almora": {
         "delta": {
-          "recovered": 3
+          "confirmed": 2,
+          "recovered": 13
         },
         "total": {
-          "confirmed": 163,
+          "confirmed": 165,
           "deceased": 2,
-          "recovered": 98
+          "recovered": 108
         }
       },
       "Bageshwar": {
         "delta": {
+          "confirmed": 6,
           "recovered": 4
         },
         "total": {
-          "confirmed": 68,
+          "confirmed": 74,
           "deceased": 1,
           "recovered": 50
         }
@@ -7161,11 +7186,11 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 7,
           "recovered": 11
         },
         "total": {
-          "confirmed": 651,
+          "confirmed": 655,
           "deceased": 20,
           "migrated": 13,
           "recovered": 474
@@ -7173,17 +7198,20 @@
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 10
         },
         "total": {
-          "confirmed": 305,
+          "confirmed": 313,
           "migrated": 4,
           "recovered": 150
         }
       },
       "Nainital": {
+        "delta": {
+          "confirmed": 28
+        },
         "total": {
-          "confirmed": 383,
+          "confirmed": 411,
           "deceased": 2,
           "recovered": 277
         }
@@ -7234,14 +7262,20 @@
         }
       },
       "Uttarkashi": {
+        "delta": {
+          "confirmed": 1,
+          "deceased": 1,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 62,
-          "recovered": 27
+          "confirmed": 63,
+          "deceased": 1,
+          "recovered": 30
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T15:37:15+05:30",
+      "last_updated": "2020-06-25T21:53:17+05:30",
       "notes": "17 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-25",
@@ -7249,10 +7283,10 @@
       }
     },
     "total": {
-      "confirmed": 2642,
-      "deceased": 35,
+      "confirmed": 2691,
+      "deceased": 36,
       "migrated": 17,
-      "recovered": 1745,
+      "recovered": 1758,
       "tested": 61165
     }
   },
