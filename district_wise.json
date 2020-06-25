@@ -3619,11 +3619,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "106",
-			"confirmed": "221",
+			"active": "107",
+			"confirmed": "222",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Hamirpur",
@@ -3637,12 +3637,12 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "87",
+			"active": "86",
 			"confirmed": "211",
-			"deceased": "2",
-			"deltaactive": "0",
+			"deceased": "3",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Kangra",
 			"districtkey": "HP_Kangra",
@@ -14023,7 +14023,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "0",
+			"active": "-53",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -14035,7 +14035,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "0",
+			"recovered": "53",
 			"slno": "745",
 			"state": "Kerala",
 			"statecode": "KL"

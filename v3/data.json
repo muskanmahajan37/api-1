@@ -1638,6 +1638,8 @@
   },
   "HP": {
     "delta": {
+      "confirmed": 1,
+      "deceased": 1,
       "recovered": 2
     },
     "districts": {
@@ -1658,19 +1660,25 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 221,
+          "confirmed": 222,
           "deceased": 1,
           "recovered": 114
         }
       },
       "Kangra": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
           "confirmed": 211,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 122
         }
       },
@@ -1739,8 +1747,8 @@
       }
     },
     "total": {
-      "confirmed": 806,
-      "deceased": 7,
+      "confirmed": 807,
+      "deceased": 8,
       "migrated": 13,
       "recovered": 468,
       "tested": 68976
@@ -2508,7 +2516,8 @@
   },
   "KL": {
     "delta": {
-      "confirmed": 123
+      "confirmed": 123,
+      "recovered": 53
     },
     "districts": {
       "Alappuzha": {
@@ -2645,6 +2654,14 @@
           "recovered": 174
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 53
+        },
+        "total": {
+          "recovered": 53
+        }
+      },
       "Wayanad": {
         "delta": {
           "confirmed": 2
@@ -2657,7 +2674,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T18:43:15+05:30",
+      "last_updated": "2020-06-25T19:03:15+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-24",
@@ -2668,7 +2685,7 @@
       "confirmed": 3727,
       "deceased": 23,
       "migrated": 2,
-      "recovered": 1888,
+      "recovered": 1941,
       "tested": 197567
     }
   },
@@ -5179,22 +5196,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1725,
-      "deceased": 8,
-      "recovered": 948
+      "confirmed": 1726,
+      "deceased": 9,
+      "recovered": 1001
     },
     "meta": {
-      "last_updated": "2020-06-25T18:43:13+05:30",
+      "last_updated": "2020-06-25T19:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 474710,
-      "deceased": 14915,
+      "confirmed": 474711,
+      "deceased": 14916,
       "migrated": 55,
-      "recovered": 272636,
+      "recovered": 272689,
       "tested": 7560782
     }
   },
