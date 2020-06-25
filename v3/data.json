@@ -1431,7 +1431,7 @@
   "DN": {
     "delta": {
       "confirmed": 11,
-      "recovered": 2
+      "recovered": 8
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1445,9 +1445,12 @@
         }
       },
       "Daman": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 54,
-          "recovered": 1
+          "recovered": 7
         }
       },
       "Diu": {
@@ -1461,7 +1464,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T17:36:18+05:30",
+      "last_updated": "2020-06-26T00:35:16+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/DnhPublicity/status/1275854003721703425?s=20"
@@ -1470,7 +1473,7 @@
     "total": {
       "confirmed": 145,
       "migrated": 1,
-      "recovered": 32,
+      "recovered": 38,
       "tested": 28726
     }
   },
@@ -6457,10 +6460,10 @@
     "delta": {
       "confirmed": 18183,
       "deceased": 401,
-      "recovered": 13976
+      "recovered": 13982
     },
     "meta": {
-      "last_updated": "2020-06-26T00:02:13+05:30",
+      "last_updated": "2020-06-26T00:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
@@ -6470,7 +6473,7 @@
       "confirmed": 491168,
       "deceased": 15308,
       "migrated": 55,
-      "recovered": 285664,
+      "recovered": 285670,
       "tested": 7560782
     }
   },
