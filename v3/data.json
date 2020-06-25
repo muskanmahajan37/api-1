@@ -3479,7 +3479,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T16:49:15+05:30",
+      "last_updated": "2020-06-25T16:54:19+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2362020-500pm-2462020-500-pm"
@@ -3498,9 +3498,12 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 57,
-          "recovered": 9
+          "recovered": 17
         }
       },
       "Kiphire": {
@@ -3509,9 +3512,12 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 26,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "Longleng": {
@@ -3530,9 +3536,12 @@
         }
       },
       "Peren": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 161,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "Phek": {
@@ -3547,12 +3556,11 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 8,
-          "recovered": 12
+          "confirmed": 8
         },
         "total": {
           "confirmed": 8,
-          "recovered": 147
+          "recovered": 135
         }
       },
       "Wokha": {
@@ -3567,7 +3575,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T16:53:16+05:30",
+      "last_updated": "2020-06-25T17:03:20+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/MyGovNagaland/status/1275806923028234240?s=20"
@@ -5023,7 +5031,7 @@
       "recovered": 320
     },
     "meta": {
-      "last_updated": "2020-06-25T16:53:13+05:30",
+      "last_updated": "2020-06-25T17:03:14+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
