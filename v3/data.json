@@ -3749,7 +3749,8 @@
   "MN": {
     "delta": {
       "confirmed": 86,
-      "recovered": 26
+      "recovered": 26,
+      "tested": 1776
     },
     "districts": {
       "Bishnupur": {
@@ -3894,14 +3895,13 @@
     "meta": {
       "last_updated": "2020-06-25T20:26:21+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/DiprManipur/status/1275806569607819265?s=20"
+        "last_updated": "2020-06-25"
       }
     },
     "total": {
       "confirmed": 1056,
       "recovered": 354,
-      "tested": 43477
+      "tested": 45253
     }
   },
   "MP": {
@@ -4384,7 +4384,8 @@
   },
   "MZ": {
     "delta": {
-      "recovered": 6
+      "recovered": 6,
+      "tested": 1186
     },
     "districts": {
       "Aizawl": {
@@ -4456,14 +4457,14 @@
     "meta": {
       "last_updated": "2020-06-25T16:54:19+05:30",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2362020-500pm-2462020-500-pm"
+        "last_updated": "2020-06-25",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2462020-500pm-2562020-500-pm"
       }
     },
     "total": {
       "confirmed": 145,
       "recovered": 30,
-      "tested": 10486
+      "tested": 11672
     }
   },
   "NL": {
@@ -6329,6 +6330,7 @@
   "TR": {
     "delta": {
       "confirmed": 32,
+      "recovered": 122,
       "tested": 1272
     },
     "districts": {
@@ -6342,9 +6344,12 @@
         }
       },
       "Gomati": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 122,
-          "recovered": 87
+          "recovered": 90
         }
       },
       "Khowai": {
@@ -6367,11 +6372,12 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 117
         },
         "total": {
           "confirmed": 549,
-          "recovered": 359
+          "recovered": 476
         }
       },
       "South Tripura": {
@@ -6396,17 +6402,18 @@
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 149,
           "deceased": 1,
-          "recovered": 86
+          "recovered": 88
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:45:21+05:30",
+      "last_updated": "2020-06-25T23:23:14+05:30",
       "tested": {
         "last_updated": "2020-06-25"
       }
@@ -6414,7 +6421,7 @@
     "total": {
       "confirmed": 1295,
       "deceased": 1,
-      "recovered": 904,
+      "recovered": 1026,
       "tested": 59025
     }
   },
@@ -6422,10 +6429,10 @@
     "delta": {
       "confirmed": 17895,
       "deceased": 401,
-      "recovered": 13850
+      "recovered": 13972
     },
     "meta": {
-      "last_updated": "2020-06-25T22:55:13+05:30",
+      "last_updated": "2020-06-25T23:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
@@ -6435,7 +6442,7 @@
       "confirmed": 490880,
       "deceased": 15308,
       "migrated": 55,
-      "recovered": 285538,
+      "recovered": 285660,
       "tested": 7560782
     }
   },
