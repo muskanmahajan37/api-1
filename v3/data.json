@@ -5590,18 +5590,25 @@
   },
   "SK": {
     "delta": {
+      "confirmed": 2,
       "tested": 176
     },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 1
         }
       },
       "South Sikkim": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 35,
+          "confirmed": 36,
           "recovered": 18
         }
       },
@@ -5619,13 +5626,13 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T17:56:20+05:30",
+      "last_updated": "2020-06-26T01:36:15+05:30",
       "tested": {
         "last_updated": "2020-06-25"
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 85,
       "recovered": 39,
       "tested": 10025
     }
@@ -6465,19 +6472,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 18183,
+      "confirmed": 18185,
       "deceased": 401,
       "recovered": 13983
     },
     "meta": {
-      "last_updated": "2020-06-26T01:07:13+05:30",
+      "last_updated": "2020-06-26T01:36:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 491168,
+      "confirmed": 491170,
       "deceased": 15308,
       "migrated": 55,
       "recovered": 285671,
