@@ -27,7 +27,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T17:36:24+05:30",
+      "last_updated": "2020-06-25T17:43:19+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://dhs.andaman.gov.in/NewEvents/305.pdf"
@@ -2627,23 +2627,32 @@
     }
   },
   "LA": {
+    "delta": {
+      "recovered": 84
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 68
+        },
         "total": {
           "confirmed": 690,
-          "recovered": 187
+          "recovered": 255
         }
       },
       "Leh": {
+        "delta": {
+          "recovered": 16
+        },
         "total": {
           "confirmed": 242,
           "deceased": 1,
-          "recovered": 87
+          "recovered": 103
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-24T17:56:17+05:30",
+      "last_updated": "2020-06-25T17:46:15+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://www.facebook.com/114874993303412/photos/pcb.191933692264208/191933588930885/?type=3&__tn__=HH-R&eid=ARC51VToL_GdTpstObFjinCBABm7ao7KhNhuxMb2cjWkLVoIqLBrbGaGqXe_Iwt7FrOiMDhk3RtajpWO&__xts__%5B0%5D=68.ARAjKmaYabSYlkKf1jm5qoQLc8TSMpxWYi_ic_guKVpJsl30kp5cX9vW6T3J35SvoIgCoBtYRlFx04y4uxO5gKHu-hcaJnlrh4pacMKFH8dTLUtMYFsWHxt_RaCkl0EMi7jZ5Uxd3hkxfuAvBGS5Yc86aVY8ZV8uakXdi0N5yhxaUH-FAWKZPl013pQ5uXYoIGiY1d1GyolMZglrOmlL-Kk3CRHa3JeKgBl_E38yVNFfGypAgSabrxOFfPYhVZyLHDMI_xzMiYOcQ8IwxPnmc2mx1yzP8ZHX7Cf1DSwI3bHdudxIObRE8w_Isd3F4XaJ2UkI17BpLnDxKlR27R_rvPg"
@@ -2652,7 +2661,7 @@
     "total": {
       "confirmed": 932,
       "deceased": 1,
-      "recovered": 274,
+      "recovered": 358,
       "tested": 13313
     }
   },
@@ -5126,10 +5135,10 @@
     "delta": {
       "confirmed": 1602,
       "deceased": 8,
-      "recovered": 864
+      "recovered": 948
     },
     "meta": {
-      "last_updated": "2020-06-25T17:36:13+05:30",
+      "last_updated": "2020-06-25T17:46:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
@@ -5139,7 +5148,7 @@
       "confirmed": 474587,
       "deceased": 14915,
       "migrated": 55,
-      "recovered": 272552,
+      "recovered": 272636,
       "tested": 7560782
     }
   },
@@ -5689,7 +5698,8 @@
   "UT": {
     "delta": {
       "confirmed": 19,
-      "recovered": 24
+      "recovered": 24,
+      "tested": 1549
     },
     "districts": {
       "Almora": {
@@ -5810,8 +5820,8 @@
       "last_updated": "2020-06-25T15:37:15+05:30",
       "notes": "17 Migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-24",
-        "source": "https://twitter.com/PIBDehradun/status/1275736380224581633?s=20"
+        "last_updated": "2020-06-25",
+        "source": "https://twitter.com/PIBDehradun/status/1276088036065861632?s=20"
       }
     },
     "total": {
@@ -5819,7 +5829,7 @@
       "deceased": 35,
       "migrated": 17,
       "recovered": 1745,
-      "tested": 59616
+      "tested": 61165
     }
   },
   "WB": {
