@@ -3402,16 +3402,18 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "recovered": 17
     },
     "districts": {
       "Aizawl": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 6
         },
         "total": {
           "confirmed": 37,
-          "recovered": 13
+          "recovered": 19
         }
       },
       "Champhai": {
@@ -3433,8 +3435,12 @@
         }
       },
       "Lawngtlai": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 8
         }
       },
       "Lunglei": {
@@ -3454,19 +3460,26 @@
         }
       },
       "Saitual": {
+        "delta": {
+          "recovered": 2
+        },
+        "total": {
+          "confirmed": 3,
+          "recovered": 3
+        }
+      },
+      "Serchhip": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 3,
           "recovered": 1
         }
-      },
-      "Serchhip": {
-        "total": {
-          "confirmed": 3
-        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T09:15:16+05:30",
+      "last_updated": "2020-06-26T17:54:16+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2462020-500pm-2562020-500-pm"
@@ -3474,7 +3487,7 @@
     },
     "total": {
       "confirmed": 147,
-      "recovered": 30,
+      "recovered": 47,
       "tested": 11672
     }
   },
@@ -5025,10 +5038,10 @@
     "delta": {
       "confirmed": 814,
       "deceased": 11,
-      "recovered": 487
+      "recovered": 504
     },
     "meta": {
-      "last_updated": "2020-06-26T17:11:13+05:30",
+      "last_updated": "2020-06-26T17:54:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
@@ -5038,7 +5051,7 @@
       "confirmed": 491993,
       "deceased": 15319,
       "migrated": 55,
-      "recovered": 286158,
+      "recovered": 286175,
       "tested": 7776228
     }
   },
