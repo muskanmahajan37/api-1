@@ -5526,14 +5526,19 @@
         }
       },
       "South Sikkim": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 38,
           "recovered": 18
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 2,
           "recovered": 10
         }
       },
@@ -6302,7 +6307,8 @@
   "TR": {
     "delta": {
       "confirmed": 36,
-      "recovered": 36
+      "recovered": 36,
+      "tested": 1174
     },
     "districts": {
       "Dhalai": {
@@ -6388,15 +6394,14 @@
     "meta": {
       "last_updated": "2020-06-26T21:56:17+05:30",
       "tested": {
-        "last_updated": "2020-06-25",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/665"
+        "last_updated": "2020-06-26"
       }
     },
     "total": {
       "confirmed": 1331,
       "deceased": 1,
       "recovered": 1062,
-      "tested": 59025
+      "tested": 60199
     }
   },
   "TT": {
@@ -6437,7 +6442,8 @@
     "delta": {
       "confirmed": 750,
       "deceased": 19,
-      "recovered": 464
+      "recovered": 464,
+      "tested": 21879
     },
     "districts": {
       "Agra": {
@@ -7226,15 +7232,14 @@
     "meta": {
       "last_updated": "2020-06-26T21:36:15+05:30",
       "tested": {
-        "last_updated": "2020-06-25",
-        "source": "https://twitter.com/UPGovt/status/1276173021032542212?s=20"
+        "last_updated": "2020-06-26"
       }
     },
     "total": {
       "confirmed": 20943,
       "deceased": 630,
       "recovered": 13583,
-      "tested": 620954
+      "tested": 642833
     }
   },
   "UT": {
