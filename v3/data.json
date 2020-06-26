@@ -975,7 +975,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:03:22+05:30",
+      "last_updated": "2020-06-26T21:14:18+05:30",
       "tested": {
         "last_updated": "2020-06-26"
       }
@@ -1261,7 +1261,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:03:15+05:30",
+      "last_updated": "2020-06-26T21:06:15+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-25",
@@ -3083,6 +3083,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 5024,
+      "deceased": 175,
+      "recovered": 2362,
       "tested": 23160
     },
     "districts": {
@@ -3319,6 +3322,18 @@
           "recovered": 12424
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 5024,
+          "deceased": 175,
+          "recovered": 2362
+        },
+        "total": {
+          "confirmed": 5024,
+          "deceased": 175,
+          "recovered": 2362
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 15,
@@ -3342,7 +3357,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:56:14+05:30",
+      "last_updated": "2020-06-26T21:14:15+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "tested": {
         "last_updated": "2020-06-26",
@@ -3350,16 +3365,17 @@
       }
     },
     "total": {
-      "confirmed": 147741,
-      "deceased": 6931,
+      "confirmed": 152765,
+      "deceased": 7106,
       "migrated": 15,
-      "recovered": 77453,
+      "recovered": 79815,
       "tested": 873570
     }
   },
   "ML": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 526
     },
     "districts": {
       "East Khasi Hills": {
@@ -3417,15 +3433,14 @@
       "last_updated": "2020-06-26T15:06:17+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "tested": {
-        "last_updated": "2020-06-25",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/660"
+        "last_updated": "2020-06-26"
       }
     },
     "total": {
       "confirmed": 47,
       "deceased": 1,
       "recovered": 42,
-      "tested": 17258
+      "tested": 17784
     }
   },
   "MN": {
@@ -5902,22 +5917,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10677,
-      "deceased": 179,
-      "recovered": 6955
+      "confirmed": 15701,
+      "deceased": 354,
+      "recovered": 9317
     },
     "meta": {
-      "last_updated": "2020-06-26T21:03:13+05:30",
+      "last_updated": "2020-06-26T21:14:14+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 501865,
-      "deceased": 15487,
+      "confirmed": 506889,
+      "deceased": 15662,
       "migrated": 55,
-      "recovered": 292626,
+      "recovered": 294988,
       "tested": 7776228
     }
   },
