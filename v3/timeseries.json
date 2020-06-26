@@ -9476,49 +9476,52 @@
     },
     "2020-06-22": {
       "delta": {
-        "confirmed": 15
+        "confirmed": 15,
+        "tested": 525
       },
       "total": {
         "confirmed": 112,
         "recovered": 27,
-        "tested": 27839
+        "tested": 28364
       }
     },
     "2020-06-23": {
       "delta": {
         "confirmed": 9,
-        "migrated": 1
+        "migrated": 1,
+        "tested": 708
       },
       "total": {
         "confirmed": 121,
         "migrated": 1,
         "recovered": 27,
-        "tested": 27839
+        "tested": 29072
       }
     },
     "2020-06-24": {
       "delta": {
         "confirmed": 13,
         "recovered": 3,
-        "tested": 887
+        "tested": 331
       },
       "total": {
         "confirmed": 134,
         "migrated": 1,
         "recovered": 30,
-        "tested": 28726
+        "tested": 29403
       }
     },
     "2020-06-25": {
       "delta": {
         "confirmed": 20,
-        "recovered": 8
+        "recovered": 8,
+        "tested": 785
       },
       "total": {
         "confirmed": 154,
         "migrated": 1,
         "recovered": 38,
-        "tested": 28726
+        "tested": 30188
       }
     },
     "2020-06-26": {
@@ -9530,7 +9533,7 @@
         "confirmed": 169,
         "migrated": 1,
         "recovered": 50,
-        "tested": 28726
+        "tested": 30188
       }
     }
   },
@@ -16753,13 +16756,14 @@
       "delta": {
         "confirmed": 213,
         "deceased": 1,
-        "recovered": 113
+        "recovered": 113,
+        "tested": 6458
       },
       "total": {
         "confirmed": 6762,
         "deceased": 91,
         "recovered": 4080,
-        "tested": 332445
+        "tested": 338903
       }
     }
   },
@@ -29061,13 +29065,14 @@
       "delta": {
         "confirmed": 188,
         "deceased": 2,
-        "recovered": 9
+        "recovered": 9,
+        "tested": 7882
       },
       "total": {
         "confirmed": 4957,
         "deceased": 122,
         "recovered": 3201,
-        "tested": 269037
+        "tested": 276919
       }
     }
   },
