@@ -887,6 +887,10 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 6
+    },
     "districts": {
       "Chandigarh": {
         "total": {
@@ -894,19 +898,29 @@
           "deceased": 6,
           "recovered": 329
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 6
+        },
+        "total": {
+          "confirmed": 1,
+          "recovered": 6
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T20:01:21+05:30",
+      "last_updated": "2020-06-26T16:38:16+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/654"
       }
     },
     "total": {
-      "confirmed": 423,
+      "confirmed": 424,
       "deceased": 6,
-      "recovered": 329,
+      "recovered": 335,
       "tested": 7072
     }
   },
@@ -3838,7 +3852,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T16:23:15+05:30",
+      "last_updated": "2020-06-26T16:30:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "tested": {
         "last_updated": "2020-06-25",
@@ -5005,22 +5019,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 813,
+      "confirmed": 814,
       "deceased": 11,
-      "recovered": 479
+      "recovered": 485
     },
     "meta": {
-      "last_updated": "2020-06-26T16:23:13+05:30",
+      "last_updated": "2020-06-26T16:38:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 491992,
+      "confirmed": 491993,
       "deceased": 15319,
       "migrated": 55,
-      "recovered": 286150,
+      "recovered": 286156,
       "tested": 7776228
     }
   },
