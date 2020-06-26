@@ -215,8 +215,7 @@
       },
       "Tawang": {
         "total": {
-          "confirmed": 2,
-          "recovered": 1
+          "confirmed": 2
         }
       },
       "Tirap": {
@@ -234,8 +233,7 @@
       "West Kameng": {
         "total": {
           "confirmed": 12,
-          "deceased": 1,
-          "recovered": -1
+          "deceased": 1
         }
       },
       "West Siang": {
@@ -3253,7 +3251,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T09:10:17+05:30",
+      "last_updated": "2020-06-26T09:15:16+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2462020-500pm-2562020-500-pm"
@@ -3266,6 +3264,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 16
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3316,7 +3317,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
+          "confirmed": 16,
           "recovered": 135
         }
       },
@@ -3332,14 +3337,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T17:07:16+05:30",
+      "last_updated": "2020-06-26T09:23:17+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/MyGovNagaland/status/1276154597757812738?s=20"
       }
     },
     "total": {
-      "confirmed": 355,
+      "confirmed": 371,
       "recovered": 160,
       "tested": 12546
     }
@@ -4658,17 +4663,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 18
     },
     "meta": {
-      "last_updated": "2020-06-26T09:10:13+05:30",
+      "last_updated": "2020-06-26T09:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-24",
         "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
       }
     },
     "total": {
-      "confirmed": 491172,
+      "confirmed": 491188,
       "deceased": 15308,
       "migrated": 55,
       "recovered": 285671,
