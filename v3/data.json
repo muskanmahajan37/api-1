@@ -2620,7 +2620,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T18:36:15+05:30",
+      "last_updated": "2020-06-26T18:42:17+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://www.facebook.com/114874993303412/photos/pcb.192221992235378/192221805568730/?type=3&__tn__=HH-R&eid=ARAj3xuk41LfgM4kitGULY_1k0VeOCgf2R6a-JKaXoNHrAXLrtc3IwU14BIYZuC_4Uvv_TOWTfl0sgh-&__xts__%5B0%5D=68.ARD08adzYaIo3uKV931nYSsvwUUDp7xvISLqWATYEotFKf47joJmM6YHEp4DxcLwbJpwc0Y2p8LUPqLKPV0NGvlpxZz8qpyEOWR98iKw6Jsl3GKCDkJe7UKWNvgc18p7NLYlOzvVKBTsVQCxJLxqA6g_9Dvo5-mYzXybkCtGt-luA5oHc14Kj1OHzL9BDZSeuJ-PjOraXwOuhZcsyU1RW1J1-yUmgmsLeRqsUgMpAgtxX7E_QUE5xdZXdL2FdAWnjE7s0RrSiXAV7qm5tYY-Yu9jrLjuwmhXlF4kl9U0dhoW7WgbEWNV9PsOUcHxMiNvsL13ethsHkDdL5p5LMaOe3I"
@@ -5097,22 +5097,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 964,
-      "deceased": 11,
-      "recovered": 569
+      "confirmed": 1506,
+      "deceased": 21,
+      "recovered": 914
     },
     "meta": {
-      "last_updated": "2020-06-26T18:36:13+05:30",
+      "last_updated": "2020-06-26T18:43:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 492152,
-      "deceased": 15319,
+      "confirmed": 492694,
+      "deceased": 15329,
       "migrated": 55,
-      "recovered": 286240,
+      "recovered": 286585,
       "tested": 7776228
     }
   },
@@ -5769,63 +5769,104 @@
     }
   },
   "WB": {
+    "delta": {
+      "confirmed": 542,
+      "deceased": 10,
+      "recovered": 345
+    },
     "districts": {
       "Alipurduar": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 178,
-          "recovered": 81
+          "recovered": 92
         }
       },
       "Bankura": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 223,
-          "recovered": 177
+          "confirmed": 232,
+          "recovered": 180
         }
       },
       "Birbhum": {
+        "delta": {
+          "recovered": 12
+        },
         "total": {
           "confirmed": 292,
           "deceased": 2,
-          "recovered": 258
+          "recovered": 270
         }
       },
       "Cooch Behar": {
+        "delta": {
+          "recovered": 15
+        },
         "total": {
           "confirmed": 291,
-          "recovered": 266
+          "recovered": 281
         }
       },
       "Dakshin Dinajpur": {
+        "delta": {
+          "confirmed": 18,
+          "recovered": 19
+        },
         "total": {
-          "confirmed": 162,
-          "recovered": 78
+          "confirmed": 180,
+          "recovered": 97
         }
       },
       "Darjeeling": {
+        "delta": {
+          "confirmed": 14,
+          "deceased": 1,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 395,
-          "deceased": 8,
-          "recovered": 206
+          "confirmed": 409,
+          "deceased": 9,
+          "recovered": 215
         }
       },
       "Hooghly": {
+        "delta": {
+          "confirmed": 30,
+          "deceased": 1,
+          "recovered": 16
+        },
         "total": {
-          "confirmed": 852,
-          "deceased": 19,
-          "recovered": 650
+          "confirmed": 882,
+          "deceased": 20,
+          "recovered": 666
         }
       },
       "Howrah": {
+        "delta": {
+          "confirmed": 110,
+          "deceased": 4,
+          "recovered": 34
+        },
         "total": {
-          "confirmed": 2265,
-          "deceased": 85,
-          "recovered": 1634
+          "confirmed": 2375,
+          "deceased": 89,
+          "recovered": 1668
         }
       },
       "Jalpaiguri": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 318,
-          "recovered": 234
+          "confirmed": 326,
+          "recovered": 243
         }
       },
       "Jhargram": {
@@ -5835,44 +5876,68 @@
         }
       },
       "Kalimpong": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 52,
           "deceased": 1,
-          "recovered": 43
+          "recovered": 44
         }
       },
       "Kolkata": {
+        "delta": {
+          "confirmed": 128,
+          "deceased": 3,
+          "recovered": 86
+        },
         "total": {
-          "confirmed": 5133,
-          "deceased": 351,
-          "recovered": 2928
+          "confirmed": 5261,
+          "deceased": 354,
+          "recovered": 3014
         }
       },
       "Malda": {
+        "delta": {
+          "confirmed": 24,
+          "recovered": 33
+        },
         "total": {
-          "confirmed": 489,
-          "recovered": 297
+          "confirmed": 513,
+          "recovered": 330
         }
       },
       "Murshidabad": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 213,
+          "confirmed": 220,
           "deceased": 3,
-          "recovered": 167
+          "recovered": 173
         }
       },
       "Nadia": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 285,
+          "confirmed": 295,
           "deceased": 5,
-          "recovered": 186
+          "recovered": 196
         }
       },
       "North 24 Parganas": {
+        "delta": {
+          "confirmed": 99,
+          "recovered": 36
+        },
         "total": {
-          "confirmed": 2329,
+          "confirmed": 2428,
           "deceased": 93,
-          "recovered": 1468
+          "recovered": 1504
         }
       },
       "Other State": {
@@ -5883,64 +5948,92 @@
         }
       },
       "Paschim Bardhaman": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 125,
+          "confirmed": 130,
           "deceased": 3,
-          "recovered": 103
+          "recovered": 105
         }
       },
       "Paschim Medinipur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 350,
+          "confirmed": 354,
           "deceased": 4,
-          "recovered": 302
+          "recovered": 305
         }
       },
       "Purba Bardhaman": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 155,
-          "recovered": 135
+          "confirmed": 161,
+          "recovered": 138
         }
       },
       "Purba Medinipur": {
+        "delta": {
+          "confirmed": 13,
+          "recovered": 16
+        },
         "total": {
-          "confirmed": 291,
+          "confirmed": 304,
           "deceased": 4,
-          "recovered": 206
+          "recovered": 222
         }
       },
       "Purulia": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 87,
-          "recovered": 84
+          "recovered": 86
         }
       },
       "South 24 Parganas": {
+        "delta": {
+          "confirmed": 52,
+          "deceased": 1,
+          "recovered": 12
+        },
         "total": {
-          "confirmed": 804,
-          "deceased": 24,
-          "recovered": 390
+          "confirmed": 856,
+          "deceased": 25,
+          "recovered": 402
         }
       },
       "Uttar Dinajpur": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 274,
+          "confirmed": 279,
           "deceased": 1,
-          "recovered": 219
+          "recovered": 226
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T19:47:19+05:30",
+      "last_updated": "2020-06-26T18:43:14+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_25th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "total": {
-      "confirmed": 15648,
-      "deceased": 606,
-      "recovered": 10190,
+      "confirmed": 16190,
+      "deceased": 616,
+      "recovered": 10535,
       "tested": 439258
     }
   }
