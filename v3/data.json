@@ -29,7 +29,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T19:12:22+05:30",
+      "last_updated": "2020-06-26T19:15:20+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://dhs.andaman.gov.in/NewEvents/306.pdf"
@@ -45,7 +45,8 @@
     "delta": {
       "confirmed": 605,
       "deceased": 10,
-      "recovered": 208
+      "recovered": 208,
+      "tested": 22305
     },
     "districts": {
       "Anantapur": {
@@ -216,15 +217,14 @@
       "last_updated": "2020-06-26T14:06:16+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-25",
-        "source": "https://twitter.com/ArogyaAndhra/status/1276048820845940736?s=20"
+        "last_updated": "2020-06-26"
       }
     },
     "total": {
       "confirmed": 11489,
       "deceased": 146,
       "recovered": 5196,
-      "tested": 769319
+      "tested": 791624
     }
   },
   "AR": {
@@ -565,8 +565,7 @@
   "BR": {
     "delta": {
       "confirmed": 123,
-      "deceased": 1,
-      "recovered": 149,
+      "recovered": 189,
       "tested": 7906
     },
     "districts": {
@@ -609,12 +608,14 @@
       },
       "Begusarai": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "deceased": -1,
+          "recovered": 7
         },
         "total": {
           "confirmed": 382,
-          "deceased": 4,
-          "recovered": 330
+          "deceased": 3,
+          "recovered": 337
         }
       },
       "Bhagalpur": {
@@ -656,10 +657,13 @@
         }
       },
       "East Champaran": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 174,
           "deceased": 1,
-          "recovered": 156
+          "recovered": 157
         }
       },
       "Gaya": {
@@ -720,10 +724,13 @@
         }
       },
       "Khagaria": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 297,
           "deceased": 3,
-          "recovered": 289
+          "recovered": 292
         }
       },
       "Kishanganj": {
@@ -784,12 +791,13 @@
       },
       "Nalanda": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 2
         },
         "total": {
           "confirmed": 198,
           "deceased": 3,
-          "recovered": 158
+          "recovered": 160
         }
       },
       "Nawada": {
@@ -814,11 +822,12 @@
       },
       "Purnia": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 31
         },
         "total": {
           "confirmed": 287,
-          "recovered": 222
+          "recovered": 253
         }
       },
       "Rohtas": {
@@ -915,15 +924,18 @@
         }
       },
       "West Champaran": {
+        "delta": {
+          "recovered": -4
+        },
         "total": {
           "confirmed": 147,
           "deceased": 1,
-          "recovered": 116
+          "recovered": 112
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T19:13:15+05:30",
+      "last_updated": "2020-06-26T19:23:26+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
@@ -931,8 +943,8 @@
     },
     "total": {
       "confirmed": 8611,
-      "deceased": 57,
-      "recovered": 6629,
+      "deceased": 56,
+      "recovered": 6669,
       "tested": 189643
     }
   },
@@ -1952,7 +1964,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T19:12:17+05:30",
+      "last_updated": "2020-06-26T19:15:15+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Media%20Bulletin%20on%20Covid%2019,%20Dated%2025-06-2020%20Evening.pdf"
@@ -3080,6 +3092,10 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 19,
+      "recovered": 39
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -3094,8 +3110,11 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 116,
+          "confirmed": 119,
           "recovered": 55
         }
       },
@@ -3124,8 +3143,11 @@
         }
       },
       "Kamjong": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 57,
+          "confirmed": 58,
           "recovered": 17
         }
       },
@@ -3148,8 +3170,11 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 90,
+          "confirmed": 91,
           "recovered": 10
         }
       },
@@ -3166,28 +3191,42 @@
         }
       },
       "Thoubal": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 52,
           "recovered": 23
         }
       },
       "Ukhrul": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 111,
+          "confirmed": 116,
           "recovered": 17
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": 39
+        },
+        "total": {
+          "recovered": 39
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T20:26:21+05:30",
+      "last_updated": "2020-06-26T19:23:33+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/DiprManipur/status/1276183415172276225?s=20"
       }
     },
     "total": {
-      "confirmed": 1056,
-      "recovered": 354,
+      "confirmed": 1075,
+      "recovered": 393,
       "tested": 45253
     }
   },
@@ -5405,22 +5444,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5665,
-      "deceased": 83,
-      "recovered": 3043
+      "confirmed": 5684,
+      "deceased": 82,
+      "recovered": 3122
     },
     "meta": {
-      "last_updated": "2020-06-26T19:13:13+05:30",
+      "last_updated": "2020-06-26T19:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 496853,
-      "deceased": 15391,
+      "confirmed": 496872,
+      "deceased": 15390,
       "migrated": 55,
-      "recovered": 288714,
+      "recovered": 288793,
       "tested": 7776228
     }
   },

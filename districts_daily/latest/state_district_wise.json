@@ -1048,14 +1048,14 @@
       },
       "Begusarai": {
         "notes": "",
-        "active": 48,
+        "active": 42,
         "confirmed": 382,
-        "deceased": 4,
-        "recovered": 330,
+        "deceased": 3,
+        "recovered": 337,
         "delta": {
           "confirmed": 8,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": -1,
+          "recovered": 7
         }
       },
       "Bhagalpur": {
@@ -1108,14 +1108,14 @@
       },
       "East Champaran": {
         "notes": "",
-        "active": 17,
+        "active": 16,
         "confirmed": 174,
         "deceased": 1,
-        "recovered": 156,
+        "recovered": 157,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gaya": {
@@ -1192,14 +1192,14 @@
       },
       "Khagaria": {
         "notes": "",
-        "active": 5,
+        "active": 2,
         "confirmed": 297,
         "deceased": 3,
-        "recovered": 289,
+        "recovered": 292,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Kishanganj": {
@@ -1276,14 +1276,14 @@
       },
       "Nalanda": {
         "notes": "",
-        "active": 37,
+        "active": 35,
         "confirmed": 198,
         "deceased": 3,
-        "recovered": 158,
+        "recovered": 160,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Nawada": {
@@ -1312,14 +1312,14 @@
       },
       "Purnia": {
         "notes": "",
-        "active": 65,
+        "active": 34,
         "confirmed": 287,
         "deceased": 0,
-        "recovered": 222,
+        "recovered": 253,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 31
         }
       },
       "Rohtas": {
@@ -1444,14 +1444,14 @@
       },
       "West Champaran": {
         "notes": "",
-        "active": 30,
+        "active": 34,
         "confirmed": 147,
         "deceased": 1,
-        "recovered": 116,
+        "recovered": 112,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -4
         }
       }
     },
@@ -4769,12 +4769,12 @@
       },
       "Churachandpur": {
         "notes": "",
-        "active": 61,
-        "confirmed": 116,
+        "active": 64,
+        "confirmed": 119,
         "deceased": 0,
         "recovered": 55,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4829,12 +4829,12 @@
       },
       "Kamjong": {
         "notes": "",
-        "active": 40,
-        "confirmed": 57,
+        "active": 41,
+        "confirmed": 58,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4877,12 +4877,12 @@
       },
       "Senapati": {
         "notes": "",
-        "active": 80,
-        "confirmed": 90,
+        "active": 81,
+        "confirmed": 91,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4913,22 +4913,34 @@
       },
       "Thoubal": {
         "notes": "",
-        "active": 20,
-        "confirmed": 43,
+        "active": 29,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Ukhrul": {
         "notes": "",
-        "active": 94,
-        "confirmed": 111,
+        "active": 99,
+        "confirmed": 116,
         "deceased": 0,
         "recovered": 17,
+        "delta": {
+          "confirmed": 5,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -39,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 39,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
