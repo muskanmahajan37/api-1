@@ -339,7 +339,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T22:03:16+05:30",
+      "last_updated": "2020-06-26T22:13:17+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/DirectorateofHS/status/1276213858491789312?s=20"
@@ -5051,10 +5051,17 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 32,
+      "recovered": 16
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 24,
           "recovered": 3
         }
       },
@@ -5065,10 +5072,14 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 29,
+          "recovered": 16
+        },
         "total": {
-          "confirmed": 470,
+          "confirmed": 499,
           "deceased": 9,
-          "recovered": 175
+          "recovered": 191
         }
       },
       "Yanam": {
@@ -5078,16 +5089,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T22:37:17+05:30",
+      "last_updated": "2020-06-26T22:13:15+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
-      "confirmed": 502,
+      "confirmed": 534,
       "deceased": 9,
-      "recovered": 187,
+      "recovered": 203,
       "tested": 14267
     }
   },
@@ -6300,23 +6311,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16963,
+      "confirmed": 16995,
       "deceased": 374,
       "migrated": 1,
-      "recovered": 10152
+      "recovered": 10168
     },
     "meta": {
-      "last_updated": "2020-06-26T22:03:13+05:30",
+      "last_updated": "2020-06-26T22:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 508153,
+      "confirmed": 508185,
       "deceased": 15682,
       "migrated": 56,
-      "recovered": 295823,
+      "recovered": 295839,
       "tested": 7776228
     }
   },
