@@ -3480,7 +3480,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 16
+      "confirmed": 16,
+      "recovered": 2
     },
     "districts": {
       "Dimapur": {
@@ -3516,9 +3517,12 @@
         }
       },
       "Peren": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 161,
-          "recovered": 4
+          "recovered": 6
         }
       },
       "Phek": {
@@ -3552,7 +3556,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T09:36:18+05:30",
+      "last_updated": "2020-06-26T17:03:16+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/MyGovNagaland/status/1276154597757812738?s=20"
@@ -3560,7 +3564,7 @@
     },
     "total": {
       "confirmed": 371,
-      "recovered": 160,
+      "recovered": 162,
       "tested": 12546
     }
   },
@@ -5021,10 +5025,10 @@
     "delta": {
       "confirmed": 814,
       "deceased": 11,
-      "recovered": 485
+      "recovered": 487
     },
     "meta": {
-      "last_updated": "2020-06-26T16:50:13+05:30",
+      "last_updated": "2020-06-26T17:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
@@ -5034,7 +5038,7 @@
       "confirmed": 491993,
       "deceased": 15319,
       "migrated": 55,
-      "recovered": 286156,
+      "recovered": 286158,
       "tested": 7776228
     }
   },
