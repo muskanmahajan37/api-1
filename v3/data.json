@@ -235,20 +235,22 @@
     "districts": {
       "Changlang": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 77,
-          "recovered": 16
+          "recovered": 18
         }
       },
       "East Siang": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 10,
-          "recovered": 4
+          "recovered": 5
         }
       },
       "Lepa Rada": {
@@ -269,9 +271,12 @@
         }
       },
       "Lower Dibang Valley": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 3,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "Lower Siang": {
@@ -305,21 +310,14 @@
       },
       "Tawang": {
         "total": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 1
         }
       },
       "Tirap": {
         "total": {
           "confirmed": 3,
           "recovered": 1
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "recovered": 4
-        },
-        "total": {
-          "recovered": 4
         }
       },
       "Upper Siang": {
@@ -331,7 +329,8 @@
       "West Kameng": {
         "total": {
           "confirmed": 12,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": -1
         }
       },
       "West Siang": {
