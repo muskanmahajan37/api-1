@@ -230,13 +230,17 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 2,
+      "recovered": 7
     },
     "districts": {
       "Changlang": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 77,
-          "recovered": 18
+          "recovered": 21
         }
       },
       "East Siang": {
@@ -251,9 +255,12 @@
         }
       },
       "Lohit": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 4,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Longding": {
@@ -286,8 +293,11 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 42,
+          "confirmed": 43,
           "recovered": 8
         }
       },
@@ -309,9 +319,13 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 12,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 3
         }
       },
       "West Siang": {
@@ -325,16 +339,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:53:23+05:30",
+      "last_updated": "2020-06-26T22:03:16+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/DirectorateofHS/status/1276213858491789312?s=20"
       }
     },
     "total": {
-      "confirmed": 173,
+      "confirmed": 174,
       "deceased": 1,
-      "recovered": 42,
+      "recovered": 49,
       "tested": 21274
     }
   },
@@ -1935,7 +1949,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:53:21+05:30",
+      "last_updated": "2020-06-26T22:02:17+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-25",
@@ -2404,7 +2418,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:53:19+05:30",
+      "last_updated": "2020-06-26T22:02:16+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/FOBGumla/status/1276179192262975488?s=20"
@@ -5450,7 +5464,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:49:15+05:30",
+      "last_updated": "2020-06-26T21:55:15+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/659"
@@ -6185,23 +6199,38 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 36,
+      "recovered": 36
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 210,
-          "recovered": 201
+          "confirmed": 211,
+          "recovered": 202
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 15,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 122,
-          "recovered": 90
+          "confirmed": 137,
+          "recovered": 91
         }
       },
       "Khowai": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 58,
-          "recovered": 28
+          "recovered": 30
         }
       },
       "North Tripura": {
@@ -6211,14 +6240,21 @@
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 20
+        },
         "total": {
-          "confirmed": 549,
-          "recovered": 476
+          "confirmed": 552,
+          "recovered": 496
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 116,
+          "confirmed": 130,
           "recovered": 74
         }
       },
@@ -6228,52 +6264,59 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 68,
-          "recovered": 49
+          "recovered": 59
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 149,
+          "confirmed": 152,
           "deceased": 1,
-          "recovered": 88
+          "recovered": 90
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T23:37:18+05:30",
+      "last_updated": "2020-06-26T21:56:17+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/665"
       }
     },
     "total": {
-      "confirmed": 1295,
+      "confirmed": 1331,
       "deceased": 1,
-      "recovered": 1026,
+      "recovered": 1062,
       "tested": 59025
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 16926,
+      "confirmed": 16963,
       "deceased": 374,
       "migrated": 1,
-      "recovered": 10109
+      "recovered": 10152
     },
     "meta": {
-      "last_updated": "2020-06-26T21:53:14+05:30",
+      "last_updated": "2020-06-26T22:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 508116,
+      "confirmed": 508153,
       "deceased": 15682,
       "migrated": 56,
-      "recovered": 295780,
+      "recovered": 295823,
       "tested": 7776228
     }
   },
@@ -6283,7 +6326,7 @@
     },
     "meta": {
       "last_updated": "2020-06-26T09:44:16+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 370 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category"
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 370 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
       "confirmed": 8123
@@ -7225,7 +7268,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:49:18+05:30",
+      "last_updated": "2020-06-26T21:55:22+05:30",
       "notes": "18 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-26",
