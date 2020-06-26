@@ -1185,6 +1185,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 3460,
+      "deceased": 63,
+      "recovered": 2326
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1238,10 +1243,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 3460,
+          "deceased": 63,
+          "recovered": 2326
+        },
         "total": {
-          "confirmed": 72992,
-          "deceased": 2428,
-          "recovered": 44765
+          "confirmed": 76452,
+          "deceased": 2491,
+          "recovered": 47091
         }
       },
       "West Delhi": {
@@ -1251,7 +1261,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-25T21:34:15+05:30",
+      "last_updated": "2020-06-26T20:54:15+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-25",
@@ -1259,9 +1269,9 @@
       }
     },
     "total": {
-      "confirmed": 73780,
-      "deceased": 2429,
-      "recovered": 44765,
+      "confirmed": 77240,
+      "deceased": 2492,
+      "recovered": 47091,
       "tested": 438012
     }
   },
@@ -4043,7 +4053,8 @@
   "MZ": {
     "delta": {
       "confirmed": 2,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 1081
     },
     "districts": {
       "Aizawl": {
@@ -4121,14 +4132,14 @@
     "meta": {
       "last_updated": "2020-06-26T18:05:16+05:30",
       "tested": {
-        "last_updated": "2020-06-25",
+        "last_updated": "2020-06-26",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2462020-500pm-2562020-500-pm"
       }
     },
     "total": {
       "confirmed": 147,
       "recovered": 47,
-      "tested": 11672
+      "tested": 12753
     }
   },
   "NL": {
@@ -5891,22 +5902,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7216,
-      "deceased": 116,
-      "recovered": 4629
+      "confirmed": 10676,
+      "deceased": 179,
+      "recovered": 6955
     },
     "meta": {
-      "last_updated": "2020-06-26T20:37:13+05:30",
+      "last_updated": "2020-06-26T20:54:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 498404,
-      "deceased": 15424,
+      "confirmed": 501864,
+      "deceased": 15487,
       "migrated": 55,
-      "recovered": 290300,
+      "recovered": 292626,
       "tested": 7776228
     }
   },
