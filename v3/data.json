@@ -2424,7 +2424,7 @@
   "KL": {
     "delta": {
       "confirmed": 150,
-      "recovered": 61
+      "recovered": 65
     },
     "districts": {
       "Alappuzha": {
@@ -2568,6 +2568,14 @@
           "recovered": 192
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 4
+        },
+        "total": {
+          "recovered": 4
+        }
+      },
       "Wayanad": {
         "delta": {
           "confirmed": 5
@@ -2580,7 +2588,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T18:13:15+05:30",
+      "last_updated": "2020-06-26T18:23:15+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-25",
@@ -2591,7 +2599,7 @@
       "confirmed": 3877,
       "deceased": 23,
       "migrated": 2,
-      "recovered": 2002,
+      "recovered": 2006,
       "tested": 203574
     }
   },
@@ -5091,10 +5099,10 @@
     "delta": {
       "confirmed": 964,
       "deceased": 11,
-      "recovered": 565
+      "recovered": 569
     },
     "meta": {
-      "last_updated": "2020-06-26T18:13:13+05:30",
+      "last_updated": "2020-06-26T18:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
@@ -5104,7 +5112,7 @@
       "confirmed": 492143,
       "deceased": 15319,
       "migrated": 55,
-      "recovered": 286236,
+      "recovered": 286240,
       "tested": 7776228
     }
   },
