@@ -30315,10 +30315,17 @@
       }
     },
     "2020-06-27": {
+      "delta": {
+        "confirmed": 87,
+        "deceased": 1,
+        "migrated": 2,
+        "recovered": 18
+      },
       "total": {
-        "confirmed": 534,
-        "deceased": 9,
-        "recovered": 203,
+        "confirmed": 621,
+        "deceased": 10,
+        "migrated": 2,
+        "recovered": 221,
         "tested": 14689
       }
     }
@@ -37448,14 +37455,16 @@
     },
     "2020-06-27": {
       "delta": {
-        "confirmed": 77,
-        "deceased": 1
+        "confirmed": 164,
+        "deceased": 2,
+        "migrated": 2,
+        "recovered": 18
       },
       "total": {
-        "confirmed": 509523,
-        "deceased": 15690,
-        "migrated": 56,
-        "recovered": 295917,
+        "confirmed": 509610,
+        "deceased": 15691,
+        "migrated": 58,
+        "recovered": 295935,
         "tested": 7776228
       }
     }

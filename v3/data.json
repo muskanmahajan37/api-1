@@ -3800,10 +3800,19 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 87,
+      "deceased": 1,
+      "migrated": 2,
+      "recovered": 18
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 24,
+          "confirmed": 39,
           "recovered": 3
         }
       },
@@ -3814,10 +3823,17 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 72,
+          "deceased": 1,
+          "migrated": 2,
+          "recovered": 18
+        },
         "total": {
-          "confirmed": 499,
-          "deceased": 9,
-          "recovered": 191
+          "confirmed": 571,
+          "deceased": 10,
+          "migrated": 2,
+          "recovered": 209
         }
       },
       "Yanam": {
@@ -3827,16 +3843,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T22:26:17+05:30",
+      "last_updated": "2020-06-27T11:35:15+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
-      "confirmed": 534,
-      "deceased": 9,
-      "recovered": 203,
+      "confirmed": 621,
+      "deceased": 10,
+      "migrated": 2,
+      "recovered": 221,
       "tested": 14689
     }
   },
@@ -4740,21 +4757,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 77,
-      "deceased": 1
+      "confirmed": 164,
+      "deceased": 2,
+      "migrated": 2,
+      "recovered": 18
     },
     "meta": {
-      "last_updated": "2020-06-27T10:42:13+05:30",
+      "last_updated": "2020-06-27T11:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 509523,
-      "deceased": 15690,
-      "migrated": 56,
-      "recovered": 295917,
+      "confirmed": 509610,
+      "deceased": 15691,
+      "migrated": 58,
+      "recovered": 295935,
       "tested": 7776228
     }
   },
