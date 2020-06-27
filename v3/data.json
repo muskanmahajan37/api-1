@@ -1262,7 +1262,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:10:17+05:30",
+      "last_updated": "2020-06-27T23:16:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/HealthCgGov/status/1276540681649942528?s=20"
@@ -5007,7 +5007,8 @@
     "delta": {
       "confirmed": 284,
       "deceased": 11,
-      "recovered": 305
+      "recovered": 305,
+      "tested": 14629
     },
     "districts": {
       "Ajmer": {
@@ -5374,19 +5375,19 @@
     "meta": {
       "last_updated": "2020-06-27T21:35:18+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/684"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
       "confirmed": 16944,
       "deceased": 391,
       "recovered": 13367,
-      "tested": 770174
+      "tested": 784803
     }
   },
   "SK": {
     "delta": {
+      "recovered": 10,
       "tested": 7
     },
     "districts": {
@@ -5408,8 +5409,11 @@
         }
       },
       "Unknown": {
-        "total": {
+        "delta": {
           "recovered": 10
+        },
+        "total": {
+          "recovered": 20
         }
       },
       "West Sikkim": {
@@ -5420,14 +5424,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T00:02:17+05:30",
+      "last_updated": "2020-06-27T23:23:20+05:30",
       "tested": {
         "last_updated": "2020-06-27"
       }
     },
     "total": {
       "confirmed": 87,
-      "recovered": 39,
+      "recovered": 49,
       "tested": 10219
     }
   },
@@ -6180,22 +6184,27 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 9,
+      "recovered": 16
     },
     "districts": {
       "Dhalai": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 1
         },
         "total": {
           "confirmed": 213,
-          "recovered": 202
+          "recovered": 203
         }
       },
       "Gomati": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 137,
-          "recovered": 91
+          "recovered": 98
         }
       },
       "Khowai": {
@@ -6218,22 +6227,29 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 12
         },
         "total": {
           "confirmed": 552,
-          "recovered": 496
+          "recovered": 508
         }
       },
       "South Tripura": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 130,
-          "recovered": 74
+          "recovered": 76
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": -2
+        },
         "total": {
-          "recovered": 7
+          "recovered": 5
         }
       },
       "Unokoti": {
@@ -6244,17 +6260,18 @@
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": -4
         },
         "total": {
           "confirmed": 153,
           "deceased": 1,
-          "recovered": 90
+          "recovered": 86
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:13:17+05:30",
+      "last_updated": "2020-06-27T23:23:18+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/676"
@@ -6263,7 +6280,7 @@
     "total": {
       "confirmed": 1339,
       "deceased": 1,
-      "recovered": 1062,
+      "recovered": 1078,
       "tested": 60199
     }
   },
@@ -6271,10 +6288,10 @@
     "delta": {
       "confirmed": 19886,
       "deceased": 413,
-      "recovered": 14203
+      "recovered": 14229
     },
     "meta": {
-      "last_updated": "2020-06-27T23:13:14+05:30",
+      "last_updated": "2020-06-27T23:23:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
@@ -6284,7 +6301,7 @@
       "confirmed": 529331,
       "deceased": 16102,
       "migrated": 56,
-      "recovered": 310120,
+      "recovered": 310146,
       "tested": 7996707
     }
   },
