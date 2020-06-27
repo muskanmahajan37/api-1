@@ -1025,6 +1025,10 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 57,
+      "recovered": 52
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -1033,15 +1037,22 @@
         }
       },
       "Baloda Bazar": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 229,
+          "confirmed": 232,
           "recovered": 200
         }
       },
       "Balrampur": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 118,
-          "recovered": 94
+          "confirmed": 128,
+          "recovered": 97
         }
       },
       "Bametara": {
@@ -1063,8 +1074,11 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 172,
+          "confirmed": 173,
           "deceased": 2,
           "recovered": 170
         }
@@ -1083,16 +1097,23 @@
         }
       },
       "Durg": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 123,
+          "confirmed": 128,
           "deceased": 3,
-          "recovered": 78
+          "recovered": 82
         }
       },
       "Gariaband": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 29,
-          "recovered": 20
+          "recovered": 21
         }
       },
       "Gaurela Pendra Marwahi": {
@@ -1102,10 +1123,14 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 221,
+          "confirmed": 228,
           "deceased": 1,
-          "recovered": 148
+          "recovered": 159
         }
       },
       "Jashpur": {
@@ -1115,8 +1140,11 @@
         }
       },
       "Kabeerdham": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 95,
+          "confirmed": 96,
           "recovered": 86
         }
       },
@@ -1127,28 +1155,41 @@
         }
       },
       "Korba": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 306,
-          "recovered": 247
+          "recovered": 249
         }
       },
       "Koriya": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 56,
-          "recovered": 51
+          "recovered": 54
         }
       },
       "Mahasamund": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 82,
+          "confirmed": 85,
           "deceased": 1,
-          "recovered": 74
+          "recovered": 77
         }
       },
       "Mungeli": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 121,
-          "recovered": 104
+          "recovered": 111
         }
       },
       "Narayanpur": {
@@ -1164,24 +1205,36 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 103,
+          "confirmed": 107,
           "deceased": 1,
-          "recovered": 73
+          "recovered": 76
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 14
+        },
         "total": {
-          "confirmed": 259,
+          "confirmed": 261,
           "deceased": 1,
-          "recovered": 164
+          "recovered": 178
         }
       },
       "Rajnandgaon": {
+        "delta": {
+          "confirmed": 21,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 218,
+          "confirmed": 239,
           "deceased": 2,
-          "recovered": 99
+          "recovered": 100
         }
       },
       "Sukma": {
@@ -1209,16 +1262,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:36:20+05:30",
+      "last_updated": "2020-06-27T23:03:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/HealthCgGov/status/1276540681649942528?s=20"
       }
     },
     "total": {
-      "confirmed": 2545,
+      "confirmed": 2602,
       "deceased": 13,
-      "recovered": 1885,
+      "recovered": 1937,
       "tested": 144828
     }
   },
@@ -3669,7 +3722,8 @@
     "meta": {
       "last_updated": "2020-06-27T19:52:26+05:30",
       "tested": {
-        "last_updated": "2020-06-27"
+        "last_updated": "2020-06-27",
+        "source": "https://twitter.com/DiprManipur/status/1276879759922716672?s=20"
       }
     },
     "total": {
@@ -4162,7 +4216,8 @@
   "MZ": {
     "delta": {
       "confirmed": 3,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 93
     },
     "districts": {
       "Aizawl": {
@@ -4240,14 +4295,14 @@
     "meta": {
       "last_updated": "2020-06-27T21:26:17+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2562020-500pm-2662020-500-pm"
+        "last_updated": "2020-06-27",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2662020-500pm-2762020-500-pm"
       }
     },
     "total": {
       "confirmed": 150,
       "recovered": 55,
-      "tested": 12753
+      "tested": 12846
     }
   },
   "NL": {
@@ -6212,22 +6267,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19829,
+      "confirmed": 19886,
       "deceased": 413,
-      "recovered": 14151
+      "recovered": 14203
     },
     "meta": {
-      "last_updated": "2020-06-27T22:46:13+05:30",
+      "last_updated": "2020-06-27T23:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
       }
     },
     "total": {
-      "confirmed": 529274,
+      "confirmed": 529331,
       "deceased": 16102,
       "migrated": 56,
-      "recovered": 310068,
+      "recovered": 310120,
       "tested": 7996707
     }
   },
