@@ -7095,7 +7095,8 @@
     "delta": {
       "confirmed": 74,
       "migrated": 2,
-      "recovered": 47
+      "recovered": 47,
+      "tested": 2359
     },
     "districts": {
       "Almora": {
@@ -7227,18 +7228,26 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-19",
+        "source": "https://twitter.com/PIBDehradun/status/1273904116058583040/photo/1"
+      }
+    },
     "total": {
       "confirmed": 2177,
       "deceased": 26,
       "migrated": 15,
-      "recovered": 1433
+      "recovered": 1433,
+      "tested": 53155
     }
   },
   "WB": {
     "delta": {
       "confirmed": 355,
       "deceased": 11,
-      "recovered": 302
+      "recovered": 302,
+      "tested": 10321
     },
     "districts": {
       "Alipurduar": {
@@ -7483,10 +7492,17 @@
         }
       }
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-06-19",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_19th_JUNE_REPORT_FINAL.pdf"
+      }
+    },
     "total": {
       "confirmed": 13090,
       "deceased": 529,
-      "recovered": 7303
+      "recovered": 7303,
+      "tested": 380612
     }
   }
 }
