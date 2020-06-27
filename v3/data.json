@@ -3266,7 +3266,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T09:13:17+05:30",
+      "last_updated": "2020-06-27T09:16:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2562020-500pm-2662020-500-pm"
@@ -4678,17 +4678,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1
+      "confirmed": -99
     },
     "meta": {
-      "last_updated": "2020-06-27T09:13:13+05:30",
+      "last_updated": "2020-06-27T09:37:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 509447,
+      "confirmed": 509347,
       "deceased": 15689,
       "migrated": 56,
       "recovered": 295917,
@@ -4696,12 +4696,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -100
+    },
     "meta": {
-      "last_updated": "2020-06-26T09:44:16+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-06-27T09:37:14+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 100 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
-      "confirmed": 8123
+      "confirmed": 8023
     }
   },
   "UP": {
