@@ -762,23 +762,29 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 425,
+          "confirmed": 427,
           "deceased": 6,
           "recovered": 335
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:16:17+05:30",
+      "last_updated": "2020-06-27T10:03:16+05:30",
       "tested": {
         "last_updated": "2020-06-26"
       }
     },
     "total": {
-      "confirmed": 425,
+      "confirmed": 427,
       "deceased": 6,
       "recovered": 335,
       "tested": 7201
@@ -3279,6 +3285,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3329,8 +3338,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 20,
           "recovered": 135
         }
       },
@@ -3346,14 +3358,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T17:11:16+05:30",
+      "last_updated": "2020-06-27T10:03:18+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/MyGovNagaland/status/1276366102755373056?s=20"
       }
     },
     "total": {
-      "confirmed": 371,
+      "confirmed": 375,
       "recovered": 162,
       "tested": 13085
     }
@@ -4678,17 +4690,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -99
+      "confirmed": -93
     },
     "meta": {
-      "last_updated": "2020-06-27T09:41:13+05:30",
+      "last_updated": "2020-06-27T10:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-25",
         "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
       }
     },
     "total": {
-      "confirmed": 509347,
+      "confirmed": 509353,
       "deceased": 15689,
       "migrated": 56,
       "recovered": 295917,
