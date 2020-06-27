@@ -343,6 +343,7 @@
   },
   "AS": {
     "delta": {
+      "deceased": 1,
       "recovered": 567,
       "tested": 11806
     },
@@ -548,11 +549,12 @@
       },
       "Unknown": {
         "delta": {
+          "deceased": 1,
           "recovered": 567
         },
         "total": {
           "confirmed": 2668,
-          "deceased": 4,
+          "deceased": 5,
           "migrated": 3,
           "recovered": 3899
         }
@@ -564,7 +566,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T22:04:17+05:30",
+      "last_updated": "2020-06-27T23:35:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-27",
@@ -573,7 +575,7 @@
     },
     "total": {
       "confirmed": 6920,
-      "deceased": 9,
+      "deceased": 10,
       "migrated": 3,
       "recovered": 4815,
       "tested": 374519
@@ -5424,7 +5426,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:23:20+05:30",
+      "last_updated": "2020-06-27T23:32:18+05:30",
       "tested": {
         "last_updated": "2020-06-27"
       }
@@ -5439,7 +5441,8 @@
     "delta": {
       "confirmed": 1087,
       "deceased": 6,
-      "recovered": 162
+      "recovered": 162,
+      "tested": 3923
     },
     "districts": {
       "Adilabad": {
@@ -5723,15 +5726,15 @@
     "meta": {
       "last_updated": "2020-06-27T22:46:16+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://twitter.com/Eatala_Rajender/status/1276560765541998593?s=20"
+        "last_updated": "2020-06-27",
+        "source": "https://twitter.com/Eatala_Rajender/status/1276920940027236353?s=20"
       }
     },
     "total": {
       "confirmed": 13436,
       "deceased": 243,
       "recovered": 4928,
-      "tested": 75308
+      "tested": 79231
     }
   },
   "TN": {
@@ -6185,7 +6188,8 @@
   "TR": {
     "delta": {
       "confirmed": 9,
-      "recovered": 16
+      "recovered": 16,
+      "tested": 995
     },
     "districts": {
       "Dhalai": {
@@ -6271,27 +6275,26 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:23:18+05:30",
+      "last_updated": "2020-06-27T23:26:18+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/676"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
       "confirmed": 1339,
       "deceased": 1,
       "recovered": 1078,
-      "tested": 60199
+      "tested": 61194
     }
   },
   "TT": {
     "delta": {
       "confirmed": 19886,
-      "deceased": 413,
+      "deceased": 414,
       "recovered": 14229
     },
     "meta": {
-      "last_updated": "2020-06-27T23:23:13+05:30",
+      "last_updated": "2020-06-27T23:35:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
@@ -6299,7 +6302,7 @@
     },
     "total": {
       "confirmed": 529331,
-      "deceased": 16102,
+      "deceased": 16103,
       "migrated": 56,
       "recovered": 310146,
       "tested": 7996707
