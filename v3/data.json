@@ -2612,32 +2612,44 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 14,
+      "recovered": 87
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 70
+        },
         "total": {
-          "confirmed": 692,
-          "recovered": 330
+          "confirmed": 701,
+          "recovered": 400
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 17
+        },
         "total": {
-          "confirmed": 254,
+          "confirmed": 259,
           "deceased": 1,
-          "recovered": 137
+          "recovered": 154
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T20:16:34+05:30",
+      "last_updated": "2020-06-27T18:13:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://www.facebook.com/114874993303412/photos/pcb.192529798871264/192529685537942/?type=3&__tn__=HH-R&eid=ARDJ4qqD28K9wEMi5apHUkHcxrOw1bjLBtJRgffkraL-qZ5vuPwqVOhw6SsmCfpyONSzhjQTLxf4QHsf&__xts__%5B0%5D=68.ARBh4MJ9LTHH2C2AdgrAqmpT-YANMYluj9w2ziI6-CkXXQKgT-V4LH_xxrDCvNR56uYlnObc-7ztuSerWiA23PeehFx_snal4K6fM_ow6XVt_-A-OaolCnbK9Dkstpm7jR9ly-m7x9r51ATIYMSG0s4GLK4e9aO8sq9JBiyRz2p_KutwX3fUO_2ebffhcWYIEMi7a5U3fAWWdxBrc4tMmWc4ZP76WzfLFmEeabncSOIm662HqgBftAbeuah3fcRGuUdQz4dsSKodOz-hNNwjpvWXxLFzy7JD5b9D0lGUepOUKaujU6_fk-noYgm8ASbZHe-WmVOPIkvSkeEXa8WwYOM"
       }
     },
     "total": {
-      "confirmed": 946,
+      "confirmed": 960,
       "deceased": 1,
-      "recovered": 467,
+      "recovered": 554,
       "tested": 13636
     }
   },
@@ -5153,23 +5165,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2033,
+      "confirmed": 2047,
       "deceased": 44,
       "migrated": 2,
-      "recovered": 1551
+      "recovered": 1638
     },
     "meta": {
-      "last_updated": "2020-06-27T17:57:13+05:30",
+      "last_updated": "2020-06-27T18:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
       }
     },
     "total": {
-      "confirmed": 511479,
+      "confirmed": 511493,
       "deceased": 15733,
       "migrated": 58,
-      "recovered": 297468,
+      "recovered": 297555,
       "tested": 7996707
     }
   },
