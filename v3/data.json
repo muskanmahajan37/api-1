@@ -949,7 +949,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T17:53:16+05:30",
+      "last_updated": "2020-06-27T17:56:15+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
@@ -3562,10 +3562,11 @@
     "districts": {
       "Dimapur": {
         "delta": {
+          "confirmed": 4,
           "recovered": 2
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 64,
           "recovered": 19
         }
       },
@@ -3575,19 +3576,28 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 29,
+          "confirmed": 43,
           "recovered": 4
         }
       },
       "Longleng": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Mon": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 48
+          "confirmed": 60
         }
       },
       "Others": {
@@ -3596,8 +3606,11 @@
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 161,
+          "confirmed": 162,
           "recovered": 6
         }
       },
@@ -3613,10 +3626,9 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 16
+          "confirmed": -16
         },
         "total": {
-          "confirmed": 32,
           "recovered": 135
         }
       },
@@ -3632,7 +3644,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T17:53:18+05:30",
+      "last_updated": "2020-06-27T17:57:15+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/MyGovNagaland/status/1276366102755373056?s=20"
@@ -5147,7 +5159,7 @@
       "recovered": 1551
     },
     "meta": {
-      "last_updated": "2020-06-27T17:53:13+05:30",
+      "last_updated": "2020-06-27T17:57:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
