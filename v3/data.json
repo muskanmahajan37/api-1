@@ -562,7 +562,8 @@
     "delta": {
       "confirmed": 181,
       "deceased": 2,
-      "recovered": 261
+      "recovered": 261,
+      "tested": 8742
     },
     "districts": {
       "Araria": {
@@ -952,15 +953,15 @@
     "meta": {
       "last_updated": "2020-06-27T17:56:15+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
+        "last_updated": "2020-06-27",
+        "source": "https://twitter.com/PIB_Patna/status/1276845287353364488?s=20"
       }
     },
     "total": {
       "confirmed": 8859,
       "deceased": 58,
       "recovered": 6930,
-      "tested": 189643
+      "tested": 198385
     }
   },
   "CH": {
@@ -1268,7 +1269,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T19:13:17+05:30",
+      "last_updated": "2020-06-27T19:21:15+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
         "last_updated": "2020-06-26",
@@ -2504,7 +2505,8 @@
   "KL": {
     "delta": {
       "confirmed": 195,
-      "recovered": 102
+      "recovered": 102,
+      "tested": 5787
     },
     "districts": {
       "Alappuzha": {
@@ -2668,8 +2670,7 @@
       "last_updated": "2020-06-27T18:46:20+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-26-1.pdf"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
@@ -2677,7 +2678,7 @@
       "deceased": 23,
       "migrated": 2,
       "recovered": 2108,
-      "tested": 209456
+      "tested": 215243
     }
   },
   "LA": {
@@ -5396,23 +5397,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9424,
+      "confirmed": 9490,
       "deceased": 191,
       "migrated": 2,
-      "recovered": 6941
+      "recovered": 7028
     },
     "meta": {
-      "last_updated": "2020-06-27T19:13:14+05:30",
+      "last_updated": "2020-06-27T19:22:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
       }
     },
     "total": {
-      "confirmed": 518870,
+      "confirmed": 518936,
       "deceased": 15880,
       "migrated": 58,
-      "recovered": 302858,
+      "recovered": 302945,
       "tested": 7996707
     }
   },
@@ -6248,41 +6249,64 @@
     }
   },
   "UT": {
+    "delta": {
+      "confirmed": 66,
+      "recovered": 87
+    },
     "districts": {
       "Almora": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 31
+        },
         "total": {
-          "confirmed": 165,
+          "confirmed": 176,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 115
+          "recovered": 146
         }
       },
       "Bageshwar": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 81,
           "deceased": 1,
-          "recovered": 53
+          "recovered": 55
         }
       },
       "Chamoli": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 69,
-          "recovered": 47
+          "confirmed": 71,
+          "recovered": 52
         }
       },
       "Champawat": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 53,
           "deceased": 1,
           "recovered": 44
         }
       },
       "Dehradun": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 34
+        },
         "total": {
-          "confirmed": 659,
+          "confirmed": 667,
           "deceased": 21,
           "migrated": 13,
-          "recovered": 484
+          "recovered": 518
         }
       },
       "Haridwar": {
@@ -6293,17 +6317,24 @@
         }
       },
       "Nainital": {
+        "delta": {
+          "confirmed": 29
+        },
         "total": {
-          "confirmed": 425,
+          "confirmed": 454,
           "deceased": 2,
           "recovered": 304
         }
       },
       "Pauri Garhwal": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 140,
+          "confirmed": 141,
           "deceased": 3,
-          "recovered": 62
+          "recovered": 64
         }
       },
       "Pithoragarh": {
@@ -6313,36 +6344,49 @@
         }
       },
       "Rudraprayag": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 62,
+          "confirmed": 65,
           "deceased": 1,
           "recovered": 39
         }
       },
       "Tehri Garhwal": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 410,
+          "confirmed": 412,
           "deceased": 2,
           "recovered": 322
         }
       },
       "Udham Singh Nagar": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 13
+        },
         "total": {
-          "confirmed": 228,
+          "confirmed": 229,
           "deceased": 3,
-          "recovered": 116
+          "recovered": 129
         }
       },
       "Uttarkashi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 63,
+          "confirmed": 64,
           "deceased": 1,
           "recovered": 36
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T21:55:22+05:30",
+      "last_updated": "2020-06-27T19:22:15+05:30",
       "notes": "18 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-26",
@@ -6350,10 +6394,10 @@
       }
     },
     "total": {
-      "confirmed": 2725,
+      "confirmed": 2791,
       "deceased": 37,
       "migrated": 18,
-      "recovered": 1822,
+      "recovered": 1909,
       "tested": 62500
     }
   },
@@ -6605,7 +6649,8 @@
     "meta": {
       "last_updated": "2020-06-27T18:37:16+05:30",
       "tested": {
-        "last_updated": "2020-06-27"
+        "last_updated": "2020-06-27",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "total": {
