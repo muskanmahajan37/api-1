@@ -949,7 +949,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T17:45:16+05:30",
+      "last_updated": "2020-06-27T17:53:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
@@ -3556,13 +3556,17 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 16
+      "confirmed": 16,
+      "recovered": 2
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 60,
-          "recovered": 17
+          "recovered": 19
         }
       },
       "Kiphire": {
@@ -3628,7 +3632,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T15:13:17+05:30",
+      "last_updated": "2020-06-27T17:53:18+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/MyGovNagaland/status/1276366102755373056?s=20"
@@ -3636,7 +3640,7 @@
     },
     "total": {
       "confirmed": 387,
-      "recovered": 162,
+      "recovered": 164,
       "tested": 13085
     }
   },
@@ -5140,10 +5144,10 @@
       "confirmed": 2033,
       "deceased": 44,
       "migrated": 2,
-      "recovered": 1549
+      "recovered": 1551
     },
     "meta": {
-      "last_updated": "2020-06-27T17:45:13+05:30",
+      "last_updated": "2020-06-27T17:53:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
@@ -5153,7 +5157,7 @@
       "confirmed": 511479,
       "deceased": 15733,
       "migrated": 58,
-      "recovered": 297466,
+      "recovered": 297468,
       "tested": 7996707
     }
   },
