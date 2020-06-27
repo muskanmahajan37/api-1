@@ -3425,7 +3425,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "recovered": 8
     },
     "districts": {
       "Aizawl": {
@@ -3473,8 +3474,12 @@
         }
       },
       "Saiha": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 8
         }
       },
       "Saitual": {
@@ -3491,7 +3496,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T09:16:16+05:30",
+      "last_updated": "2020-06-27T17:36:17+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2562020-500pm-2662020-500-pm"
@@ -3499,7 +3504,7 @@
     },
     "total": {
       "confirmed": 148,
-      "recovered": 47,
+      "recovered": 55,
       "tested": 12753
     }
   },
@@ -3592,26 +3597,36 @@
   "OR": {
     "delta": {
       "confirmed": 170,
-      "deceased": 1
+      "deceased": 1,
+      "recovered": 184
     },
     "districts": {
       "Angul": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 59,
-          "recovered": 47
+          "recovered": 48
         }
       },
       "Balangir": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 165,
-          "recovered": 144
+          "recovered": 147
         }
       },
       "Balasore": {
+        "delta": {
+          "recovered": 31
+        },
         "total": {
           "confirmed": 332,
           "deceased": 1,
-          "recovered": 224
+          "recovered": 255
         }
       },
       "Bargarh": {
@@ -3625,9 +3640,12 @@
         }
       },
       "Bhadrak": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 225,
-          "recovered": 184
+          "recovered": 194
         }
       },
       "Boudh": {
@@ -3638,12 +3656,13 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 2
         },
         "total": {
           "confirmed": 515,
           "deceased": 4,
-          "recovered": 407
+          "recovered": 409
         }
       },
       "Deogarh": {
@@ -3660,43 +3679,52 @@
       },
       "Gajapati": {
         "delta": {
-          "confirmed": 16
+          "confirmed": 16,
+          "recovered": 12
         },
         "total": {
           "confirmed": 427,
-          "recovered": 121
+          "recovered": 133
         }
       },
       "Ganjam": {
         "delta": {
           "confirmed": 58,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 48
         },
         "total": {
           "confirmed": 1195,
           "deceased": 9,
-          "recovered": 811
+          "recovered": 859
         }
       },
       "Jagatsinghpur": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 268,
-          "recovered": 162
+          "recovered": 168
         }
       },
       "Jajpur": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 405,
-          "recovered": 341
+          "recovered": 342
         }
       },
       "Jharsuguda": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 80,
-          "recovered": 21
+          "recovered": 27
         }
       },
       "Kalahandi": {
@@ -3706,34 +3734,42 @@
         }
       },
       "Kandhamal": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 177,
-          "recovered": 157
+          "recovered": 158
         }
       },
       "Kendrapara": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 5
         },
         "total": {
           "confirmed": 235,
-          "recovered": 195
+          "recovered": 200
         }
       },
       "Kendujhar": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 107,
-          "recovered": 77
+          "recovered": 80
         }
       },
       "Khordha": {
         "delta": {
-          "confirmed": 19
+          "confirmed": 19,
+          "recovered": 45
         },
         "total": {
           "confirmed": 771,
           "deceased": 6,
-          "recovered": 499
+          "recovered": 544
         }
       },
       "Koraput": {
@@ -3755,10 +3791,13 @@
         }
       },
       "Mayurbhanj": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 181,
           "deceased": 1,
-          "recovered": 120
+          "recovered": 121
         }
       },
       "Nabarangapur": {
@@ -3799,12 +3838,13 @@
       },
       "Puri": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 5
         },
         "total": {
           "confirmed": 248,
           "deceased": 2,
-          "recovered": 202
+          "recovered": 207
         }
       },
       "Rayagada": {
@@ -3832,14 +3872,17 @@
         }
       },
       "Sundargarh": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 181,
-          "recovered": 142
+          "recovered": 146
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T10:42:15+05:30",
+      "last_updated": "2020-06-27T17:36:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "tested": {
         "last_updated": "2020-06-26",
@@ -3849,7 +3892,7 @@
     "total": {
       "confirmed": 6350,
       "deceased": 25,
-      "recovered": 4422,
+      "recovered": 4606,
       "tested": 244588
     }
   },
@@ -5051,10 +5094,10 @@
       "confirmed": 2032,
       "deceased": 42,
       "migrated": 2,
-      "recovered": 1096
+      "recovered": 1288
     },
     "meta": {
-      "last_updated": "2020-06-27T16:28:13+05:30",
+      "last_updated": "2020-06-27T17:36:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
@@ -5064,7 +5107,7 @@
       "confirmed": 511478,
       "deceased": 15731,
       "migrated": 58,
-      "recovered": 297013,
+      "recovered": 297205,
       "tested": 7996707
     }
   },
