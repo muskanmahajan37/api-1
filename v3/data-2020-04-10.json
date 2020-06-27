@@ -511,37 +511,19 @@
     }
   },
   "UT": {
-    "delta": {
-      "tested": 157
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-10",
-        "source": "http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_10_April_2020__5_PM.pdf"
-      }
-    },
     "total": {
       "confirmed": 35,
-      "recovered": 5,
-      "tested": 1688
+      "recovered": 5
     }
   },
   "WB": {
     "delta": {
-      "confirmed": 13,
-      "tested": 206
-    },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-10",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_10.04_.2020_.pdf"
-      }
+      "confirmed": 13
     },
     "total": {
       "confirmed": 116,
       "deceased": 5,
-      "recovered": 16,
-      "tested": 2095
+      "recovered": 16
     }
   }
 }

@@ -6223,8 +6223,7 @@
   "UT": {
     "delta": {
       "confirmed": 33,
-      "deceased": 1,
-      "tested": 1482
+      "deceased": 1
     },
     "districts": {
       "Almora": {
@@ -6321,26 +6320,18 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://t.me/indiacovid/5902?single"
-      }
-    },
     "total": {
       "confirmed": 749,
       "deceased": 5,
       "migrated": 3,
-      "recovered": 102,
-      "tested": 28433
+      "recovered": 102
     }
   },
   "WB": {
     "delta": {
       "confirmed": 317,
       "deceased": 7,
-      "recovered": 195,
-      "tested": 9346
+      "recovered": 195
     },
     "districts": {
       "Alipurduar": {
@@ -6574,17 +6565,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-30",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_30th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 5130,
       "deceased": 309,
-      "recovered": 1970,
-      "tested": 194397
+      "recovered": 1970
     }
   }
 }

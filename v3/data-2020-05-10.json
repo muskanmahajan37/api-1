@@ -4802,8 +4802,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 1,
-      "tested": 282
+      "confirmed": 1
     },
     "districts": {
       "Almora": {
@@ -4852,25 +4851,17 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-10",
-        "source": "http://health.uk.gov.in/files/2020.05.10_Health_Bulletin.pdf"
-      }
-    },
     "total": {
       "confirmed": 68,
       "deceased": 1,
-      "recovered": 46,
-      "tested": 9668
+      "recovered": 46
     }
   },
   "WB": {
     "delta": {
       "confirmed": 153,
       "deceased": 14,
-      "recovered": 45,
-      "tested": 4046
+      "recovered": 45
     },
     "districts": {
       "Birbhum": {
@@ -5035,17 +5026,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-05-10",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_MAY_REPORT_FINAL.pdf"
-      }
-    },
     "total": {
       "confirmed": 1939,
       "deceased": 185,
-      "recovered": 417,
-      "tested": 43414
+      "recovered": 417
     }
   }
 }

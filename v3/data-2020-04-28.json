@@ -3943,8 +3943,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 3,
-      "tested": 276
+      "confirmed": 3
     },
     "districts": {
       "Almora": {
@@ -3986,24 +3985,16 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://twitter.com/ANI/status/1255131631137943552?s=09"
-      }
-    },
     "total": {
       "confirmed": 54,
-      "recovered": 26,
-      "tested": 5739
+      "recovered": 26
     }
   },
   "WB": {
     "delta": {
       "confirmed": 48,
       "deceased": 2,
-      "recovered": 4,
-      "tested": 1180
+      "recovered": 4
     },
     "districts": {
       "Darjeeling": {
@@ -4084,17 +4075,10 @@
         }
       }
     },
-    "meta": {
-      "tested": {
-        "last_updated": "2020-04-28",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_28.04_.2020_.pdf"
-      }
-    },
     "total": {
       "confirmed": 697,
       "deceased": 22,
-      "recovered": 109,
-      "tested": 13223
+      "recovered": 109
     }
   }
 }

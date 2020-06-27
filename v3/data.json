@@ -966,7 +966,8 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 141
     },
     "districts": {
       "Chandigarh": {
@@ -983,15 +984,14 @@
     "meta": {
       "last_updated": "2020-06-27T10:08:15+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/669"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
       "confirmed": 427,
       "deceased": 6,
       "recovered": 335,
-      "tested": 7201
+      "tested": 7342
     }
   },
   "CT": {
@@ -1196,7 +1196,8 @@
     "delta": {
       "confirmed": 2948,
       "deceased": 66,
-      "recovered": 2210
+      "recovered": 2210,
+      "tested": 19180
     },
     "districts": {
       "Central Delhi": {
@@ -1269,18 +1270,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T19:21:15+05:30",
+      "last_updated": "2020-06-27T19:25:15+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/685"
+        "last_updated": "2020-06-27",
+        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-27.pdf"
       }
     },
     "total": {
       "confirmed": 80188,
       "deceased": 2558,
       "recovered": 49301,
-      "tested": 459156
+      "tested": 478336
     }
   },
   "DN": {
@@ -2670,7 +2671,8 @@
       "last_updated": "2020-06-27T18:46:20+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
-        "last_updated": "2020-06-27"
+        "last_updated": "2020-06-27",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-27.pdf"
       }
     },
     "total": {
@@ -4881,7 +4883,8 @@
     "delta": {
       "confirmed": 3713,
       "deceased": 68,
-      "recovered": 2737
+      "recovered": 2737,
+      "tested": 34805
     },
     "districts": {
       "Airport Quarantine": {
@@ -5313,15 +5316,15 @@
       "last_updated": "2020-06-27T18:46:18+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-26.06.2020-20-Pages-English-428-KB.pdf"
+        "last_updated": "2020-06-27",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-27.06.2020-23-Pages-English-441-KB.pdf"
       }
     },
     "total": {
       "confirmed": 78335,
       "deceased": 1025,
       "recovered": 44094,
-      "tested": 1042649
+      "tested": 1077454
     }
   },
   "TR": {
@@ -5403,7 +5406,7 @@
       "recovered": 7028
     },
     "meta": {
-      "last_updated": "2020-06-27T19:22:13+05:30",
+      "last_updated": "2020-06-27T19:34:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
@@ -6386,27 +6389,21 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T19:22:15+05:30",
-      "notes": "18 Migrated cases reduced from Active count",
-      "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://twitter.com/PIBDehradun/status/1276514328678592517?s=20"
-      }
+      "last_updated": "2020-06-27T19:34:16+05:30",
+      "notes": "18 Migrated cases reduced from Active count"
     },
     "total": {
       "confirmed": 2791,
       "deceased": 37,
       "migrated": 18,
-      "recovered": 1909,
-      "tested": 62500
+      "recovered": 1909
     }
   },
   "WB": {
     "delta": {
       "confirmed": 521,
       "deceased": 13,
-      "recovered": 254,
-      "tested": 9548
+      "recovered": 254
     },
     "districts": {
       "Alipurduar": {
@@ -6647,17 +6644,12 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T18:37:16+05:30",
-      "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_JUNE_REPORT_FINAL.pdf"
-      }
+      "last_updated": "2020-06-27T18:37:16+05:30"
     },
     "total": {
       "confirmed": 16711,
       "deceased": 629,
-      "recovered": 10789,
-      "tested": 458343
+      "recovered": 10789
     }
   }
 }
