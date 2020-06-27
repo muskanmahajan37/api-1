@@ -2498,10 +2498,11 @@
     "districts": {
       "Alappuzha": {
         "delta": {
+          "confirmed": 13,
           "recovered": 5
         },
         "total": {
-          "confirmed": 263,
+          "confirmed": 276,
           "deceased": 1,
           "recovered": 104
         }
@@ -2551,11 +2552,11 @@
       },
       "Kollam": {
         "delta": {
-          "confirmed": 24,
+          "confirmed": 12,
           "recovered": 14
         },
         "total": {
-          "confirmed": 323,
+          "confirmed": 311,
           "deceased": 2,
           "recovered": 111
         }
@@ -2641,14 +2642,6 @@
           "recovered": 198
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Wayanad": {
         "delta": {
           "confirmed": 5
@@ -2661,7 +2654,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T18:42:18+05:30",
+      "last_updated": "2020-06-27T18:46:20+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "tested": {
         "last_updated": "2020-06-26",
@@ -5305,7 +5298,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T18:42:15+05:30",
+      "last_updated": "2020-06-27T18:46:18+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "tested": {
         "last_updated": "2020-06-26",
@@ -5398,7 +5391,7 @@
       "recovered": 4731
     },
     "meta": {
-      "last_updated": "2020-06-27T18:42:13+05:30",
+      "last_updated": "2020-06-27T18:46:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
