@@ -1029,7 +1029,8 @@
   "CT": {
     "delta": {
       "confirmed": 57,
-      "recovered": 52
+      "recovered": 52,
+      "tested": 8046
     },
     "districts": {
       "Balod": {
@@ -1266,15 +1267,14 @@
     "meta": {
       "last_updated": "2020-06-27T23:16:16+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://twitter.com/HealthCgGov/status/1276540681649942528?s=20"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
       "confirmed": 2602,
       "deceased": 13,
       "recovered": 1937,
-      "tested": 144828
+      "tested": 152874
     }
   },
   "DL": {
@@ -1833,7 +1833,8 @@
     "meta": {
       "last_updated": "2020-06-27T21:06:16+05:30",
       "tested": {
-        "last_updated": "2020-06-27"
+        "last_updated": "2020-06-27",
+        "source": "https://twitter.com/PIBAhmedabad/status/1276893503428136964?s=20"
       }
     },
     "total": {
@@ -6195,11 +6196,11 @@
       "Dhalai": {
         "delta": {
           "confirmed": 2,
-          "recovered": 1
+          "recovered": -1
         },
         "total": {
           "confirmed": 213,
-          "recovered": 203
+          "recovered": 201
         }
       },
       "Gomati": {
@@ -6249,11 +6250,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "recovered": -2
-        },
         "total": {
-          "recovered": 5
+          "recovered": 7
         }
       },
       "Unokoti": {
