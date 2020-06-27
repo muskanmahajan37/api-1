@@ -328,6 +328,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "tested": 11806
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -546,8 +549,7 @@
       "last_updated": "2020-06-27T00:02:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://twitter.com/himantabiswa/status/1276546006226579457?s=20"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
@@ -555,7 +557,7 @@
       "deceased": 9,
       "migrated": 3,
       "recovered": 4248,
-      "tested": 362713
+      "tested": 374519
     }
   },
   "BR": {
@@ -1369,7 +1371,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T20:52:48+05:30",
+      "last_updated": "2020-06-27T20:55:14+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/DHS_Goa/status/1276523629358886915?s=20"
@@ -1633,7 +1635,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 66,
+          "confirmed": 64,
           "deceased": 1,
           "recovered": 8
         }
@@ -1721,11 +1723,6 @@
           "recovered": 5
         }
       },
-      "Unknown": {
-        "total": {
-          "confirmed": -2
-        }
-      },
       "Vadodara": {
         "delta": {
           "confirmed": 47,
@@ -1749,7 +1746,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T20:53:18+05:30",
+      "last_updated": "2020-06-27T20:57:14+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/PIBAhmedabad/status/1276512497063858178?s=20"
@@ -2859,7 +2856,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T20:52:45+05:30",
+      "last_updated": "2020-06-27T20:55:11+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-27",
@@ -5931,7 +5928,7 @@
       "recovered": 13006
     },
     "meta": {
-      "last_updated": "2020-06-27T20:53:16+05:30",
+      "last_updated": "2020-06-27T20:57:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
