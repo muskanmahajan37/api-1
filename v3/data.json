@@ -223,11 +223,19 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 5,
+      "tested": 733
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 77,
-          "recovered": 21
+          "recovered": 25
         }
       },
       "East Siang": {
@@ -265,9 +273,12 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 10,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Pakke Kessang": {
@@ -300,8 +311,11 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 15,
           "deceased": 1,
           "recovered": 3
         }
@@ -314,17 +328,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T22:15:18+05:30",
+      "last_updated": "2020-06-27T21:13:16+05:30",
       "tested": {
-        "last_updated": "2020-06-26",
-        "source": "https://twitter.com/DirectorateofHS/status/1276551051789733889?s=20"
+        "last_updated": "2020-06-27"
       }
     },
     "total": {
-      "confirmed": 174,
+      "confirmed": 177,
       "deceased": 1,
-      "recovered": 49,
-      "tested": 21890
+      "recovered": 54,
+      "tested": 22623
     }
   },
   "AS": {
@@ -1746,7 +1759,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T20:57:14+05:30",
+      "last_updated": "2020-06-27T21:06:16+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/PIBAhmedabad/status/1276512497063858178?s=20"
@@ -4075,13 +4088,16 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 3,
       "recovered": 8
     },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 38,
           "recovered": 19
         }
       },
@@ -4118,8 +4134,11 @@
         }
       },
       "Mamit": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 19,
           "recovered": 1
         }
       },
@@ -4146,14 +4165,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T17:45:20+05:30",
+      "last_updated": "2020-06-27T21:13:14+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2562020-500pm-2662020-500-pm"
       }
     },
     "total": {
-      "confirmed": 148,
+      "confirmed": 150,
       "recovered": 55,
       "tested": 12753
     }
@@ -5922,23 +5941,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 18287,
+      "confirmed": 18292,
       "deceased": 399,
       "migrated": 2,
-      "recovered": 13006
+      "recovered": 13011
     },
     "meta": {
-      "last_updated": "2020-06-27T20:57:13+05:30",
+      "last_updated": "2020-06-27T21:09:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
       }
     },
     "total": {
-      "confirmed": 527733,
+      "confirmed": 527738,
       "deceased": 16088,
       "migrated": 58,
-      "recovered": 308923,
+      "recovered": 308928,
       "tested": 7996707
     }
   },
