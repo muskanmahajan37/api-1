@@ -1140,15 +1140,19 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 7,
-      "recovered": 1
+      "confirmed": 15,
+      "recovered": 6
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 87,
+          "confirmed": 95,
           "migrated": 1,
-          "recovered": 38
+          "recovered": 43
         }
       },
       "Daman": {
@@ -1169,16 +1173,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T12:26:18+05:30",
+      "last_updated": "2020-06-27T15:13:19+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/DnhPublicity/status/1276578811648241665?s=20"
       }
     },
     "total": {
-      "confirmed": 176,
+      "confirmed": 184,
       "migrated": 1,
-      "recovered": 51,
+      "recovered": 56,
       "tested": 30768
     }
   },
@@ -3486,7 +3490,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T15:03:16+05:30",
+      "last_updated": "2020-06-27T15:13:17+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/MyGovNagaland/status/1276366102755373056?s=20"
@@ -4957,23 +4961,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1238,
+      "confirmed": 1246,
       "deceased": 23,
       "migrated": 2,
-      "recovered": 459
+      "recovered": 464
     },
     "meta": {
-      "last_updated": "2020-06-27T15:03:13+05:30",
+      "last_updated": "2020-06-27T15:13:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
       }
     },
     "total": {
-      "confirmed": 510684,
+      "confirmed": 510692,
       "deceased": 15712,
       "migrated": 58,
-      "recovered": 296376,
+      "recovered": 296381,
       "tested": 7996707
     }
   },
