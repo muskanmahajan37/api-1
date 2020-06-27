@@ -1,5 +1,8 @@
 {
   "AN": {
+    "meta": {
+      "population": 397000
+    },
     "total": {
       "confirmed": 10
     }
@@ -7,6 +10,9 @@
   "AP": {
     "delta": {
       "confirmed": 21
+    },
+    "meta": {
+      "population": 52221000
     },
     "total": {
       "confirmed": 44,
@@ -17,6 +23,9 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "population": 34293000
+    },
     "total": {
       "confirmed": 1
     }
@@ -24,6 +33,9 @@
   "BR": {
     "delta": {
       "confirmed": 6
+    },
+    "meta": {
+      "population": 119520000
     },
     "total": {
       "confirmed": 21,
@@ -34,6 +46,9 @@
     "delta": {
       "confirmed": 2
     },
+    "meta": {
+      "population": 1179000
+    },
     "total": {
       "confirmed": 15
     }
@@ -42,6 +57,9 @@
     "delta": {
       "confirmed": 1,
       "recovered": 2
+    },
+    "meta": {
+      "population": 28724000
     },
     "total": {
       "confirmed": 9,
@@ -52,6 +70,9 @@
     "delta": {
       "confirmed": 23
     },
+    "meta": {
+      "population": 19814000
+    },
     "total": {
       "confirmed": 120,
       "deceased": 2,
@@ -59,6 +80,9 @@
     }
   },
   "GA": {
+    "meta": {
+      "population": 1540000
+    },
     "total": {
       "confirmed": 5
     }
@@ -68,6 +92,9 @@
       "confirmed": 4,
       "recovered": 2
     },
+    "meta": {
+      "population": 67936000
+    },
     "total": {
       "confirmed": 74,
       "deceased": 6,
@@ -75,6 +102,9 @@
     }
   },
   "HP": {
+    "meta": {
+      "population": 7300000
+    },
     "total": {
       "confirmed": 3,
       "deceased": 1,
@@ -87,6 +117,9 @@
       "confirmed": 7,
       "recovered": 4
     },
+    "meta": {
+      "population": 28672000
+    },
     "total": {
       "confirmed": 43,
       "recovered": 24
@@ -96,6 +129,9 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "population": 37403000
+    },
     "total": {
       "confirmed": 1
     }
@@ -104,6 +140,9 @@
     "delta": {
       "confirmed": 6,
       "deceased": 1
+    },
+    "meta": {
+      "population": 13203000
     },
     "total": {
       "confirmed": 55,
@@ -115,6 +154,9 @@
     "delta": {
       "confirmed": 13,
       "recovered": 2
+    },
+    "meta": {
+      "population": 65798000
     },
     "total": {
       "confirmed": 101,
@@ -128,6 +170,9 @@
       "deceased": 1,
       "recovered": 4
     },
+    "meta": {
+      "population": 35125000
+    },
     "total": {
       "confirmed": 241,
       "deceased": 2,
@@ -135,6 +180,9 @@
     }
   },
   "LA": {
+    "meta": {
+      "population": 293000
+    },
     "total": {
       "confirmed": 13,
       "recovered": 3
@@ -145,6 +193,9 @@
       "confirmed": 82,
       "deceased": 1
     },
+    "meta": {
+      "population": 122153000
+    },
     "total": {
       "confirmed": 302,
       "deceased": 11,
@@ -152,6 +203,9 @@
     }
   },
   "MN": {
+    "meta": {
+      "population": 3103000
+    },
     "total": {
       "confirmed": 1
     }
@@ -161,12 +215,18 @@
       "confirmed": 19,
       "deceased": 1
     },
+    "meta": {
+      "population": 82232000
+    },
     "total": {
       "confirmed": 66,
       "deceased": 5
     }
   },
   "MZ": {
+    "meta": {
+      "population": 1192000
+    },
     "total": {
       "confirmed": 1
     }
@@ -174,6 +234,9 @@
   "OR": {
     "delta": {
       "confirmed": 1
+    },
+    "meta": {
+      "population": 43671000
     },
     "total": {
       "confirmed": 4
@@ -184,6 +247,9 @@
       "confirmed": 1,
       "deceased": 1
     },
+    "meta": {
+      "population": 29859000
+    },
     "total": {
       "confirmed": 42,
       "deceased": 4,
@@ -191,6 +257,9 @@
     }
   },
   "PY": {
+    "meta": {
+      "population": 1504000
+    },
     "total": {
       "confirmed": 1
     }
@@ -198,6 +267,9 @@
   "RJ": {
     "delta": {
       "confirmed": 14
+    },
+    "meta": {
+      "population": 77264000
     },
     "total": {
       "confirmed": 93,
@@ -207,6 +279,9 @@
   "TG": {
     "delta": {
       "confirmed": 20
+    },
+    "meta": {
+      "population": 37220000
     },
     "total": {
       "confirmed": 97,
@@ -218,6 +293,9 @@
     "delta": {
       "confirmed": 57,
       "recovered": 2
+    },
+    "meta": {
+      "population": 75695000
     },
     "total": {
       "confirmed": 124,
@@ -233,6 +311,7 @@
       "tested": 4346
     },
     "meta": {
+      "population": 1332900000,
       "tested": {
         "last_updated": "2020-03-31",
         "source": "MoH Press conference with Dr. Raman G"
@@ -250,12 +329,18 @@
     "delta": {
       "confirmed": 8
     },
+    "meta": {
+      "population": 224979000
+    },
     "total": {
       "confirmed": 104,
       "recovered": 17
     }
   },
   "UT": {
+    "meta": {
+      "population": 11141000
+    },
     "total": {
       "confirmed": 7,
       "recovered": 2
@@ -266,6 +351,9 @@
       "confirmed": 15,
       "deceased": 1,
       "recovered": 3
+    },
+    "meta": {
+      "population": 96906000
     },
     "total": {
       "confirmed": 37,

@@ -1,20 +1,32 @@
 {
   "AP": {
+    "meta": {
+      "population": 52221000
+    },
     "total": {
       "confirmed": 1
     }
   },
   "DL": {
+    "meta": {
+      "population": 19814000
+    },
     "total": {
       "confirmed": 7
     }
   },
   "HP": {
+    "meta": {
+      "population": 7300000
+    },
     "total": {
       "migrated": 3
     }
   },
   "HR": {
+    "meta": {
+      "population": 28672000
+    },
     "total": {
       "confirmed": 14
     }
@@ -23,6 +35,9 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "population": 13203000
+    },
     "total": {
       "confirmed": 3
     }
@@ -30,6 +45,9 @@
   "KA": {
     "delta": {
       "confirmed": 1
+    },
+    "meta": {
+      "population": 65798000
     },
     "total": {
       "confirmed": 7,
@@ -40,11 +58,17 @@
     "delta": {
       "confirmed": 3
     },
+    "meta": {
+      "population": 35125000
+    },
     "total": {
       "confirmed": 27
     }
   },
   "LA": {
+    "meta": {
+      "population": 293000
+    },
     "total": {
       "confirmed": 3
     }
@@ -52,6 +76,9 @@
   "MH": {
     "delta": {
       "confirmed": 7
+    },
+    "meta": {
+      "population": 122153000
     },
     "total": {
       "confirmed": 39
@@ -61,16 +88,25 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "population": 43671000
+    },
     "total": {
       "confirmed": 1
     }
   },
   "PB": {
+    "meta": {
+      "population": 29859000
+    },
     "total": {
       "confirmed": 1
     }
   },
   "RJ": {
+    "meta": {
+      "population": 77264000
+    },
     "total": {
       "confirmed": 4
     }
@@ -79,11 +115,17 @@
     "delta": {
       "confirmed": 1
     },
+    "meta": {
+      "population": 37220000
+    },
     "total": {
       "confirmed": 4
     }
   },
   "TN": {
+    "meta": {
+      "population": 75695000
+    },
     "total": {
       "confirmed": 1
     }
@@ -93,6 +135,7 @@
       "confirmed": 14
     },
     "meta": {
+      "population": 1332900000,
       "tested": {
         "last_updated": "2020-03-13",
         "source": "Press_Release_ICMR_13March2020.pdf"
@@ -106,11 +149,17 @@
     }
   },
   "UP": {
+    "meta": {
+      "population": 224979000
+    },
     "total": {
       "confirmed": 13
     }
   },
   "UT": {
+    "meta": {
+      "population": 11141000
+    },
     "total": {
       "confirmed": 1
     }
