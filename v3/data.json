@@ -343,6 +343,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 246,
       "deceased": 1,
       "recovered": 567,
       "tested": 11806
@@ -549,11 +550,12 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 246,
           "deceased": 1,
           "recovered": 567
         },
         "total": {
-          "confirmed": 2668,
+          "confirmed": 2914,
           "deceased": 5,
           "migrated": 3,
           "recovered": 3899
@@ -566,7 +568,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:40:15+05:30",
+      "last_updated": "2020-06-28T00:19:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-27",
@@ -574,7 +576,7 @@
       }
     },
     "total": {
-      "confirmed": 6920,
+      "confirmed": 7166,
       "deceased": 10,
       "migrated": 3,
       "recovered": 4815,
@@ -6274,7 +6276,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:26:18+05:30",
+      "last_updated": "2020-06-28T00:10:19+05:30",
       "tested": {
         "last_updated": "2020-06-27"
       }
@@ -6288,19 +6290,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19886,
+      "confirmed": 20132,
       "deceased": 414,
       "recovered": 14229
     },
     "meta": {
-      "last_updated": "2020-06-27T23:40:13+05:30",
+      "last_updated": "2020-06-28T00:19:13+05:30",
       "tested": {
         "last_updated": "2020-06-26",
         "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
       }
     },
     "total": {
-      "confirmed": 529331,
+      "confirmed": 529577,
       "deceased": 16103,
       "migrated": 56,
       "recovered": 310146,
