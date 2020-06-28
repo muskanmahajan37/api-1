@@ -2149,11 +2149,14 @@
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "confirmed": 11
+        },
         "meta": {
           "population": 818008
         },
         "total": {
-          "confirmed": 52,
+          "confirmed": 63,
           "deceased": 1,
           "recovered": 6
         }
@@ -2164,19 +2167,22 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "confirmed": 31
+        },
         "total": {
-          "confirmed": 734,
+          "confirmed": 765,
           "deceased": 1,
           "recovered": 164
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 89,
+          "confirmed": 47,
           "recovered": 50
         },
         "total": {
-          "confirmed": 338,
+          "confirmed": 296,
           "recovered": 250
         }
       }
@@ -2198,7 +2204,7 @@
   },
   "GJ": {
     "delta": {
-      "confirmed": 613,
+      "confirmed": 615,
       "deceased": 18,
       "recovered": 379,
       "tested": 5969
@@ -2285,6 +2291,7 @@
       "Banaskantha": {
         "delta": {
           "confirmed": 1,
+          "deceased": 2,
           "tested": 161
         },
         "meta": {
@@ -2295,7 +2302,7 @@
         },
         "total": {
           "confirmed": 169,
-          "deceased": 9,
+          "deceased": 11,
           "recovered": 145,
           "tested": 7827
         }
@@ -2303,6 +2310,7 @@
       "Bharuch": {
         "delta": {
           "confirmed": 8,
+          "deceased": -2,
           "recovered": 7,
           "tested": 73
         },
@@ -2315,7 +2323,7 @@
         },
         "total": {
           "confirmed": 205,
-          "deceased": 8,
+          "deceased": 6,
           "recovered": 100,
           "tested": 4157
         }
@@ -2428,7 +2436,7 @@
       },
       "Gandhinagar": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 9,
           "deceased": 1,
           "recovered": 12,
           "tested": 73
@@ -2440,7 +2448,7 @@
           }
         },
         "total": {
-          "confirmed": 623,
+          "confirmed": 625,
           "deceased": 28,
           "recovered": 443,
           "tested": 8063
@@ -2842,7 +2850,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T21:06:16+05:30",
+      "last_updated": "2020-06-28T08:43:15+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -2850,7 +2858,7 @@
       }
     },
     "total": {
-      "confirmed": 30771,
+      "confirmed": 30773,
       "deceased": 1790,
       "recovered": 22417,
       "tested": 357148
@@ -9068,12 +9076,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 20132,
+      "confirmed": 20134,
       "deceased": 414,
       "recovered": 14229
     },
     "meta": {
-      "last_updated": "2020-06-28T07:11:13+05:30",
+      "last_updated": "2020-06-28T08:43:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -9081,7 +9089,7 @@
       }
     },
     "total": {
-      "confirmed": 529577,
+      "confirmed": 529579,
       "deceased": 16103,
       "migrated": 56,
       "recovered": 310146,
