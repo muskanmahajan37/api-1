@@ -4099,10 +4099,17 @@
         }
       },
       "Palghar": {
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-27",
+            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/4"
+          }
+        },
         "total": {
           "confirmed": 4880,
           "deceased": 101,
-          "recovered": 1508
+          "recovered": 1508,
+          "tested": 26797
         }
       },
       "Parbhani": {
@@ -4321,7 +4328,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T17:03:15+05:30",
+      "last_updated": "2020-06-28T17:13:16+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -7690,7 +7697,7 @@
       "recovered": 855
     },
     "meta": {
-      "last_updated": "2020-06-28T17:03:13+05:30",
+      "last_updated": "2020-06-28T17:13:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
