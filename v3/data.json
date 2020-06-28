@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 4,
+      "recovered": 1
     },
     "districts": {
       "North and Middle Andaman": {
@@ -21,11 +22,12 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 4,
+          "recovered": 1
         },
         "total": {
-          "confirmed": 39,
-          "recovered": 10
+          "confirmed": 40,
+          "recovered": 11
         }
       }
     },
@@ -38,8 +40,8 @@
       }
     },
     "total": {
-      "confirmed": 75,
-      "recovered": 43,
+      "confirmed": 76,
+      "recovered": 44,
       "tested": 14583
     }
   },
@@ -1871,6 +1873,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 2889,
+      "deceased": 65,
+      "recovered": 3306
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1931,10 +1938,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2889,
+          "deceased": 65,
+          "recovered": 3306
+        },
         "total": {
-          "confirmed": 79400,
-          "deceased": 2557,
-          "recovered": 49301
+          "confirmed": 82289,
+          "deceased": 2622,
+          "recovered": 52607
         }
       },
       "West Delhi": {
@@ -1944,7 +1956,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T19:25:15+05:30",
+      "last_updated": "2020-06-28T18:37:19+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -1953,9 +1965,9 @@
       }
     },
     "total": {
-      "confirmed": 80188,
-      "deceased": 2558,
-      "recovered": 49301,
+      "confirmed": 83077,
+      "deceased": 2623,
+      "recovered": 52607,
       "tested": 478336
     }
   },
@@ -3946,7 +3958,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:23:20+05:30",
+      "last_updated": "2020-06-28T18:36:23+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -7196,7 +7208,6 @@
     "delta": {
       "confirmed": 3940,
       "deceased": 54,
-      "migrated": 3,
       "recovered": 1443
     },
     "districts": {
@@ -7251,7 +7262,6 @@
         "delta": {
           "confirmed": 2063,
           "deceased": 33,
-          "migrated": 2,
           "recovered": 813
         },
         "meta": {
@@ -7263,7 +7273,6 @@
         "total": {
           "confirmed": 53762,
           "deceased": 806,
-          "migrated": 2,
           "recovered": 31858,
           "tested": 170701
         }
@@ -7271,7 +7280,6 @@
       "Coimbatore": {
         "delta": {
           "confirmed": 32,
-          "migrated": 1,
           "recovered": 7
         },
         "meta": {
@@ -7284,7 +7292,6 @@
         "total": {
           "confirmed": 460,
           "deceased": 1,
-          "migrated": 1,
           "recovered": 184,
           "tested": 33522
         }
@@ -7898,8 +7905,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:23:16+05:30",
-      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been reduced from active and deceased counts for Chennai",
+      "last_updated": "2020-06-28T18:37:16+05:30",
+      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7909,7 +7916,6 @@
     "total": {
       "confirmed": 82275,
       "deceased": 1079,
-      "migrated": 3,
       "recovered": 45537,
       "tested": 1077454
     }
@@ -8045,13 +8051,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5479,
-      "deceased": 79,
-      "migrated": 3,
-      "recovered": 2755
+      "confirmed": 8369,
+      "deceased": 144,
+      "recovered": 6062
     },
     "meta": {
-      "last_updated": "2020-06-28T18:23:14+05:30",
+      "last_updated": "2020-06-28T18:37:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8059,10 +8064,10 @@
       }
     },
     "total": {
-      "confirmed": 535066,
-      "deceased": 16182,
-      "migrated": 59,
-      "recovered": 312901,
+      "confirmed": 537956,
+      "deceased": 16247,
+      "migrated": 56,
+      "recovered": 316208,
       "tested": 8227802
     }
   },
