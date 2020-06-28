@@ -5064,16 +5064,22 @@
         "delta": {
           "confirmed": 1864,
           "deceased": 3,
-          "recovered": 708
+          "recovered": 708,
+          "tested": 96093
         },
         "meta": {
-          "population": 11060148
+          "population": 11060148,
+          "tested": {
+            "last_updated": "2020-06-27",
+            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/1"
+          }
         },
         "total": {
           "confirmed": 32735,
           "deceased": 819,
           "migrated": 1,
-          "recovered": 13802
+          "recovered": 13802,
+          "tested": 96093
         }
       },
       "Wardha": {
@@ -5694,19 +5700,20 @@
         "delta": {
           "confirmed": 32,
           "deceased": 4,
-          "recovered": 30
+          "recovered": 30,
+          "tested": 1534
         },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
-            "source": "https://twitter.com/tarun28988/status/1276587777950273536/photo/1"
+            "source": "https://twitter.com/tarun28988/status/1276940604371423232?s=20"
           }
         },
         "total": {
           "confirmed": 4575,
           "deceased": 218,
           "recovered": 3397,
-          "tested": 80090
+          "tested": 81624
         }
       },
       "Jabalpur": {
