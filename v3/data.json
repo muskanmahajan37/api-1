@@ -41,7 +41,8 @@
     "delta": {
       "confirmed": 813,
       "deceased": 12,
-      "recovered": 428
+      "recovered": 428,
+      "tested": 25778
     },
     "districts": {
       "Anantapur": {
@@ -306,19 +307,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T13:36:15+05:30",
+      "last_updated": "2020-06-28T13:44:20+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/ArogyaAndhra/status/1276792776168898561?s=20"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 13098,
       "deceased": 169,
       "recovered": 5908,
-      "tested": 816082
+      "tested": 841860
     }
   },
   "AR": {
@@ -7548,7 +7548,7 @@
       "recovered": 521
     },
     "meta": {
-      "last_updated": "2020-06-28T13:36:13+05:30",
+      "last_updated": "2020-06-28T13:44:14+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
