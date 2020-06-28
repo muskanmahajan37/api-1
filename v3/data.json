@@ -2510,12 +2510,19 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 94,
+      "recovered": 334
+    },
     "districts": {
       "Ambala": {
+        "delta": {
+          "recovered": 22
+        },
         "total": {
           "confirmed": 309,
           "deceased": 3,
-          "recovered": 220
+          "recovered": 242
         }
       },
       "Bhiwani": {
@@ -2529,8 +2536,11 @@
         }
       },
       "Charkhi Dadri": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 78,
           "deceased": 1,
           "recovered": 45
         }
@@ -2563,6 +2573,10 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 54,
+          "recovered": 244
+        },
         "meta": {
           "population": 902112,
           "tested": {
@@ -2571,9 +2585,9 @@
           }
         },
         "total": {
-          "confirmed": 5070,
+          "confirmed": 5124,
           "deceased": 83,
-          "recovered": 3469,
+          "recovered": 3713,
           "tested": 27847
         }
       },
@@ -2591,25 +2605,34 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 235,
+          "confirmed": 240,
           "deceased": 4,
           "recovered": 150
         }
       },
       "Jind": {
+        "delta": {
+          "recovered": 39
+        },
         "meta": {
           "population": 1334152
         },
         "total": {
           "confirmed": 100,
           "deceased": 4,
-          "recovered": 36
+          "recovered": 75
         }
       },
       "Kaithal": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 85,
           "recovered": 54
         }
       },
@@ -2624,9 +2647,13 @@
         }
       },
       "Kurukshetra": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 113,
-          "recovered": 78
+          "confirmed": 114,
+          "recovered": 88
         }
       },
       "Mahendragarh": {
@@ -2639,16 +2666,23 @@
         }
       },
       "Nuh": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 177,
+          "confirmed": 182,
           "recovered": 146
         }
       },
       "Palwal": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 298,
+          "confirmed": 303,
           "deceased": 2,
-          "recovered": 211
+          "recovered": 222
         }
       },
       "Panchkula": {
@@ -2661,18 +2695,24 @@
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 166,
+          "confirmed": 171,
           "deceased": 7,
           "recovered": 107
         }
       },
       "Rewari": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 900332
         },
         "total": {
-          "confirmed": 235,
+          "confirmed": 236,
           "deceased": 5,
           "recovered": 82
         }
@@ -2701,17 +2741,21 @@
         }
       },
       "Yamunanagar": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 8
+        },
         "meta": {
           "population": 1214205
         },
         "total": {
-          "confirmed": 98,
-          "recovered": 70
+          "confirmed": 100,
+          "recovered": 78
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T20:15:20+05:30",
+      "last_updated": "2020-06-28T14:13:16+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -2719,9 +2763,9 @@
       }
     },
     "total": {
-      "confirmed": 13427,
+      "confirmed": 13521,
       "deceased": 218,
-      "recovered": 8472,
+      "recovered": 8806,
       "tested": 247139
     }
   },
@@ -7544,12 +7588,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1127,
+      "confirmed": 1221,
       "deceased": 21,
-      "recovered": 521
+      "recovered": 855
     },
     "meta": {
-      "last_updated": "2020-06-28T13:44:14+05:30",
+      "last_updated": "2020-06-28T14:13:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7557,10 +7601,10 @@
       }
     },
     "total": {
-      "confirmed": 530706,
+      "confirmed": 530800,
       "deceased": 16124,
       "migrated": 56,
-      "recovered": 310667,
+      "recovered": 311001,
       "tested": 8227802
     }
   },
