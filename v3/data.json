@@ -5835,14 +5835,22 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 29,
+      "deceased": 1,
+      "recovered": 31
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 200222
         },
         "total": {
           "confirmed": 39,
-          "recovered": 3
+          "recovered": 4
         }
       },
       "Mahe": {
@@ -5852,23 +5860,31 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 28,
+          "deceased": 1,
+          "recovered": 30
+        },
         "meta": {
           "population": 950289
         },
         "total": {
-          "confirmed": 569,
-          "deceased": 10,
-          "recovered": 209
+          "confirmed": 597,
+          "deceased": 11,
+          "recovered": 239
         }
       },
       "Yanam": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T11:45:19+05:30",
+      "last_updated": "2020-06-28T12:23:16+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -5876,9 +5892,9 @@
       }
     },
     "total": {
-      "confirmed": 619,
-      "deceased": 10,
-      "recovered": 221,
+      "confirmed": 648,
+      "deceased": 11,
+      "recovered": 252,
       "tested": 15225
     }
   },
@@ -7448,12 +7464,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 281,
-      "deceased": 8,
-      "recovered": 59
+      "confirmed": 310,
+      "deceased": 9,
+      "recovered": 90
     },
     "meta": {
-      "last_updated": "2020-06-28T11:41:13+05:30",
+      "last_updated": "2020-06-28T12:23:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7461,10 +7477,10 @@
       }
     },
     "total": {
-      "confirmed": 529860,
-      "deceased": 16111,
+      "confirmed": 529889,
+      "deceased": 16112,
       "migrated": 56,
-      "recovered": 310205,
+      "recovered": 310236,
       "tested": 8227802
     }
   },
