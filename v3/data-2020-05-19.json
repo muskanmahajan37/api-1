@@ -2873,10 +2873,10 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         },
         "total": {
-          "confirmed": 129,
+          "confirmed": 130,
           "deceased": 1,
           "recovered": 115
         }
@@ -2906,8 +2906,11 @@
         }
       },
       "Kozhikode": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 37,
           "recovered": 24
         }
       },
@@ -2922,6 +2925,14 @@
           "confirmed": 51,
           "deceased": 1,
           "recovered": 23
+        }
+      },
+      "Other State": {
+        "delta": {
+          "confirmed": -2
+        },
+        "total": {
+          "confirmed": -2
         }
       },
       "Palakkad": {
