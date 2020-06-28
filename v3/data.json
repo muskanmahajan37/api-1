@@ -1407,8 +1407,16 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1417,9 +1425,9 @@
           }
         },
         "total": {
-          "confirmed": 428,
+          "confirmed": 429,
           "deceased": 6,
-          "recovered": 335,
+          "recovered": 336,
           "tested": 7342
         }
       }
@@ -1433,9 +1441,9 @@
       }
     },
     "total": {
-      "confirmed": 428,
+      "confirmed": 429,
       "deceased": 6,
-      "recovered": 335,
+      "recovered": 336,
       "tested": 7342
     }
   },
@@ -1988,7 +1996,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:03:32+05:30",
+      "last_updated": "2020-06-28T18:13:38+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -2663,7 +2671,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:03:24+05:30",
+      "last_updated": "2020-06-28T18:13:35+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3939,7 +3947,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:03:17+05:30",
+      "last_updated": "2020-06-28T18:13:28+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7807,12 +7815,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1420,
+      "confirmed": 1421,
       "deceased": 25,
-      "recovered": 1269
+      "recovered": 1270
     },
     "meta": {
-      "last_updated": "2020-06-28T18:03:13+05:30",
+      "last_updated": "2020-06-28T18:13:16+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7820,10 +7828,10 @@
       }
     },
     "total": {
-      "confirmed": 531007,
+      "confirmed": 531008,
       "deceased": 16128,
       "migrated": 56,
-      "recovered": 311415,
+      "recovered": 311416,
       "tested": 8227802
     }
   },
