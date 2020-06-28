@@ -4278,24 +4278,27 @@
     },
     "districts": {
       "Alappuzha": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 2127789
         },
         "total": {
           "confirmed": 107,
           "deceased": 1,
-          "recovered": 24
+          "recovered": 25
         }
       },
       "Ernakulam": {
         "delta": {
           "confirmed": 2,
-          "recovered": 6
+          "recovered": 5
         },
         "total": {
           "confirmed": 89,
           "deceased": 1,
-          "recovered": 47
+          "recovered": 46
         }
       },
       "Idukki": {
@@ -4308,36 +4311,36 @@
         "delta": {
           "confirmed": 7,
           "deceased": 1,
-          "recovered": 8
+          "recovered": 5
         },
         "total": {
           "confirmed": 282,
           "deceased": 3,
-          "recovered": 168
+          "recovered": 165
         }
       },
       "Kasaragod": {
         "delta": {
           "confirmed": 10,
-          "recovered": 5
+          "recovered": 6
         },
         "meta": {
           "population": 1307375
         },
         "total": {
           "confirmed": 349,
-          "recovered": 240
+          "recovered": 241
         }
       },
       "Kollam": {
         "delta": {
           "confirmed": 8,
-          "recovered": 2
+          "recovered": 4
         },
         "total": {
           "confirmed": 141,
           "deceased": 1,
-          "recovered": 36
+          "recovered": 38
         }
       },
       "Kottayam": {
@@ -4356,12 +4359,12 @@
       "Kozhikode": {
         "delta": {
           "confirmed": 1,
-          "recovered": 3
+          "recovered": 5
         },
         "total": {
           "confirmed": 134,
           "deceased": 1,
-          "recovered": 62
+          "recovered": 64
         }
       },
       "Malappuram": {
@@ -4392,24 +4395,25 @@
       },
       "Pathanamthitta": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 1
         },
         "meta": {
           "population": 1197412
         },
         "total": {
           "confirmed": 120,
-          "recovered": 35
+          "recovered": 36
         }
       },
       "Thiruvananthapuram": {
         "delta": {
-          "recovered": 16
+          "recovered": 13
         },
         "total": {
           "confirmed": 121,
           "deceased": 3,
-          "recovered": 63
+          "recovered": 60
         }
       },
       "Thrissur": {
