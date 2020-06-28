@@ -1952,6 +1952,10 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 8
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
@@ -1961,23 +1965,30 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 8
+        },
         "meta": {
           "population": 191173
         },
         "total": {
-          "confirmed": 77,
-          "recovered": 11
+          "confirmed": 79,
+          "recovered": 19
         }
       },
       "Diu": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 13,
           "recovered": 2
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T15:26:17+05:30",
+      "last_updated": "2020-06-28T18:03:32+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -1985,9 +1996,9 @@
       }
     },
     "total": {
-      "confirmed": 184,
+      "confirmed": 187,
       "migrated": 1,
-      "recovered": 56,
+      "recovered": 64,
       "tested": 30768
     }
   },
@@ -2535,14 +2546,17 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 4,
-      "recovered": 3
+      "confirmed": 8,
+      "recovered": 14
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 43,
-          "recovered": 26
+          "recovered": 28
         }
       },
       "Chamba": {
@@ -2564,16 +2578,16 @@
       },
       "Kangra": {
         "delta": {
-          "confirmed": 4,
-          "recovered": 2
+          "confirmed": 5,
+          "recovered": 7
         },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 255,
+          "confirmed": 256,
           "deceased": 3,
-          "recovered": 138
+          "recovered": 143
         }
       },
       "Kinnaur": {
@@ -2592,8 +2606,11 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 28,
           "deceased": 2,
           "recovered": 21
         }
@@ -2610,20 +2627,27 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 38,
           "migrated": 7,
           "recovered": 17
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "meta": {
           "population": 580320
         },
         "total": {
-          "confirmed": 95,
+          "confirmed": 96,
           "migrated": 4,
-          "recovered": 44
+          "recovered": 48
         }
       },
       "Una": {
@@ -2639,7 +2663,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T12:55:18+05:30",
+      "last_updated": "2020-06-28T18:03:24+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2648,10 +2672,10 @@
       }
     },
     "total": {
-      "confirmed": 898,
+      "confirmed": 902,
       "deceased": 8,
       "migrated": 13,
-      "recovered": 504,
+      "recovered": 515,
       "tested": 74764
     }
   },
@@ -3874,8 +3898,15 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 32
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 32
+        },
         "meta": {
           "population": 140802,
           "tested": {
@@ -3885,11 +3916,14 @@
         },
         "total": {
           "confirmed": 701,
-          "recovered": 400,
+          "recovered": 432,
           "tested": 6436
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -3897,7 +3931,7 @@
           }
         },
         "total": {
-          "confirmed": 259,
+          "confirmed": 262,
           "deceased": 1,
           "recovered": 154,
           "tested": 7281
@@ -3905,7 +3939,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T18:27:16+05:30",
+      "last_updated": "2020-06-28T18:03:17+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -3913,9 +3947,9 @@
       }
     },
     "total": {
-      "confirmed": 960,
+      "confirmed": 963,
       "deceased": 1,
-      "recovered": 554,
+      "recovered": 586,
       "tested": 13717
     }
   },
@@ -7773,12 +7807,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1410,
+      "confirmed": 1420,
       "deceased": 25,
-      "recovered": 1218
+      "recovered": 1269
     },
     "meta": {
-      "last_updated": "2020-06-28T17:48:13+05:30",
+      "last_updated": "2020-06-28T18:03:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7786,10 +7820,10 @@
       }
     },
     "total": {
-      "confirmed": 530997,
+      "confirmed": 531007,
       "deceased": 16128,
       "migrated": 56,
-      "recovered": 311364,
+      "recovered": 311415,
       "tested": 8227802
     }
   },
