@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 3
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -17,14 +20,17 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 39,
           "recovered": 10
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-26T19:15:20+05:30",
+      "last_updated": "2020-06-28T15:43:17+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -32,7 +38,7 @@
       }
     },
     "total": {
-      "confirmed": 72,
+      "confirmed": 75,
       "recovered": 43,
       "tested": 14583
     }
@@ -1364,7 +1370,8 @@
       "last_updated": "2020-06-27T22:04:25+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-06-27"
+        "last_updated": "2020-06-27",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/688"
       }
     },
     "total": {
@@ -7662,12 +7669,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1403,
+      "confirmed": 1406,
       "deceased": 21,
       "recovered": 855
     },
     "meta": {
-      "last_updated": "2020-06-28T15:20:13+05:30",
+      "last_updated": "2020-06-28T15:43:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7675,7 +7682,7 @@
       }
     },
     "total": {
-      "confirmed": 530990,
+      "confirmed": 530993,
       "deceased": 16124,
       "migrated": 56,
       "recovered": 311001,
