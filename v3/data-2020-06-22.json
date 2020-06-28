@@ -4296,7 +4296,8 @@
     "districts": {
       "Alappuzha": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 1
         },
         "meta": {
           "population": 2127789
@@ -4304,7 +4305,7 @@
         "total": {
           "confirmed": 190,
           "deceased": 1,
-          "recovered": 83
+          "recovered": 85
         }
       },
       "Ernakulam": {
@@ -4332,25 +4333,25 @@
       "Kannur": {
         "delta": {
           "confirmed": 3,
-          "recovered": 18
+          "recovered": 14
         },
         "total": {
           "confirmed": 352,
           "deceased": 5,
-          "recovered": 252
+          "recovered": 249
         }
       },
       "Kasaragod": {
         "delta": {
           "confirmed": 9,
-          "recovered": 7
+          "recovered": 9
         },
         "meta": {
           "population": 1307375
         },
         "total": {
           "confirmed": 411,
-          "recovered": 285
+          "recovered": 287
         }
       },
       "Kollam": {
@@ -4380,7 +4381,7 @@
       "Kozhikode": {
         "delta": {
           "confirmed": 5,
-          "recovered": 7
+          "recovered": 8
         },
         "total": {
           "confirmed": 211,
@@ -4391,7 +4392,7 @@
       "Malappuram": {
         "delta": {
           "confirmed": 17,
-          "recovered": 26
+          "recovered": 23
         },
         "meta": {
           "population": 4112920
@@ -4399,7 +4400,7 @@
         "total": {
           "confirmed": 358,
           "deceased": 3,
-          "recovered": 164
+          "recovered": 159
         }
       },
       "Other State": {
@@ -4410,13 +4411,13 @@
       "Palakkad": {
         "delta": {
           "confirmed": 16,
-          "recovered": 11
+          "recovered": 12
         },
         "total": {
           "confirmed": 381,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 214
+          "recovered": 215
         }
       },
       "Pathanamthitta": {
@@ -4444,7 +4445,7 @@
       "Thrissur": {
         "delta": {
           "confirmed": 12,
-          "recovered": 4
+          "recovered": 6
         },
         "meta": {
           "population": 3121200
@@ -4452,7 +4453,7 @@
         "total": {
           "confirmed": 288,
           "deceased": 3,
-          "recovered": 160
+          "recovered": 163
         }
       },
       "Wayanad": {
