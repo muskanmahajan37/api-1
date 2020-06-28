@@ -1956,7 +1956,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:37:19+05:30",
+      "last_updated": "2020-06-28T18:42:21+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -1973,15 +1973,19 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 3,
-      "recovered": 8
+      "confirmed": 4,
+      "recovered": 13
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 95,
+          "confirmed": 96,
           "migrated": 1,
-          "recovered": 43
+          "recovered": 48
         }
       },
       "Daman": {
@@ -2008,7 +2012,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:16:24+05:30",
+      "last_updated": "2020-06-28T18:43:17+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -2016,9 +2020,9 @@
       }
     },
     "total": {
-      "confirmed": 187,
+      "confirmed": 188,
       "migrated": 1,
-      "recovered": 64,
+      "recovered": 69,
       "tested": 30768
     }
   },
@@ -7905,7 +7909,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:37:16+05:30",
+      "last_updated": "2020-06-28T18:42:16+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -8051,12 +8055,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8369,
+      "confirmed": 8370,
       "deceased": 144,
-      "recovered": 6062
+      "recovered": 6067
     },
     "meta": {
-      "last_updated": "2020-06-28T18:37:13+05:30",
+      "last_updated": "2020-06-28T18:43:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8064,10 +8068,10 @@
       }
     },
     "total": {
-      "confirmed": 537956,
+      "confirmed": 537957,
       "deceased": 16247,
       "migrated": 56,
-      "recovered": 316208,
+      "recovered": 316213,
       "tested": 8227802
     }
   },
